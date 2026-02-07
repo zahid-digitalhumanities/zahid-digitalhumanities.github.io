@@ -17,6 +17,12 @@
   box-sizing: border-box;
 }
 
+/* FIX: Prevent font scaling on mobile browsers */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 body {
   font-family: 'Inter', sans-serif;
   color: var(--text-dark);
@@ -92,6 +98,10 @@ body {
   color: white;
   line-height: 1.2;
   letter-spacing: -0.5px;
+  /* FIX: Prevent name from breaking */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .profile-info .title {
