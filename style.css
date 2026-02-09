@@ -93,7 +93,7 @@ body {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
 }
 
 .profile-info h1 {
@@ -119,7 +119,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 6px;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 .contact-item-header {
@@ -128,10 +128,10 @@ body {
   gap: 8px;
   font-size: 0.9rem;
   color: #94a3b8;
+  text-decoration: none;
 }
 
 .contact-item-header i {
-  color: #60a5fa;
   width: 14px;
   text-align: center;
 }
@@ -140,34 +140,39 @@ body {
   word-break: break-word;
 }
 
-/* WhatsApp Chat Button */
-.whatsapp-chat-button {
+/* Specific colors for contact icons */
+.contact-item-header:first-child i {
+  color: #60a5fa; /* Location - Blue */
+}
+
+.contact-item-header:nth-child(2) i {
+  color: #10b981; /* Phone - Green */
+}
+
+.whatsapp-contact i {
+  color: #25D366; /* WhatsApp - Green */
+}
+
+.whatsapp-contact:hover {
+  color: #cbd5e1;
+}
+
+/* Email Contact */
+.email-contact {
   display: flex;
   align-items: center;
-  gap: 10px;
-  background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
-  color: white;
-  padding: 10px 16px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 0.95rem;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: #94a3b8;
   margin-top: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  transition: all 0.3s ease;
-  width: fit-content;
+  padding-top: 5px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.whatsapp-chat-button i {
-  font-size: 1.2rem;
-  color: white;
-}
-
-.whatsapp-chat-button:hover {
-  background: linear-gradient(135deg, #25D366 0%, #075E54 100%);
-  transform: translateY(-2px);
-  box-shadow: 0 6px 15px rgba(37, 211, 102, 0.3);
-  border-color: rgba(255, 255, 255, 0.5);
+.email-contact i {
+  color: #f59e0b; /* Email - Yellow/Orange */
+  width: 14px;
+  text-align: center;
 }
 
 /* Right Column: Single column for both Certifications and Technical Expertise */
@@ -523,45 +528,12 @@ body {
   font-size: 1rem;
 }
 
-/* ========== UPDATED CONTACT CARD - ROW 2, COL 3 ========== */
-.contact-details-updated {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.contact-header {
-  text-align: center;
-  padding-bottom: 12px;
-  border-bottom: 1px solid var(--border-color);
-  margin-bottom: 5px;
-}
-
-.contact-header h3 {
-  font-family: 'Merriweather', serif;
-  font-size: 1.3rem;
-  color: var(--text-dark);
-  margin-bottom: 5px;
-  font-weight: 700;
-}
-
-.contact-title {
-  font-size: 1rem;
-  color: var(--primary-blue);
-  font-weight: 600;
-  margin-bottom: 3px;
-}
-
-.contact-subtitle {
-  font-size: 0.9rem;
-  color: var(--text-light);
-  font-style: italic;
-}
-
+/* ========== SIMPLIFIED CONTACT CARD - ROW 2, COL 3 ========== */
 .contact-items-updated {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  margin-top: 5px;
 }
 
 .contact-item-updated {
@@ -649,13 +621,34 @@ body {
   word-break: break-all;
 }
 
-/* Publications */
+/* Remove old contact header styles */
+.contact-details-updated,
+.contact-header,
+.contact-title,
+.contact-subtitle {
+  display: none;
+}
+
+/* Publications with Link */
 .publication {
   background: var(--light-bg);
   padding: 15px;
   border-radius: 8px;
   margin-bottom: 15px;
   border-left: 3px solid var(--primary-blue);
+  transition: all 0.3s;
+}
+
+.publication-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.publication:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  border-left-color: #10b981;
 }
 
 .publication h3 {
@@ -663,12 +656,31 @@ body {
   color: var(--text-dark);
   margin-bottom: 6px;
   line-height: 1.3;
+  transition: color 0.3s;
+}
+
+.publication-link:hover h3 {
+  color: var(--primary-blue);
 }
 
 .pub-info {
   font-size: 0.85rem;
   color: var(--text-light);
   font-style: italic;
+  margin-bottom: 8px;
+}
+
+.pub-link-icon {
+  font-size: 0.85rem;
+  color: #10b981;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+}
+
+.pub-link-icon i {
+  font-size: 0.8rem;
 }
 
 /* Downloads */
@@ -1141,10 +1153,8 @@ body {
     justify-content: center;
   }
   
-  .whatsapp-chat-button {
-    align-self: center;
-    padding: 10px 14px;
-    font-size: 0.9rem;
+  .email-contact {
+    justify-content: center;
   }
   
   .header-right-col-single {
@@ -1154,18 +1164,6 @@ body {
   .cert-badges-horizontal,
   .expertise-badges-horizontal {
     justify-content: center;
-  }
-  
-  .contact-header h3 {
-    font-size: 1.2rem;
-  }
-  
-  .contact-title {
-    font-size: 0.95rem;
-  }
-  
-  .contact-subtitle {
-    font-size: 0.85rem;
   }
 }
 
