@@ -3,8 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- FIX: Added to prevent font scaling issues on GitHub -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Muhammad Zahid | Digital Humanities Researcher</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,10 +14,10 @@
 
 <div class="app-wrapper">
 
-  <!-- HEADER -->
+  <!-- HEADER - MODIFIED -->
   <header class="main-header">
     <div class="header-content">
-      <!-- Left Column: Profile Info -->
+      <!-- Left Column: Profile Info - UPDATED -->
       <div class="header-left-col">
         <div class="profile-section">
           <div class="profile-image-wrapper">
@@ -28,18 +26,39 @@
           <div class="profile-info">
             <h1>MUHAMMAD ZAHID</h1>
             <p class="title">Digital Humanities & Computational Research Specialist</p>
-            <p class="contact-info">
-              <span class="location"><i class="fas fa-map-marker-alt"></i> Pakistan</span>
-              <span class="phone"><i class="fas fa-phone"></i> +923013824577</span>
-            </p>
+            
+            <div class="contact-details-header">
+              <div class="contact-item-header">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>Pakistan</span>
+              </div>
+              
+              <div class="contact-item-header">
+                <i class="fas fa-phone"></i>
+                <span>+923013824577</span>
+              </div>
+              
+              <div class="contact-item-header">
+                <i class="fas fa-envelope"></i>
+                <span>zahid.digitalhumanities@gmail.com</span>
+              </div>
+            </div>
+            
+            <!-- UPDATED: WhatsApp Chat Button -->
+            <a href="https://wa.me/923013824577?text=Hi%20Zahid,%20I%20visited%20your%20Digital%20Humanities%20portfolio%20and%20would%20like%20to%20discuss%20research%20collaboration%20or%20PhD%20opportunities." 
+               target="_blank" 
+               class="whatsapp-chat-button">
+              <i class="fab fa-whatsapp"></i>
+              <span>Message via WhatsApp</span>
+            </a>
           </div>
         </div>
       </div>
       
-      <!-- Right Column: Certifications and Technical Expertise -->
-      <div class="header-right-col">
-        <!-- Top Row: Certifications -->
-        <div class="header-right-top">
+      <!-- Right Column: All content in single column -->
+      <div class="header-right-col-single">
+        <!-- Certifications Row -->
+        <div class="header-right-row">
           <div class="certifications-section">
             <h3><i class="fas fa-award"></i> CERTIFICATIONS</h3>
             <div class="cert-badges-horizontal">
@@ -50,16 +69,18 @@
           </div>
         </div>
         
-        <!-- Bottom Row: Technical Expertise -->
-        <div class="header-right-bottom">
+        <!-- Technical Expertise Row - UPDATED WITH RELEVANCE PRIORITY -->
+        <div class="header-right-row">
           <div class="expertise-section">
             <h3><i class="fas fa-cogs"></i> TECHNICAL EXPERTISE</h3>
-            <div class="expertise-items-horizontal">
-              <span class="expertise-item">DH Methods (TEI/XML, QGIS)</span>
-              <span class="expertise-item">Python & NLP</span>
-              <span class="expertise-item">Docker & Git</span>
-              <span class="expertise-item">React & Next.js</span>
-              <span class="expertise-item">Transformer Models</span>
+            <div class="expertise-badges-horizontal">
+              <span class="expertise-badge">Python & NLP</span>
+              <span class="expertise-badge">Transformer Models</span>
+              <span class="expertise-badge">DH Methods (TEI/XML, QGIS)</span>
+              <span class="expertise-badge">React & Next.js</span>
+              <span class="expertise-badge">JavaScript</span>
+              <span class="expertise-badge">HTML & CSS</span>
+              <span class="expertise-badge">Docker & Git</span>
             </div>
           </div>
         </div>
@@ -163,7 +184,6 @@
           </div>
           <button class="view-fullscreen-btn" id="viewFullscreenBtn">
             <i class="fas fa-expand"></i> View Full Presentation
-            <span class="fullscreen-hint">(True Fullscreen)</span>
           </button>
         </div>
       </div>
@@ -223,65 +243,71 @@
         </section>
       </div>
       
-      <!-- Column 3: Contact Info (MOVED HERE) -->
+      <!-- Column 3: CONTACT INFO (UPDATED) -->
       <div class="grid-col col-3">
         <div class="card contact-card" id="contact">
           <div class="section-header">
-            <i class="fas fa-envelope"></i>
-            <h2>Contact Info</h2>
+            <i class="fas fa-id-card"></i>
+            <h2>Contact & Profiles</h2>
           </div>
-          <div class="contact-details-compact">
-            <a href="mailto:zahidrana708@gmail.com" class="contact-item-compact">
-              <div class="contact-icon">
-                <i class="fas fa-envelope"></i>
-              </div>
-              <div class="contact-text">
-                <strong>Email</strong>
-                <span>zahidrana708@gmail.com</span>
-              </div>
-              <div class="contact-arrow">
-                <i class="fas fa-external-link-alt"></i>
-              </div>
-            </a>
+          <div class="contact-details-updated">
+            <div class="contact-header">
+              <h3>Muhammad Zahid</h3>
+              <p class="contact-title">Digital Humanities Researcher</p>
+              <p class="contact-subtitle">Urdu NLP | Computational Philology</p>
+            </div>
             
-            <a href="https://linkedin.com/in/muhammad-zahid-urdu-nlp" target="_blank" class="contact-item-compact">
-              <div class="contact-icon">
-                <i class="fab fa-linkedin"></i>
-              </div>
-              <div class="contact-text">
-                <strong>LinkedIn</strong>
-                <span>/in/muhammad-zahid-urdu-nlp</span>
-              </div>
-              <div class="contact-arrow">
-                <i class="fas fa-external-link-alt"></i>
-              </div>
-            </a>
-            
-            <a href="https://github.com/zahid-digitalhumanities" target="_blank" class="contact-item-compact">
-              <div class="contact-icon">
-                <i class="fab fa-github"></i>
-              </div>
-              <div class="contact-text">
-                <strong>GitHub</strong>
-                <span>/zahid-digitalhumanities</span>
-              </div>
-              <div class="contact-arrow">
-                <i class="fas fa-external-link-alt"></i>
-              </div>
-            </a>
-            
-            <a href="https://x.com/ZahidUrduDH" target="_blank" class="contact-item-compact">
-              <div class="contact-icon">
-                <i class="fab fa-twitter"></i>
-              </div>
-              <div class="contact-text">
-                <strong>Twitter</strong>
-                <span>@ZahidUrduDH</span>
-              </div>
-              <div class="contact-arrow">
-                <i class="fas fa-external-link-alt"></i>
-              </div>
-            </a>
+            <div class="contact-items-updated">
+              <a href="https://github.com/zahid-digitalhumanities" target="_blank" class="contact-item-updated">
+                <div class="contact-icon">
+                  <i class="fab fa-github"></i>
+                </div>
+                <div class="contact-content">
+                  <strong>GitHub</strong>
+                  <span>zahid-digitalhumanities</span>
+                </div>
+              </a>
+              
+              <a href="https://x.com/ZahidUrduDH" target="_blank" class="contact-item-updated">
+                <div class="contact-icon">
+                  <i class="fab fa-twitter"></i>
+                </div>
+                <div class="contact-content">
+                  <strong>Twitter / X</strong>
+                  <span>@ZahidUrduDH</span>
+                </div>
+              </a>
+              
+              <a href="https://facebook.com/zahid.digitalhumanities" target="_blank" class="contact-item-updated">
+                <div class="contact-icon">
+                  <i class="fab fa-facebook"></i>
+                </div>
+                <div class="contact-content">
+                  <strong>Facebook</strong>
+                  <span>zahid.digitalhumanities</span>
+                </div>
+              </a>
+              
+              <a href="https://linkedin.com/in/muhammad-zahid-urdu-nlp" target="_blank" class="contact-item-updated">
+                <div class="contact-icon">
+                  <i class="fab fa-linkedin"></i>
+                </div>
+                <div class="contact-content">
+                  <strong>LinkedIn</strong>
+                  <span>muhammad-zahid-urdu-nlp</span>
+                </div>
+              </a>
+              
+              <a href="mailto:zahid.digitalhumanities@gmail.com" class="contact-item-updated">
+                <div class="contact-icon">
+                  <i class="fas fa-envelope"></i>
+                </div>
+                <div class="contact-content">
+                  <strong>Academic Email</strong>
+                  <span>zahid.digitalhumanities@gmail.com</span>
+                </div>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -361,14 +387,14 @@
     </div>
   </div>
 
-  <!-- FOOTER - SIMPLIFIED -->
+  <!-- FOOTER - UPDATED (Contact Info Removed) -->
   <footer class="main-footer">
     <div class="footer-content">
       <h2><i class="fas fa-handshake"></i> Let's Collaborate</h2>
       <p>Interested in Low-Resource NLP or Digital Philology? Connect with me for research collaborations or PhD opportunities.</p>
       
       <div class="social-links">
-        <a href="mailto:zahidrana708@gmail.com" class="social-btn">
+        <a href="mailto:zahid.digitalhumanities@gmail.com" class="social-btn">
           <i class="fas fa-envelope"></i> Email
         </a>
         <a href="https://linkedin.com/in/muhammad-zahid-urdu-nlp" target="_blank" class="social-btn">
@@ -380,6 +406,9 @@
         <a href="https://x.com/ZahidUrduDH" target="_blank" class="social-btn">
           <i class="fab fa-twitter"></i> Twitter
         </a>
+        <a href="https://facebook.com/zahid.digitalhumanities" target="_blank" class="social-btn">
+          <i class="fab fa-facebook"></i> Facebook
+        </a>
       </div>
       
       <div class="copyright">
@@ -389,23 +418,10 @@
   </footer>
 </div>
 
-<!-- TRUE FULLSCREEN MODAL -->
+<!-- FULLSCREEN MODAL -->
 <div class="fullscreen-modal" id="fullscreenModal">
-  <!-- Add floating elements that will show in true fullscreen -->
-  <button class="exit-fullscreen-btn" id="exitFullscreenBtn" style="display: none;">
-    <i class="fas fa-compress"></i> Exit Fullscreen (ESC)
-  </button>
-  
-  <div class="slide-number-floating" id="floatingSlideNumber" style="display: none;">
-    <span id="floatingCurrentSlide">1</span> / <span id="floatingTotalSlides">15</span>
-  </div>
-  
-  <div class="modal-progress">
-    <div class="modal-progress-bar" id="progressBar"></div>
-  </div>
-  
   <div class="modal-header">
-    <h3><i class="fas fa-desktop"></i> Research Presentation - True Fullscreen View</h3>
+    <h3><i class="fas fa-desktop"></i> Research Presentation - Fullscreen View</h3>
     <button class="modal-close" id="modalClose">
       <i class="fas fa-times"></i> Close (ESC)
     </button>
@@ -423,7 +439,7 @@
       
       <div class="modal-slide-info">
         <span id="modalCurrentSlide">1</span> of <span id="modalTotalSlides">15</span>
-        <div class="modal-slide-title" id="modalSlideTitle">Computational Philology for the Urdu Canon</div>
+        <div class="modal-slide-title" id="modalSlideTitle">Research Overview</div>
       </div>
       
       <button class="modal-nav-btn modal-next-btn">
@@ -432,8 +448,7 @@
     </div>
     
     <div class="modal-hint">
-      <i class="fas fa-info-circle"></i> 
-      Use ← → arrows, Spacebar, or click to navigate • ESC to exit • F11 for browser fullscreen
+      <i class="fas fa-info-circle"></i> Use ← → arrows, Spacebar, or click to navigate • ESC to exit
     </div>
   </div>
 </div>
