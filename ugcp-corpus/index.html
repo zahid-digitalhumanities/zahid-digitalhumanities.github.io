@@ -3,757 +3,1017 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zahid Digital Humanities | UGCP Dashboard</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Muhammad Zahid | Urdu Computational Philology | Digital Humanities</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Jameel Noori Nastaleeq Font -->
+    <style>
+        @font-face {
+            font-family: 'Jameel Noori Nastaleeq';
+            src: url('https://www.fontsaddict.com/fontface/jameel-noori-nastaleeq.ttf');
+        }
+        .urdu-text {
+            font-family: 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', 'Arial', sans-serif;
+            line-height: 2.5;
+            font-size: 1.8rem;
+        }
+    </style>
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Charts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        :root {
+            --primary: #1e3c72;
+            --primary-dark: #0a1a2f;
+            --secondary: #2a5298;
+            --accent: #c9a959;
+            --border: #e2e8f0;
+            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
         }
 
         body {
-            background: #f8f9fa;
+            font-family: 'Inter', sans-serif;
+            background: #f1f5f9;
+            padding: 20px;
         }
 
-        /* Profile Header */
-        .profile-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 40px 20px;
-            text-align: center;
-        }
-
-        .profile-container {
-            max-width: 1200px;
+        .container {
+            max-width: 1400px;
             margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
         }
 
-        .profile-pic {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 5px solid white;
-            margin-bottom: 20px;
-            object-fit: cover;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        }
-
-        .profile-name {
-            font-size: 2.5em;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-
-        .profile-title {
-            font-size: 1.2em;
-            opacity: 0.95;
-            margin-bottom: 20px;
-        }
-
-        .profile-tags {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            margin-bottom: 30px;
-        }
-
-        .profile-tag {
-            background: rgba(255,255,255,0.2);
-            padding: 8px 20px;
-            border-radius: 25px;
-            font-size: 0.9em;
-            backdrop-filter: blur(5px);
-        }
-
-        .contact-links {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
-            margin: 30px 0;
-        }
-
-        .contact-link {
+        /* ===== HEADER - 2 ROWS & COLUMNS ===== */
+        .header {
+            background: linear-gradient(135deg, #0b1c3a 0%, #1d3b5c 100%);
             color: white;
-            text-decoration: none;
-            padding: 10px 20px;
+            padding: 25px 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .header-row-1 {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 30px;
+            align-items: center;
+        }
+
+        .profile {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .profile-image {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: 3px solid var(--accent);
+            object-fit: cover;
+        }
+
+        .profile-text h1 {
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .profile-text .title {
+            color: #e6d5a8;
+            margin: 5px 0;
+        }
+
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .badge {
             background: rgba(255,255,255,0.1);
-            border-radius: 25px;
-            display: inline-flex;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: flex-end;
+        }
+
+        .contact-item {
+            color: rgba(255,255,255,0.9);
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .header-row-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            background: rgba(255,255,255,0.05);
+            padding: 15px 20px;
+            border-radius: 12px;
+        }
+
+        .certs, .expertise {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .certs h3, .expertise h3 {
+            color: var(--accent);
+            font-size: 1rem;
+            display: flex;
             align-items: center;
             gap: 8px;
+        }
+
+        .cert-items, .expertise-items {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .cert-item, .expertise-item {
+            background: rgba(255,255,255,0.1);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+        }
+
+        /* ===== NAVIGATION SLIDER ===== */
+        .nav-slider {
+            background: white;
+            padding: 15px 30px;
+            border-bottom: 1px solid var(--border);
+            overflow-x: auto;
+            white-space: nowrap;
+            scrollbar-width: thin;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-slider::-webkit-scrollbar {
+            height: 4px;
+        }
+
+        .nav-slider::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 10px;
+        }
+
+        .nav-links {
+            display: inline-flex;
+            gap: 30px;
+        }
+
+        .nav-links a {
+            color: #475569;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.9rem;
+            padding: 5px 0;
+            border-bottom: 2px solid transparent;
             transition: all 0.3s;
+            cursor: pointer;
         }
 
-        .contact-link:hover {
-            background: rgba(255,255,255,0.2);
-            transform: translateY(-2px);
+        .nav-links a:hover {
+            color: var(--primary);
+            border-bottom-color: var(--accent);
         }
 
-        /* Main Dashboard */
-        .dashboard {
-            max-width: 1400px;
-            margin: -50px auto 40px;
-            padding: 0 20px;
-            position: relative;
+        .nav-links a.active {
+            color: var(--primary);
+            border-bottom-color: var(--accent);
+        }
+
+        /* ===== MAIN CONTENT - GRID LAYOUT ===== */
+        .main {
+            padding: 30px;
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 25px;
+        }
+
+        .left-col {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+        }
+
+        .right-col {
+            background: linear-gradient(135deg, #0b1c3a 0%, #1d3b5c 100%);
+            border-radius: 20px;
+            padding: 20px;
+            color: white;
+            position: sticky;
+            top: 80px;
+            height: fit-content;
         }
 
         /* Stats Cards */
         .stats-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin-bottom: 40px;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
         }
 
         .stat-card {
             background: white;
-            border-radius: 15px;
-            padding: 25px;
+            padding: 20px;
+            border-radius: 16px;
             text-align: center;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-            transition: transform 0.3s;
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
         }
 
-        .stat-card:hover {
-            transform: translateY(-5px);
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
         }
 
-        .stat-icon {
-            font-size: 2em;
-            margin-bottom: 10px;
-        }
-
-        .stat-number {
-            font-size: 2.2em;
-            font-weight: bold;
-            color: #667eea;
-            margin: 10px 0;
-        }
-
-        .stat-label {
-            color: #666;
-            font-size: 0.95em;
-        }
-
-        /* Research Focus Section */
-        .research-section {
+        /* Sections */
+        .section {
             background: white;
-            border-radius: 20px;
-            padding: 40px;
-            margin-bottom: 40px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid var(--border);
+            scroll-margin-top: 100px;
         }
 
-        .research-title {
-            font-size: 2em;
-            color: #333;
-            margin-bottom: 20px;
-            border-bottom: 3px solid #667eea;
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
             padding-bottom: 10px;
-            display: inline-block;
+            border-bottom: 2px solid var(--accent);
         }
 
-        .research-content {
+        .section-header h2 {
+            font-size: 1.2rem;
+            color: var(--primary);
+        }
+
+        /* Tables */
+        .table-container {
+            overflow-x: auto;
+            max-height: 250px;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.85rem;
+        }
+
+        th {
+            background: #f8fafc;
+            padding: 8px 10px;
+            position: sticky;
+            top: 0;
+        }
+
+        td {
+            padding: 6px 10px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        /* Charts Grid */
+        .charts-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 40px;
+            gap: 15px;
         }
 
-        .research-text {
-            line-height: 1.8;
-            color: #555;
+        .chart-card {
+            background: white;
+            padding: 15px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
         }
 
-        .research-highlight {
-            background: linear-gradient(135deg, #667eea10 0%, #764ba210 100%);
-            padding: 20px;
-            border-radius: 15px;
-            border-left: 4px solid #667eea;
+        .chart-container {
+            height: 200px;
         }
 
-        /* Education Grid */
+        /* Education Cards */
         .education-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin: 15px 0;
         }
 
-        .education-card {
-            background: #f8f9ff;
-            border-radius: 15px;
-            padding: 25px;
-            border: 1px solid #e0e7ff;
+        .edu-card {
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 12px;
+            border-left: 3px solid var(--accent);
         }
 
-        .education-degree {
-            font-size: 1.3em;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 15px;
+        .edu-card h3 {
+            font-size: 1rem;
+            margin-bottom: 8px;
         }
 
-        .education-list {
+        .edu-card ul {
             list-style: none;
-            padding: 0;
         }
 
-        .education-list li {
-            padding: 8px 0;
-            color: #555;
+        .edu-card li {
+            font-size: 0.85rem;
+            color: #475569;
+            padding: 3px 0;
+        }
+
+        /* Ghazal Viewer */
+        .poet-selector {
+            display: flex;
+            gap: 5px;
+            overflow-x: auto;
+            padding: 10px 0;
+        }
+
+        .poet-btn {
+            background: rgba(255,255,255,0.1);
+            border: none;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.3s;
+        }
+
+        .poet-btn.active, .poet-btn:hover {
+            background: var(--accent);
+            color: var(--primary);
+        }
+
+        .ghazal-slider {
+            display: flex;
+            gap: 15px;
+            overflow-x: auto;
+            padding: 15px 0;
+            scrollbar-width: thin;
+        }
+
+        .ghazal-slider::-webkit-scrollbar {
+            height: 4px;
+        }
+
+        .ghazal-slider::-webkit-scrollbar-thumb {
+            background: var(--accent);
+            border-radius: 10px;
+        }
+
+        .ghazal-card {
+            min-width: 280px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 1px solid transparent;
+        }
+
+        .ghazal-card:hover {
+            background: rgba(255,255,255,0.2);
+            transform: translateY(-5px);
+            border-color: var(--accent);
+        }
+
+        .ghazal-card.playing {
+            border: 2px solid var(--accent);
+            background: rgba(201, 169, 89, 0.2);
+        }
+
+        .ghazal-card .urdu {
+            font-family: 'Jameel Noori Nastaleeq', serif;
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            line-height: 2;
+        }
+
+        .ghazal-card .roman {
+            font-size: 0.9rem;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 15px;
+            display: none;
+        }
+
+        .ghazal-card .english {
+            font-size: 0.9rem;
+            color: rgba(255,255,255,0.8);
+            margin-bottom: 15px;
+            display: none;
+        }
+
+        .ghazal-card .info {
+            display: flex;
+            justify-content: space-between;
+            color: var(--accent);
+            font-size: 0.8rem;
+            margin-top: 10px;
+        }
+
+        .play-indicator {
+            color: var(--accent);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+
+        .language-tabs {
+            display: flex;
+            gap: 5px;
+            background: rgba(255,255,255,0.1);
+            padding: 4px;
+            border-radius: 30px;
+            width: fit-content;
+            margin: 15px 0;
+        }
+
+        .lang-tab {
+            padding: 5px 15px;
+            border-radius: 25px;
+            background: transparent;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .lang-tab.active {
+            background: var(--accent);
+            color: var(--primary);
+        }
+
+        /* Audio Player */
+        .audio-player {
+            background: rgba(255,255,255,0.1);
+            border-radius: 50px;
+            padding: 10px 15px;
+            margin-top: 15px;
             display: flex;
             align-items: center;
             gap: 10px;
         }
 
-        .education-list li::before {
-            content: "•";
-            color: #667eea;
-            font-weight: bold;
-        }
-
-        /* 3-Tier Framework */
-        .framework-grid {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 25px;
-            margin: 40px 0;
-        }
-
-        .framework-card {
-            background: white;
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.05);
-            border: 1px solid #e0e7ff;
+        .play-btn {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--accent);
+            border: none;
+            color: var(--primary);
+            cursor: pointer;
             transition: all 0.3s;
         }
 
-        .framework-card:hover {
-            box-shadow: 0 10px 30px rgba(102,126,234,0.2);
-            transform: translateY(-5px);
+        .play-btn:hover {
+            transform: scale(1.1);
         }
 
-        .framework-icon {
-            font-size: 2.5em;
-            margin-bottom: 20px;
+        .progress-bar {
+            flex: 1;
+            height: 4px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 2px;
+            cursor: pointer;
         }
 
-        .framework-title {
-            font-size: 1.3em;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 15px;
+        .progress-fill {
+            width: 0%;
+            height: 100%;
+            background: var(--accent);
+            border-radius: 2px;
+            transition: width 0.1s;
         }
 
-        .framework-list {
-            list-style: none;
-            padding: 0;
-        }
-
-        .framework-list li {
-            padding: 8px 0;
-            color: #666;
-            border-bottom: 1px dashed #e0e7ff;
-        }
-
-        /* Publications */
-        .publications-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 30px;
-        }
-
-        .publication-card {
-            background: #f8f9ff;
-            border-radius: 15px;
-            padding: 25px;
-            border: 1px solid #e0e7ff;
-            transition: all 0.3s;
-        }
-
-        .publication-card:hover {
-            background: white;
-            box-shadow: 0 5px 20px rgba(102,126,234,0.15);
-        }
-
-        .publication-title {
-            font-size: 1.1em;
-            font-weight: bold;
-            color: #333;
-            margin-bottom: 10px;
-            line-height: 1.4;
-        }
-
-        .publication-meta {
-            color: #667eea;
-            font-size: 0.9em;
-            margin-bottom: 15px;
-        }
-
-        .publication-link {
-            display: inline-block;
-            padding: 8px 20px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            text-decoration: none;
-            border-radius: 25px;
-            font-size: 0.9em;
-            transition: all 0.3s;
-        }
-
-        .publication-link:hover {
-            transform: translateX(5px);
-            box-shadow: 0 5px 15px rgba(102,126,234,0.4);
-        }
-
-        /* PhD Section */
-        .phd-section {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            border-radius: 20px;
-            padding: 60px 40px;
-            margin: 40px 0;
-            color: white;
-            text-align: center;
-        }
-
-        .phd-title {
-            font-size: 2.5em;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-
-        .phd-text {
-            font-size: 1.2em;
-            opacity: 0.95;
-            max-width: 800px;
-            margin: 0 auto 30px;
-            line-height: 1.6;
-        }
-
-        .phd-button {
-            display: inline-block;
-            padding: 15px 40px;
-            background: white;
-            color: #667eea;
-            text-decoration: none;
-            border-radius: 50px;
-            font-weight: bold;
-            font-size: 1.1em;
-            transition: all 0.3s;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        }
-
-        .phd-button:hover {
-            transform: scale(1.05);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
-        }
-
-        /* Chart Container */
-        .chart-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-            gap: 30px;
-            margin: 40px 0;
-        }
-
-        .chart-card {
-            background: white;
-            border-radius: 20px;
-            padding: 25px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-        }
-
-        .chart-container {
-            height: 350px;
-            position: relative;
+        .time {
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.8);
         }
 
         /* Footer */
         .footer {
-            background: #2d3748;
+            background: var(--primary-dark);
             color: white;
             padding: 40px;
-            border-radius: 20px 20px 0 0;
-            margin-top: 60px;
-        }
-
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 40px;
-        }
-
-        .footer-links {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .footer-link {
-            color: #cbd5e0;
-            text-decoration: none;
-            transition: color 0.3s;
-        }
-
-        .footer-link:hover {
-            color: white;
-        }
-
-        .copyright {
             text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #4a5568;
-            color: #a0aec0;
-        }
-
-        @media (max-width: 768px) {
-            .research-content,
-            .framework-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .chart-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .profile-name {
-                font-size: 1.8em;
-            }
+            margin-top: 30px;
         }
     </style>
 </head>
 <body>
-    <!-- Profile Header -->
-    <div class="profile-header">
-        <div class="profile-container">
-            <!-- Profile Picture -->
-            <img src="zahid.jpeg" alt="Muhammad Zahid" class="profile-pic" onerror="this.src='https://via.placeholder.com/150'">
-            
-            <h1 class="profile-name">MUHAMMAD ZAHID</h1>
-            <div class="profile-title">Digital Humanities & Computational Research Specialist</div>
-            
-            <!-- Tags -->
-            <div class="profile-tags">
-                <span class="profile-tag">🔬 AI/ML Certified</span>
-                <span class="profile-tag">💻 Full-Stack Certified</span>
-                <span class="profile-tag">📚 DH Methods</span>
-                <span class="profile-tag">🐍 Python & NLP</span>
-                <span class="profile-tag">🤖 Transformer Models</span>
-                <span class="profile-tag">📄 TEI/XML</span>
-                <span class="profile-tag">⚛️ React & Next.js</span>
-                <span class="profile-tag">🐳 Docker & Git</span>
-            </div>
-            
-            <!-- Contact Links -->
-            <div class="contact-links">
-                <a href="mailto:zahid.digitalhumanities@gmail.com" class="contact-link">📧 Email</a>
-                <a href="https://github.com/zahid-digitalhumanities" class="contact-link">🐙 GitHub</a>
-                <a href="https://twitter.com/ZahidUrduDH" class="contact-link">🐦 Twitter</a>
-                <a href="https://linkedin.com/in/muhammad-zahid-urdu-nlp" class="contact-link">🔗 LinkedIn</a>
-                <a href="https://facebook.com/zahid.digitalhumanities" class="contact-link">📘 Facebook</a>
-                <a href="tel:+923013824577" class="contact-link">📞 +92 301 3824577</a>
-                <a href="https://wa.me/923013824577" class="contact-link">💬 WhatsApp</a>
-            </div>
-        </div>
-    </div>
-
-    <!-- Main Dashboard -->
-    <div class="dashboard">
-        <!-- Stats Cards -->
-        <div class="stats-grid">
-            <div class="stat-card">
-                <div class="stat-icon">📚</div>
-                <div class="stat-number">9</div>
-                <div class="stat-label">Classical Poets</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon">📝</div>
-                <div class="stat-number">624</div>
-                <div class="stat-label">Unique Ghazals</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon">📊</div>
-                <div class="stat-number">32.5K</div>
-                <div class="stat-label">Total Words</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon">🏷️</div>
-                <div class="stat-number">9</div>
-                <div class="stat-label">Sentiment Types</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-icon">📄</div>
-                <div class="stat-number">27</div>
-                <div class="stat-label">JSON Files</div>
-            </div>
-        </div>
-
-        <!-- Research Focus Section -->
-        <div class="research-section">
-            <h2 class="research-title">🔬 Research Focus</h2>
-            <div class="research-content">
-                <div class="research-text">
-                    <p>I am an interdisciplinary researcher combining formal training in <strong>Computer Science</strong> with advanced literary studies in <strong>Urdu, Arabic, and Persian</strong>.</p>
-                    <p>My primary mission is to bridge traditional philology with data-driven methods to preserve the Urdu poetic canon.</p>
-                    
-                    <div class="research-highlight" style="margin-top: 20px;">
-                        <strong>🎯 Seeking PhD Supervision in Digital Humanities (2026)</strong>
-                        <p style="margin-top: 10px; font-size: 0.95em;">Pursuing interdisciplinary research at the intersection of computational linguistics and digital preservation of classical literary heritage</p>
+    <div class="container">
+        <!-- HEADER - 2 ROWS & COLUMNS -->
+        <header class="header">
+            <!-- Row 1 -->
+            <div class="header-row-1">
+                <div class="profile">
+                    <img src="zahid.jpeg" alt="Muhammad Zahid" class="profile-image" onerror="this.src='https://via.placeholder.com/100'">
+                    <div class="profile-text">
+                        <h1>MUHAMMAD ZAHID</h1>
+                        <div class="title">Digital Humanities & Computational Philology</div>
+                        <div class="badges">
+                            <span class="badge">MCS (CS)</span>
+                            <span class="badge">M.A. Urdu</span>
+                            <span class="badge">NLP Specialist</span>
+                            <span class="badge">Published Author</span>
+                        </div>
                     </div>
                 </div>
-                
-                <div>
-                    <h3 style="margin-bottom: 20px; color: #333;">📚 Education</h3>
+                <div class="contact-info">
+                    <a href="#" class="contact-item"><i class="fas fa-envelope"></i> Email</a>
+                    <a href="#" class="contact-item"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="#" class="contact-item"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="#" class="contact-item"><i class="fas fa-phone"></i> +92 301 3824577</a>
+                </div>
+            </div>
+            
+            <!-- Row 2 -->
+            <div class="header-row-2">
+                <div class="certs">
+                    <h3><i class="fas fa-certificate"></i> CERTIFICATIONS</h3>
+                    <div class="cert-items">
+                        <span class="cert-item">AI/ML Certified</span>
+                        <span class="cert-item">Full-Stack</span>
+                        <span class="cert-item">DH Methods</span>
+                    </div>
+                </div>
+                <div class="expertise">
+                    <h3><i class="fas fa-cogs"></i> TECHNICAL EXPERTISE</h3>
+                    <div class="expertise-items">
+                        <span class="expertise-item">Python & NLP</span>
+                        <span class="expertise-item">Transformer Models</span>
+                        <span class="expertise-item">TEI/XML</span>
+                        <span class="expertise-item">Docker & Git</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- NAVIGATION SLIDER -->
+        <div class="nav-slider">
+            <div class="nav-links">
+                <a onclick="scrollToSection('corpus')"><i class="fas fa-database"></i> Corpus</a>
+                <a onclick="scrollToSection('stylometric')"><i class="fas fa-chart-line"></i> Stylometric</a>
+                <a onclick="scrollToSection('rhyme')"><i class="fas fa-music"></i> Rhyme</a>
+                <a onclick="scrollToSection('sentiment')"><i class="fas fa-heart"></i> Sentiment</a>
+                <a onclick="scrollToSection('topics')"><i class="fas fa-tags"></i> Topics</a>
+                <a onclick="scrollToSection('periods')"><i class="fas fa-clock"></i> Time Periods</a>
+                <a onclick="scrollToSection('similarity')"><i class="fas fa-project-diagram"></i> Similarity</a>
+                <a onclick="scrollToSection('publications')"><i class="fas fa-file-alt"></i> Publication</a>
+            </div>
+        </div>
+
+        <!-- MAIN CONTENT - 2 COLUMNS -->
+        <div class="main">
+            <!-- LEFT COLUMN - All Analysis -->
+            <div class="left-col">
+                <!-- Stats Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card"><div class="stat-value">9</div><div>Poets</div></div>
+                    <div class="stat-card"><div class="stat-value">624</div><div>Ghazals</div></div>
+                    <div class="stat-card"><div class="stat-value">32K</div><div>Words</div></div>
+                    <div class="stat-card"><div class="stat-value">27</div><div>JSON</div></div>
+                </div>
+
+                <!-- Education Section -->
+                <div class="section" id="education">
+                    <div class="section-header"><i class="fas fa-graduation-cap"></i><h2>Education</h2></div>
                     <div class="education-grid">
-                        <div class="education-card">
-                            <div class="education-degree">MCS (Computer Science)</div>
-                            <ul class="education-list">
-                                <li>Artificial Intelligence & Machine Learning</li>
-                                <li>Software Development & Engineering</li>
-                            </ul>
-                        </div>
-                        <div class="education-card">
-                            <div class="education-degree">M.A. (Urdu Literature)</div>
-                            <ul class="education-list">
-                                <li>Classical Poetry & Philology</li>
-                                <li>Urdu, Arabic, Persian Literary Studies</li>
-                            </ul>
-                        </div>
+                        <div class="edu-card"><h3>MCS (Computer Science)</h3><ul><li>AI & Machine Learning</li><li>Software Engineering</li></ul></div>
+                        <div class="edu-card"><h3>M.A. (Urdu Literature)</h3><ul><li>Classical Poetry</li><li>Philology</li></ul></div>
                     </div>
                 </div>
+
+                <!-- Corpus Section -->
+                <section id="corpus" class="section">
+                    <div class="section-header"><i class="fas fa-database"></i><h2>Corpus Overview</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Ghazals</th><th>Period</th></tr>
+                            <tr><td>Ghalib</td><td>99</td><td>Classical</td></tr>
+                            <tr><td>Iqbal</td><td>109</td><td>Classical</td></tr>
+                            <tr><td>Mir</td><td>50</td><td>Classical</td></tr>
+                            <tr><td>Faiz</td><td>85</td><td>Modern</td></tr>
+                            <tr><td>Fraz</td><td>86</td><td>Modern</td></tr>
+                            <tr><td>Parveen</td><td>41</td><td>Modern</td></tr>
+                            <tr><td>Noshi</td><td>70</td><td>Contemporary</td></tr>
+                            <tr><td>Kazmi</td><td>34</td><td>Contemporary</td></tr>
+                            <tr><td>Wasi</td><td>50</td><td>Contemporary</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Charts -->
+                <div class="charts-grid">
+                    <div class="chart-card"><h3>Poet Distribution</h3><div class="chart-container"><canvas id="poetPieChart"></canvas></div></div>
+                    <div class="chart-card"><h3>Ghazals by Poet</h3><div class="chart-container"><canvas id="poetBarChart"></canvas></div></div>
+                </div>
+
+                <!-- Stylometric Section -->
+                <section id="stylometric" class="section">
+                    <div class="section-header"><i class="fas fa-chart-line"></i><h2>Stylometric Analysis</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Words</th><th>Unique</th><th>TTR%</th></tr>
+                            <tr><td>Ghalib</td><td>5,208</td><td>1,143</td><td>21.9%</td></tr>
+                            <tr><td>Iqbal</td><td>6,009</td><td>1,340</td><td>22.3%</td></tr>
+                            <tr><td>Mir</td><td>2,998</td><td>563</td><td>18.8%</td></tr>
+                            <tr><td>Faiz</td><td>3,603</td><td>703</td><td>19.5%</td></tr>
+                            <tr><td>Fraz</td><td>3,385</td><td>564</td><td>16.7%</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Rhyme Section -->
+                <section id="rhyme" class="section">
+                    <div class="section-header"><i class="fas fa-music"></i><h2>Rhyme Analysis</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Common Qaafiya</th><th>Radif</th></tr>
+                            <tr><td>Ghalib</td><td>ان</td><td>ہے</td></tr>
+                            <tr><td>Iqbal</td><td>وں</td><td>کو</td></tr>
+                            <tr><td>Mir</td><td>اں</td><td>تک</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Sentiment Section -->
+                <section id="sentiment" class="section">
+                    <div class="section-header"><i class="fas fa-heart"></i><h2>Sentiment Analysis</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Ishq%</th><th>Dard%</th><th>Judaai%</th></tr>
+                            <tr><td>Ghalib</td><td>28%</td><td>35%</td><td>18%</td></tr>
+                            <tr><td>Iqbal</td><td>15%</td><td>12%</td><td>8%</td></tr>
+                            <tr><td>Mir</td><td>22%</td><td>28%</td><td>20%</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Topics Section -->
+                <section id="topics" class="section">
+                    <div class="section-header"><i class="fas fa-tags"></i><h2>Topic Analysis</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Dominant Theme</th><th>Secondary</th></tr>
+                            <tr><td>Ghalib</td><td>Philosophical</td><td>Suffering</td></tr>
+                            <tr><td>Iqbal</td><td>Philosophical</td><td>Selfhood</td></tr>
+                            <tr><td>Mir</td><td>Suffering</td><td>Love</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Time Periods Section -->
+                <section id="periods" class="section">
+                    <div class="section-header"><i class="fas fa-clock"></i><h2>Time Periods</h2></div>
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
+                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Classical:</strong> 258 ghazals</div>
+                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Modern:</strong> 212 ghazals</div>
+                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Contemporary:</strong> 154 ghazals</div>
+                    </div>
+                </section>
+
+                <!-- Similarity Section -->
+                <section id="similarity" class="section">
+                    <div class="section-header"><i class="fas fa-project-diagram"></i><h2>Poet Similarity</h2></div>
+                    <div class="table-container">
+                        <table>
+                            <tr><th>Poet</th><th>Most Similar</th><th>%</th></tr>
+                            <tr><td>Ghalib</td><td>Iqbal</td><td>42%</td></tr>
+                            <tr><td>Faiz</td><td>Fraz</td><td>51%</td></tr>
+                            <tr><td>Mir</td><td>Ghalib</td><td>38%</td></tr>
+                        </table>
+                    </div>
+                </section>
+
+                <!-- Publication Section -->
+                <section id="publications" class="section">
+                    <div class="section-header"><i class="fas fa-file-alt"></i><h2>Publication</h2></div>
+                    <div style="background:#f8fafc; padding:15px; border-radius:12px;">
+                        <h3>Computational Framework for Classical Urdu Poetry</h3>
+                        <p>Zahid, M. et al. (2026). Liberal Journal of Language & Literature Review.</p>
+                    </div>
+                </section>
+            </div>
+
+            <!-- RIGHT COLUMN - Ghazal Viewer with Audio -->
+            <div class="right-col">
+                <h3 style="margin-bottom: 15px;"><i class="fas fa-book-open" style="color: var(--accent);"></i> Ghazal Viewer</h3>
+                
+                <!-- Poet Selector -->
+                <div class="poet-selector">
+                    <button class="poet-btn active" onclick="selectPoet('ghalib', 99)">Ghalib</button>
+                    <button class="poet-btn" onclick="selectPoet('iqbal', 109)">Iqbal</button>
+                    <button class="poet-btn" onclick="selectPoet('mir', 50)">Mir</button>
+                    <button class="poet-btn" onclick="selectPoet('faiz', 85)">Faiz</button>
+                    <button class="poet-btn" onclick="selectPoet('fraz', 86)">Fraz</button>
+                    <button class="poet-btn" onclick="selectPoet('parveen', 41)">Parveen</button>
+                    <button class="poet-btn" onclick="selectPoet('noshi', 70)">Noshi</button>
+                    <button class="poet-btn" onclick="selectPoet('kazmi', 34)">Kazmi</button>
+                    <button class="poet-btn" onclick="selectPoet('wasi', 50)">Wasi</button>
+                </div>
+                
+                <!-- Language Tabs -->
+                <div class="language-tabs">
+                    <button class="lang-tab active" onclick="switchLanguage('urdu')">اردو</button>
+                    <button class="lang-tab" onclick="switchLanguage('roman')">Roman</button>
+                    <button class="lang-tab" onclick="switchLanguage('english')">English</button>
+                </div>
+                
+                <!-- 3 Ghazals Slider -->
+                <div class="ghazal-slider" id="ghazalSlider"></div>
+                
+                <!-- Audio Player -->
+                <div class="audio-player">
+                    <button class="play-btn" id="playPauseBtn" onclick="togglePlayPause()">
+                        <i class="fas fa-play" id="playIcon"></i>
+                    </button>
+                    <div class="progress-bar" onclick="seekAudio(event)">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <div class="time" id="timeDisplay">00:00 / 00:00</div>
+                </div>
+                
+                <!-- Navigation -->
+                <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
+                    <button onclick="slideGhazals('left')" style="background:rgba(255,255,255,0.1); border:none; color:white; width:35px; height:35px; border-radius:50%; cursor:pointer;">←</button>
+                    <span id="sliderCounter">1-3 / 99</span>
+                    <button onclick="slideGhazals('right')" style="background:rgba(255,255,255,0.1); border:none; color:white; width:35px; height:35px; border-radius:50%; cursor:pointer;">→</button>
+                </div>
             </div>
         </div>
 
-        <!-- Currently Developing -->
-        <div class="research-section">
-            <h2 class="research-title">🚀 Currently Developing</h2>
-            <div class="framework-grid">
-                <div class="framework-card">
-                    <div class="framework-icon">🔧</div>
-                    <div class="framework-title">Open-Source Urdu NLP Toolkit</div>
-                    <ul class="framework-list">
-                        <li>Tokenization & POS Tagging</li>
-                        <li>Meter Analysis</li>
-                        <li>Sentiment Analysis</li>
-                    </ul>
-                </div>
-                
-                <div class="framework-card">
-                    <div class="framework-icon">🔄</div>
-                    <div class="framework-title">Reproducible DH Pipelines</div>
-                    <ul class="framework-list">
-                        <li>Automated Curation</li>
-                        <li>Version Control</li>
-                        <li>Docker Containers</li>
-                    </ul>
-                </div>
-                
-                <div class="framework-card">
-                    <div class="framework-icon">📄</div>
-                    <div class="framework-title">TEI-XML Encoding</div>
-                    <ul class="framework-list">
-                        <li>UrduLit-Corpus</li>
-                        <li>Metadata Standards</li>
-                        <li>OCR & Digitization</li>
-                    </ul>
-                </div>
+        <!-- FOOTER -->
+        <footer class="footer">
+            <h2 style="margin-bottom: 15px;">Seeking PhD Supervision in Digital Humanities (2026)</h2>
+            <p style="margin-bottom: 20px; color: var(--accent);">Low-Resource NLP | Digital Philology | Urdu Computational Linguistics</p>
+            <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fas fa-envelope"></i> Email</a>
+                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fab fa-github"></i> GitHub</a>
+                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fas fa-file-pdf"></i> CV</a>
             </div>
-        </div>
-
-        <!-- 3-Tier Framework -->
-        <div class="research-section">
-            <h2 class="research-title">🏗️ 3-Tier Framework</h2>
-            <div class="framework-grid">
-                <div class="framework-card">
-                    <div class="framework-icon">📥</div>
-                    <div class="framework-title">Data Curation</div>
-                    <ul class="framework-list">
-                        <li>TEI-XML encoding</li>
-                        <li>OCR & digitization</li>
-                        <li>Metadata standards</li>
-                    </ul>
-                </div>
-                
-                <div class="framework-card">
-                    <div class="framework-icon">🔨</div>
-                    <div class="framework-title">NLP Tools</div>
-                    <ul class="framework-list">
-                        <li>UrduNLP Toolkit</li>
-                        <li>Tokenization</li>
-                        <li>Meter analysis</li>
-                    </ul>
-                </div>
-                
-                <div class="framework-card">
-                    <div class="framework-icon">📊</div>
-                    <div class="framework-title">Literary Analysis</div>
-                    <ul class="framework-list">
-                        <li>Stylometry</li>
-                        <li>Topic modeling</li>
-                        <li>Sentiment analysis</li>
-                    </ul>
-                </div>
+            <div style="font-size:0.8rem; color:rgba(255,255,255,0.5);">
+                © 2026 Muhammad Zahid | 9 Poets | 624 Ghazals | 32,476 Words
             </div>
-        </div>
-
-        <!-- UGCP Charts -->
-        <div class="chart-grid">
-            <div class="chart-card">
-                <h2 style="margin-bottom: 20px;">📊 Poet Distribution</h2>
-                <div class="chart-container">
-                    <canvas id="poetChart"></canvas>
-                </div>
-            </div>
-            
-            <div class="chart-card">
-                <h2 style="margin-bottom: 20px;">📚 Vocabulary Analysis</h2>
-                <div class="chart-container">
-                    <canvas id="vocabChart"></canvas>
-                </div>
-            </div>
-        </div>
-
-        <!-- Publications -->
-        <div class="research-section">
-            <h2 class="research-title">📝 Publications</h2>
-            <div class="publications-grid">
-                <div class="publication-card">
-                    <div class="publication-title">Computational Framework for Descriptive Analysis of Classical Urdu Poetry</div>
-                    <div class="publication-meta">Libel Journal of Language & Literature Review (2026)</div>
-                    <a href="#" class="publication-link">📄 View Publication →</a>
-                </div>
-                
-                <div class="publication-card">
-                    <div class="publication-title">CV / Resume</div>
-                    <div class="publication-meta">PDF • Updated 2026</div>
-                    <a href="#" class="publication-link">📄 Download CV →</a>
-                </div>
-                
-                <div class="publication-card">
-                    <div class="publication-title">Publications Archive</div>
-                    <div class="publication-meta">ZIP • Academic Papers</div>
-                    <a href="#" class="publication-link">📄 Download ZIP →</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- PhD Section -->
-        <div class="phd-section">
-            <h2 class="phd-title">🔬 Seeking PhD Supervision in Digital Humanities (2026)</h2>
-            <p class="phd-text">Pursuing interdisciplinary research at the intersection of computational linguistics and digital preservation of classical literary heritage. Interested in Low-Resource NLP or Digital Philology? Connect with me for research collaborations or PhD opportunities.</p>
-            <a href="mailto:zahid.digitalhumanities@gmail.com" class="phd-button">📧 Let's Collaborate</a>
-        </div>
-    </div>
-
-    <!-- Footer -->
-    <div class="footer">
-        <div class="footer-content">
-            <div>
-                <h3 style="margin-bottom: 20px;">📌 Quick Links</h3>
-                <div class="footer-links">
-                    <a href="#" class="footer-link">Home</a>
-                    <a href="#" class="footer-link">Research</a>
-                    <a href="#" class="footer-link">Framework</a>
-                    <a href="#" class="footer-link">Publications</a>
-                    <a href="#" class="footer-link">Contact</a>
-                    <a href="#" class="footer-link">Downloads</a>
-                </div>
-            </div>
-            
-            <div>
-                <h3 style="margin-bottom: 20px;">🔗 Connect</h3>
-                <div class="footer-links">
-                    <a href="https://github.com/zahid-digitalhumanities" class="footer-link">GitHub</a>
-                    <a href="https://twitter.com/ZahidUrduDH" class="footer-link">Twitter / X</a>
-                    <a href="https://facebook.com/zahid.digitalhumanities" class="footer-link">Facebook</a>
-                    <a href="https://linkedin.com/in/muhammad-zahid-urdu-nlp" class="footer-link">LinkedIn</a>
-                </div>
-            </div>
-            
-            <div>
-                <h3 style="margin-bottom: 20px;">📬 Contact</h3>
-                <div class="footer-links">
-                    <a href="mailto:zahid.digitalhumanities@gmail.com" class="footer-link">📧 Email</a>
-                    <a href="tel:+923013824577" class="footer-link">📞 +92 301 3824577</a>
-                    <a href="https://wa.me/923013824577" class="footer-link">💬 WhatsApp</a>
-                </div>
-            </div>
-        </div>
-        
-        <div class="copyright">
-            <p>© 2026 Muhammad Zahid. Digital Humanities & Computational Research Specialist.</p>
-            <p style="margin-top: 10px; font-size: 0.9em;">Urdu Ghazal Corpus Project (UGCP) v1.0 | Last Updated: February 2026</p>
-        </div>
+        </footer>
     </div>
 
     <script>
-        // Chart Data
-        const poets = ['Ghalib', 'Iqbal', 'Mir', 'Faiz', 'Fraz', 'Parveen', 'Noshi', 'Kazmi', 'Wasi'];
-        const ghazals = [99, 109, 50, 85, 86, 41, 70, 34, 50];
-        const words = [5208, 6009, 2998, 3603, 3385, 3245, 2516, 2813, 2799];
-        const unique = [1143, 1340, 563, 703, 564, 712, 598, 415, 764];
-        const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9F40', '#FF6384', '#36A2EB', '#FFCE56'];
+        // Audio Element
+        let audio = new Audio();
+        let isPlaying = false;
+        let currentPoet = 'ghalib';
+        let currentIndex = 1;
+        let totalGhazals = 99;
+        let sliderStart = 0;
         
-        // Poet Distribution Chart
-        new Chart(document.getElementById('poetChart'), {
-            type: 'bar',
-            data: {
-                labels: poets,
-                datasets: [{
-                    label: 'Number of Ghazals',
-                    data: ghazals,
-                    backgroundColor: colors,
-                    borderColor: '#333',
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                plugins: {
-                    legend: { display: false }
-                },
-                scales: {
-                    y: { beginAtZero: true }
-                }
+        // Ghazal Data
+        const ghazals = {
+            ghalib: [
+                { urdu: 'دل ہی تو ہے نہ سنگ و خشت، درد سے بھر نہ آئے کیوں', roman: 'Dil hi to hai na sang-o-khisht, dard se bhar na aaye kyun', english: "It's just a heart, not brick or stone - why shouldn't it fill with pain?" },
+                { urdu: 'ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے', roman: 'Hazaron khwahishen aisi ke har khwahish pe dam nikle', english: 'Thousands of desires, each worth dying for' },
+                { urdu: 'دنیا نے تیری یاد سے بیگانہ کر دیا', roman: 'Duniya ne teri yaad se begana kar diya', english: 'The world has made me forget your memory' }
+            ],
+            iqbal: [
+                { urdu: 'خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے', roman: 'Khudi ko kar buland itna ke har taqdeer se pehle', english: 'Elevate your selfhood so high that before every destiny' },
+                { urdu: 'ستاروں سے آگے جہاں اور بھی ہیں', roman: 'Sitaron se aage jahan aur bhi hain', english: 'Beyond the stars, there are more worlds' }
+            ],
+            mir: [
+                { urdu: 'پوچھتے ہیں وہ کہ میر کون ہے', roman: 'Poochhte hain woh ke Mir kaun hai', english: 'They ask, who is Mir?' }
+            ]
+        };
+        
+        // Initialize
+        function init() {
+            updateGhazalSlider();
+        }
+        
+        // Update Ghazal Slider
+        function updateGhazalSlider() {
+            const slider = document.getElementById('ghazalSlider');
+            const poetGhazals = ghazals[currentPoet] || [];
+            slider.innerHTML = '';
+            
+            for (let i = sliderStart; i < sliderStart + 3 && i < poetGhazals.length; i++) {
+                const g = poetGhazals[i];
+                if (!g) continue;
+                
+                const card = document.createElement('div');
+                card.className = 'ghazal-card' + (i === currentIndex-1 ? ' playing' : '');
+                card.onclick = () => selectGhazal(i+1);
+                
+                card.innerHTML = `
+                    <div class="urdu">${g.urdu.substring(0, 30)}...</div>
+                    <div class="roman">${g.roman.substring(0, 40)}...</div>
+                    <div class="english">${g.english.substring(0, 40)}...</div>
+                    <div class="info">
+                        <span>${currentPoet.charAt(0).toUpperCase() + currentPoet.slice(1)} • ${i+1}/${poetGhazals.length}</span>
+                        <span class="${i === currentIndex-1 && isPlaying ? 'play-indicator' : ''}">
+                            <i class="fas ${i === currentIndex-1 && isPlaying ? 'fa-volume-up' : 'fa-play'}"></i>
+                        </span>
+                    </div>
+                `;
+                slider.appendChild(card);
             }
+            
+            document.getElementById('sliderCounter').innerHTML = 
+                `${sliderStart+1}-${Math.min(sliderStart+3, poetGhazals.length)} / ${poetGhazals.length}`;
+        }
+        
+        // Select Poet
+        function selectPoet(poet, total) {
+            currentPoet = poet;
+            totalGhazals = total;
+            currentIndex = 1;
+            sliderStart = 0;
+            
+            document.querySelectorAll('.poet-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Stop current audio
+            stopAudio();
+            updateGhazalSlider();
+        }
+        
+        // Select Ghazal
+        function selectGhazal(index) {
+            currentIndex = index;
+            
+            // Load audio file
+            const audioFile = `audio/ghazals/${currentPoet}_${String(index).padStart(3, '0')}.mp3`;
+            audio.src = audioFile;
+            audio.load();
+            
+            updateGhazalSlider();
+            
+            // Auto-play
+            togglePlayPause();
+        }
+        
+        // Slide Ghazals
+        function slideGhazals(direction) {
+            const maxStart = (ghazals[currentPoet]?.length || totalGhazals) - 3;
+            if (direction === 'left' && sliderStart > 0) {
+                sliderStart -= 3;
+            } else if (direction === 'right' && sliderStart < maxStart) {
+                sliderStart += 3;
+            }
+            updateGhazalSlider();
+        }
+        
+        // Audio Functions
+        function togglePlayPause() {
+            if (!audio.src) {
+                selectGhazal(1);
+                return;
+            }
+            
+            if (isPlaying) {
+                audio.pause();
+            } else {
+                audio.play();
+            }
+            isPlaying = !isPlaying;
+            document.getElementById('playIcon').className = isPlaying ? 'fas fa-pause' : 'fas fa-play';
+            updateGhazalSlider();
+            
+            // Update progress
+            if (isPlaying) {
+                audio.addEventListener('timeupdate', updateProgress);
+                audio.addEventListener('ended', stopAudio);
+            }
+        }
+        
+        function stopAudio() {
+            audio.pause();
+            audio.currentTime = 0;
+            isPlaying = false;
+            document.getElementById('playIcon').className = 'fas fa-play';
+            updateGhazalSlider();
+        }
+        
+        function updateProgress() {
+            const progress = (audio.currentTime / audio.duration) * 100 || 0;
+            document.getElementById('progressFill').style.width = progress + '%';
+            
+            const current = formatTime(audio.currentTime);
+            const total = formatTime(audio.duration);
+            document.getElementById('timeDisplay').textContent = `${current} / ${total}`;
+        }
+        
+        function seekAudio(event) {
+            const progressBar = event.currentTarget;
+            const rect = progressBar.getBoundingClientRect();
+            const clickPosition = (event.clientX - rect.left) / rect.width;
+            audio.currentTime = clickPosition * (audio.duration || 0);
+        }
+        
+        function formatTime(seconds) {
+            if (!seconds) return '00:00';
+            const mins = Math.floor(seconds / 60);
+            const secs = Math.floor(seconds % 60);
+            return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+        }
+        
+        // Language Switch
+        function switchLanguage(lang) {
+            document.querySelectorAll('.lang-tab').forEach(tab => tab.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            document.querySelectorAll('.ghazal-card .roman, .ghazal-card .english, .ghazal-card .urdu').forEach(el => {
+                if (lang === 'urdu') {
+                    if (el.classList.contains('urdu')) el.style.display = 'block';
+                    else el.style.display = 'none';
+                } else if (lang === 'roman') {
+                    if (el.classList.contains('roman')) el.style.display = 'block';
+                    else el.style.display = 'none';
+                } else {
+                    if (el.classList.contains('english')) el.style.display = 'block';
+                    else el.style.display = 'none';
+                }
+            });
+        }
+        
+        // Scroll to Section
+        function scrollToSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth' });
+                
+                // Update active link
+                document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
+                event.target.classList.add('active');
+            }
+        }
+        
+        // Charts
+        const poets = ['Ghalib','Iqbal','Mir','Faiz','Fraz','Parveen','Noshi','Kazmi','Wasi'];
+        const ghazalsData = [99,109,50,85,86,41,70,34,50];
+        
+        new Chart(document.getElementById('poetPieChart'), {
+            type: 'pie',
+            data: { 
+                labels: poets, 
+                datasets: [{ 
+                    data: ghazalsData, 
+                    backgroundColor: ['#1e3c72','#2a5298','#c9a959','#4a6fa5','#6b4e71','#b5768e','#3a6b8f','#8a6d3b','#5a4e6b'] 
+                }] 
+            },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
         });
         
-        // Vocabulary Chart
-        new Chart(document.getElementById('vocabChart'), {
+        new Chart(document.getElementById('poetBarChart'), {
             type: 'bar',
-            data: {
-                labels: poets,
-                datasets: [
-                    {
-                        label: 'Total Words',
-                        data: words,
-                        backgroundColor: '#36A2EB'
-                    },
-                    {
-                        label: 'Unique Words',
-                        data: unique,
-                        backgroundColor: '#FF6384'
-                    }
-                ]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                scales: {
-                    y: { beginAtZero: true }
-                }
-            }
+            data: { labels: poets, datasets: [{ data: ghazalsData, backgroundColor: '#2a5298' }] },
+            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
         });
+        
+        // Initialize
+        init();
     </script>
 </body>
 </html>
