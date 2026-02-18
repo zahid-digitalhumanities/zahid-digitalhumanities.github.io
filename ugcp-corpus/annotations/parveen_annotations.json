@@ -1,0 +1,576 @@
+[
+  {
+    "TEXT_ID": "parveen_00001",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "جائے گا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "بکھر",
+      "کدھر"
+    ],
+    "SENTIMENT": "melancholic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00002",
+    "TOKEN_COUNTS": 9,
+    "TTR": 0.778,
+    "RADIF": "تھا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "کیا",
+      "ہوگا"
+    ],
+    "SENTIMENT": "reflective",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00003",
+    "TOKEN_COUNTS": 11,
+    "TTR": 0.727,
+    "RADIF": "ٹوٹا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "دیکھا",
+      "نہ"
+    ],
+    "SENTIMENT": "nostalgic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00004",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "دے گا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "جاؤں",
+      "بولے"
+    ],
+    "SENTIMENT": "defiant",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00005",
+    "TOKEN_COUNTS": 10,
+    "TTR": 0.8,
+    "RADIF": "آئے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "چھوڑ",
+      "جوڑ"
+    ],
+    "SENTIMENT": "romantic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00006",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "کوئی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "روکے",
+      "سمیٹے"
+    ],
+    "SENTIMENT": "philosophical",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00007",
+    "TOKEN_COUNTS": 15,
+    "TTR": 0.733,
+    "RADIF": "دیا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "محال",
+      "نڈھال"
+    ],
+    "SENTIMENT": "anguished",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00008",
+    "TOKEN_COUNTS": 17,
+    "TTR": 0.706,
+    "RADIF": "بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "خیال",
+      "ملال"
+    ],
+    "SENTIMENT": "bittersweet",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00009",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "کی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "شناسائی",
+      "پذیرائی"
+    ],
+    "SENTIMENT": "joyful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00010",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "پھرتا",
+      "گزر"
+    ],
+    "SENTIMENT": "restless",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00011",
+    "TOKEN_COUNTS": 8,
+    "TTR": 0.75,
+    "RADIF": "کر",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "تجھے",
+      "مل"
+    ],
+    "SENTIMENT": "nostalgic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00012",
+    "TOKEN_COUNTS": 15,
+    "TTR": 0.733,
+    "RADIF": "مانگ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "محبوب",
+      "ورنا"
+    ],
+    "SENTIMENT": "melancholic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00013",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "محبت",
+      "نہیں"
+    ],
+    "SENTIMENT": "romantic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00015",
+    "TOKEN_COUNTS": 10,
+    "TTR": 0.8,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "بھی",
+      "اور"
+    ],
+    "SENTIMENT": "philosophical",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00031",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "کی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "رکھا",
+      "مسیحائی"
+    ],
+    "SENTIMENT": "hopeful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00035",
+    "TOKEN_COUNTS": 18,
+    "TTR": 0.722,
+    "RADIF": "بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "کی",
+      "جمال"
+    ],
+    "SENTIMENT": "romantic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00037",
+    "TOKEN_COUNTS": 9,
+    "TTR": 0.778,
+    "RADIF": "گیا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "جیسے",
+      "مل"
+    ],
+    "SENTIMENT": "joyful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00039",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "ورنا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "گھبراؤں",
+      "ملتا"
+    ],
+    "SENTIMENT": "lonely",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00040",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "کو",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "ہو",
+      "پکارا"
+    ],
+    "SENTIMENT": "yearning",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00041",
+    "TOKEN_COUNTS": 9,
+    "TTR": 0.778,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "لگا",
+      "آ"
+    ],
+    "SENTIMENT": "romantic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00050",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "پروین",
+      "ٹوٹا"
+    ],
+    "SENTIMENT": "melancholic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00052",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "کوئی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "ریزہ",
+      "بکھرے"
+    ],
+    "SENTIMENT": "anguished",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00060",
+    "TOKEN_COUNTS": 8,
+    "TTR": 0.75,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "رہتا",
+      "رہتا"
+    ],
+    "SENTIMENT": "resigned",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00062",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "کوئی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "نہیں",
+      "آئے"
+    ],
+    "SENTIMENT": "lonely",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00074",
+    "TOKEN_COUNTS": 16,
+    "TTR": 0.75,
+    "RADIF": "بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "ڈھال",
+      "حال"
+    ],
+    "SENTIMENT": "reflective",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00076",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "جاناں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "چاہیے",
+      "کھلتیں"
+    ],
+    "SENTIMENT": "philosophical",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00081",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "گا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "دے",
+      "کر"
+    ],
+    "SENTIMENT": "hopeful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00082",
+    "TOKEN_COUNTS": 10,
+    "TTR": 0.8,
+    "RADIF": "کا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "جھانکتا",
+      "رہا"
+    ],
+    "SENTIMENT": "lost",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00083",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "رہا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "تھا",
+      "مرا"
+    ],
+    "SENTIMENT": "nostalgic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00084",
+    "TOKEN_COUNTS": 8,
+    "TTR": 0.75,
+    "RADIF": "کر",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "کے",
+      "کے"
+    ],
+    "SENTIMENT": "bittersweet",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00085",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "کرے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "دیکھوں",
+      "آباد"
+    ],
+    "SENTIMENT": "resigned",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00086",
+    "TOKEN_COUNTS": 16,
+    "TTR": 0.75,
+    "RADIF": "بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "خواب",
+      "وصال"
+    ],
+    "SENTIMENT": "complex",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00088",
+    "TOKEN_COUNTS": 10,
+    "TTR": 0.8,
+    "RADIF": "کا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "جھانکتا",
+      "رہا"
+    ],
+    "SENTIMENT": "lost",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00089",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "آئے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "کھلانے",
+      "مندمل"
+    ],
+    "SENTIMENT": "hopeful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00090",
+    "TOKEN_COUNTS": 12,
+    "TTR": 0.75,
+    "RADIF": "میں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "طرح",
+      "ہوں"
+    ],
+    "SENTIMENT": "romantic",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00091",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "گیا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "کہاں",
+      "ٹوٹ"
+    ],
+    "SENTIMENT": "anguished",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00092",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "ہے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "مٹے",
+      "نہیں"
+    ],
+    "SENTIMENT": "eternal",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00094",
+    "TOKEN_COUNTS": 14,
+    "TTR": 0.714,
+    "RADIF": "بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "پتہ",
+      "خیال"
+    ],
+    "SENTIMENT": "yearning",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00095",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "گا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "بھر",
+      "اتر"
+    ],
+    "SENTIMENT": "anguished",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00097",
+    "TOKEN_COUNTS": 13,
+    "TTR": 0.769,
+    "RADIF": "گا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "لیے",
+      "دریا"
+    ],
+    "SENTIMENT": "passionate",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "parveen_00098",
+    "TOKEN_COUNTS": 9,
+    "TTR": 0.778,
+    "RADIF": "گئی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "QAAFIYA": [
+      "چراغ",
+      "رہ"
+    ],
+    "SENTIMENT": "hopeful",
+    "RHYME_PATTERNS": "AA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  }
+]

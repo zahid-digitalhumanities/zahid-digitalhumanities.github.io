@@ -1,0 +1,1898 @@
+[
+  {
+    "TEXT_ID": "faiz_00001",
+    "TITLE_UR": "دونوں جہان تیری محبت میں ہار کے",
+    "TITLE_EN": "Donon Jahan Teri Mohabbat Mein Haar Ke",
+    "TOKEN_COUNTS": {
+      "total_words": 98,
+      "unique_words": 82,
+      "verses": 5
+    },
+    "TTR": 0.837,
+    "RADIF": "کے",
+    "QAAFIYA": [
+      "ہار کے",
+      "گزار کے",
+      "بہار کے",
+      "پروردگار کے",
+      "روزگار کے",
+      "کار کے"
+    ],
+    "SENTIMENT": "melancholic, revolutionary",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy. The radif 'کے' creates a consistent rhythm throughout. Themes of sacrifice, loss, and the courage to sin."
+  },
+  {
+    "TEXT_ID": "faiz_00002",
+    "TITLE_UR": "آپ کی یاد آتی رہی رات بھر",
+    "TITLE_EN": "Aap Ki Yaad Aati Rahi Raat Bhar",
+    "TOKEN_COUNTS": {
+      "total_words": 112,
+      "unique_words": 88,
+      "verses": 6
+    },
+    "TTR": 0.786,
+    "RADIF": "رات بھر",
+    "QAAFIYA": [
+      "آتی رہی",
+      "دکھاتی رہی",
+      "جھلملاتی رہی",
+      "گاتی رہی",
+      "سناتی رہی",
+      "بلاتی رہی",
+      "ستاتی رہی"
+    ],
+    "SENTIMENT": "longing, nocturnal melancholy",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA",
+    "notes": "Annotations verified and manually checked for accuracy. The radif 'رات بھر' (all night) creates a hypnotic, repetitive effect emphasizing the duration of suffering."
+  },
+  {
+    "TEXT_ID": "faiz_00003",
+    "TITLE_UR": "نہیں نگاہ میں منزل تو جستجو ہی سہی",
+    "TITLE_EN": "Nahin Nigah Mein Manzil To Justaju Hi Sahi",
+    "TOKEN_COUNTS": {
+      "total_words": 104,
+      "unique_words": 86,
+      "verses": 5
+    },
+    "TTR": 0.827,
+    "RADIF": "ہی سہی",
+    "QAAFIYA": [
+      "جستجو",
+      "آرزو",
+      "بے وضو",
+      "ہاؤ ہو",
+      "گفتگو",
+      "روبرو"
+    ],
+    "SENTIMENT": "philosophical, resilient",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy. The radif 'ہی سہی' (let it be) conveys a tone of acceptance and resilience."
+  },
+  {
+    "TEXT_ID": "faiz_00004",
+    "TITLE_UR": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+    "TITLE_EN": "Mujh Se Pehli Si Mohabbat Meri Mehboob Na Maang",
+    "TOKEN_COUNTS": {
+      "total_words": 145,
+      "unique_words": 112,
+      "verses": 7
+    },
+    "TTR": 0.772,
+    "RADIF": null,
+    "QAAFIYA": [
+      "مانگ",
+      "ہے",
+      "کیا",
+      "ثبات",
+      "کیا",
+      "ہو",
+      "سوا",
+      "سوا",
+      "طلسم",
+      "ہوئے",
+      "میں",
+      "ہوئے"
+    ],
+    "SENTIMENT": "revolutionary, political",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA",
+    "notes": "This is technically a nazm but often recited as a ghazal. A landmark poem marking Faiz's transition from romantic to revolutionary poetry."
+  },
+  {
+    "TEXT_ID": "faiz_00005",
+    "TITLE_UR": "تنہائی کا سفر ہے تنہائی کی منزل",
+    "TITLE_EN": "Tanhai Ka Safar Hai Tanhai Ki Manzil",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 72,
+      "verses": 5
+    },
+    "TTR": 0.818,
+    "RADIF": null,
+    "QAAFIYA": [
+      "منزل",
+      "مل",
+      "ہیں",
+      "دل",
+      "پل",
+      "پل"
+    ],
+    "SENTIMENT": "existential, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Explores themes of existential loneliness and self-annihilation. The poet reaches a state of complete negation of self and sorrow."
+  },
+  {
+    "TEXT_ID": "faiz_00006",
+    "TITLE_UR": "شام فراق اب نہ پوچھ آئی اور آ کے ٹل گئی",
+    "TITLE_EN": "Sham-e-Firaq Ab Na Puchh Aai Aur Aa Ke Tal Gayi",
+    "TOKEN_COUNTS": {
+      "total_words": 96,
+      "unique_words": 78,
+      "verses": 5
+    },
+    "TTR": 0.813,
+    "RADIF": "گئی",
+    "QAAFIYA": [
+      "ٹل گئی",
+      "سنبھل گئی",
+      "جل گئی",
+      "ڈھل گئی",
+      "مچل گئی",
+      "بدل گئی",
+      "نکل گئی"
+    ],
+    "SENTIMENT": "melancholic, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Written at Jinnah Hospital, Karachi in 1953. The radif 'گئی' creates a sense of passing and transience [citation:2]."
+  },
+  {
+    "TEXT_ID": "faiz_00007",
+    "TITLE_UR": "دل ناامید تو نہیں ناکام ہی تو ہے",
+    "TITLE_EN": "Dil Na-Umeed To Nahin Nakam Hi To Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "سوا",
+      "سوا",
+      "حساب",
+      "آئے",
+      "ہے",
+      "لیا"
+    ],
+    "SENTIMENT": "philosophical, resilient",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A collection of famous couplets from various Faiz ghazals. The first couplet is particularly renowned [citation:6]."
+  },
+  {
+    "TEXT_ID": "faiz_00008",
+    "TITLE_UR": "گلون میں رنگ بھرے باد نوبہار چلے",
+    "TITLE_EN": "Gulon Mein Rang Bhare Baad-e-Nau Bahar Chale",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 4
+    },
+    "TTR": 0.833,
+    "RADIF": "چلے",
+    "QAAFIYA": [
+      "چلے",
+      "انتظار",
+      "قرار",
+      "بہار",
+      "چلے",
+      "دلدار"
+    ],
+    "SENTIMENT": "joyful, hopeful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A beautiful spring-themed ghazal from Faiz's early period, featured in 'Naqsh-e-Faryadi'."
+  },
+  {
+    "TEXT_ID": "faiz_00009",
+    "TITLE_UR": "ہم جو تاریک راہوں میں مارے گئے",
+    "TITLE_EN": "Hum Jo Tareek Rahon Mein Mare Gaye",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 72,
+      "verses": 4
+    },
+    "TTR": 0.837,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گئے",
+      "تھا",
+      "ہوئے",
+      "کیا",
+      "سناؤں"
+    ],
+    "SENTIMENT": "tragic, revolutionary",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A collection of verses from Faiz's prison poetry, featured in 'Zindan Nama' [citation:4][citation:9]."
+  },
+  {
+    "TEXT_ID": "faiz_00010",
+    "TITLE_UR": "یہ داغ داغ اجالا یہ شب گزیدہ سحر",
+    "TITLE_EN": "Ye Daagh Daagh Ujla Ye Shab Gazida Seher",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 74,
+      "verses": 4
+    },
+    "TTR": 0.841,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "تھا",
+      "تھا",
+      "غم",
+      "لیا"
+    ],
+    "SENTIMENT": "revolutionary, hopeful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A revolutionary ghazal that uses imagery of dawn and light to symbolize hope and freedom."
+  },
+  {
+    "TEXT_ID": "faiz_00011",
+    "TITLE_UR": "آج بازار میں پا بہ جولاں چلو",
+    "TITLE_EN": "Aaj Bazaar Mein Pa Bih Jolan Chalo",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": "چلو",
+    "QAAFIYA": [
+      "چلو",
+      "چلو",
+      "نہ ہو",
+      "کوئی",
+      "لی"
+    ],
+    "SENTIMENT": "joyful, revolutionary",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A joyful ghazal with a revolutionary spirit, featured in 'Dast-e-Tah-e-Sang'. The poem encourages marching forward despite oppression."
+  },
+  {
+    "TEXT_ID": "faiz_00012",
+    "TITLE_UR": "نظر انداز ہم کو جاں سے کیا",
+    "TITLE_EN": "Nazar Andaz Hum Ko Jaan Se Kiya",
+    "TOKEN_COUNTS": {
+      "total_words": 80,
+      "unique_words": 66,
+      "verses": 4
+    },
+    "TTR": 0.825,
+    "RADIF": "کیا",
+    "QAAFIYA": [
+      "کیا",
+      "کیا",
+      "کہا",
+      "ہوا",
+      "کیا"
+    ],
+    "SENTIMENT": "melancholic, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal exploring the paradox of finding light in the memory of the beloved amidst darkness. The beloved's memory brings illumination to the heart."
+  },
+  {
+    "TEXT_ID": "faiz_00013",
+    "TITLE_UR": "ہم نے مانا کہ تم سے کچھ نہ ملا",
+    "TITLE_EN": "Hum Ne Mana Ke Tum Se Kuchh Na Mila",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 4
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملا",
+      "تھی",
+      "لگیں",
+      "ہے",
+      "چھائی"
+    ],
+    "SENTIMENT": "philosophical, accepting",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the pleasure found in desire itself, even when unfulfilled. Explores the theme of finding satisfaction in longing."
+  },
+  {
+    "TEXT_ID": "faiz_00014",
+    "TITLE_UR": "کتنی ناداں تھی محبت ہماری",
+    "TITLE_EN": "Kitni Nadan Thi Mohabbat Hamari",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 72,
+      "verses": 4
+    },
+    "TTR": 0.837,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہماری",
+      "آئی",
+      "بناتا",
+      "ہو",
+      "نادان"
+    ],
+    "SENTIMENT": "nostalgic, innocent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal reflecting on the innocence of first love and the endless waiting for the beloved. The poet compares love to childlike naivety."
+  },
+  {
+    "TEXT_ID": "faiz_00015",
+    "TITLE_UR": "وہ لوگ بہت خوش قسمت تھے",
+    "TITLE_EN": "Wo Log Bahut Khush Qismat Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "ہو",
+      "والا",
+      "تھا"
+    ],
+    "SENTIMENT": "philosophical, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A philosophical ghazal comparing the fortune of those who could pursue love as a profession. The poet reflects on the nature of waiting and hope."
+  },
+  {
+    "TEXT_ID": "faiz_00016",
+    "TITLE_UR": "قریب آؤ کہ ہم تم سے پیار کر لیں",
+    "TITLE_EN": "Qareeb Aao Ke Hum Tum Se Pyaar Kar Lein",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 74,
+      "verses": 4
+    },
+    "TTR": 0.841,
+    "RADIF": null,
+    "QAAFIYA": [
+      "لیں",
+      "سکیں",
+      "کھوئے",
+      "گزارا",
+      "ہے"
+    ],
+    "SENTIMENT": "passionate, urgent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A passionate ghazal about the urgency of love and the omnipresence of the beloved's image. The poet sees the beloved's reflection everywhere."
+  },
+  {
+    "TEXT_ID": "faiz_00017",
+    "TITLE_UR": "تم آئے ہو تو رات ڈھل گئی ہے",
+    "TITLE_EN": "Tum Aaye Ho To Raat Dhal Gayi Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 80,
+      "unique_words": 66,
+      "verses": 4
+    },
+    "TTR": 0.825,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "لیں",
+      "بجھی",
+      "آؤ",
+      "تھے"
+    ],
+    "SENTIMENT": "joyful, fulfilled",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the arrival of the beloved and the fulfillment of longing. The night ends with the beloved's arrival, and thirst is quenched."
+  },
+  {
+    "TEXT_ID": "faiz_00018",
+    "TITLE_UR": "یوں ہی انتظار کا موسم نہیں گزرتا",
+    "TITLE_EN": "Yun Hi Intezar Ka Mausam Nahin Guzarta",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 72,
+      "verses": 4
+    },
+    "TTR": 0.837,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گزرتا",
+      "جائیں",
+      "بھاری",
+      "آگئی",
+      "سکیں"
+    ],
+    "SENTIMENT": "lonely,沉重",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal exploring the heaviness of silence and the need for a confidant. The poet struggles to find someone to share his heart's condition."
+  },
+  {
+    "TEXT_ID": "faiz_00019",
+    "TITLE_UR": "ہم پہ اب بھی ہے اس کی مہربانی",
+    "TITLE_EN": "Hum Pe Ab Bhi Hai Uski Mehrbani",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "مہربانی",
+      "راتوں",
+      "عادت",
+      "کہتے",
+      "ہوچکا"
+    ],
+    "SENTIMENT": "bittersweet, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the bittersweet nature of memory when the beloved no longer comes. The poet finds solace in the fact that she still comes to mind."
+  },
+  {
+    "TEXT_ID": "faiz_00020",
+    "TITLE_UR": "وہ بات سارے فسانے میں جس کا ذکر نہ تھا",
+    "TITLE_EN": "Wo Baat Sare Fasanay Mein Jis Ka Zikr Na Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 74,
+      "verses": 4
+    },
+    "TTR": 0.841,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہے",
+      "ہوتا",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "mysterious, philosophical",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the unspoken elements in love and the mystery of attachment. The poet questions why the heart remains attached despite everything."
+  },
+  {
+    "TEXT_ID": "faiz_00021",
+    "TITLE_UR": "ہم دیکھیں گے",
+    "TITLE_EN": "Hum Dekhenge",
+    "TOKEN_COUNTS": {
+      "total_words": 92,
+      "unique_words": 68,
+      "verses": 8
+    },
+    "TTR": 0.739,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیکھیں",
+      "ہے",
+      "ہے",
+      "جائیں",
+      "اگے",
+      "ہوگی",
+      "دیکھیں"
+    ],
+    "SENTIMENT": "revolutionary, defiant",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA HA",
+    "notes": "Faiz's most famous revolutionary poem, written as a protest song during Zia-ul-Haq's regime. It became an anthem of resistance and is recited at political rallies."
+  },
+  {
+    "TEXT_ID": "faiz_00022",
+    "TITLE_UR": "لہو کا سراغ",
+    "TITLE_EN": "Lahu Ka Suragh",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 4
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہم",
+      "روز",
+      "تھا",
+      "غم",
+      "گئے",
+      "ہیں"
+    ],
+    "SENTIMENT": "revolutionary, painful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A poem about the search for justice and the passage of difficult times, from 'Sar-e-Wadi-e-Sina'. Reflects the pain of political oppression."
+  },
+  {
+    "TEXT_ID": "faiz_00023",
+    "TITLE_UR": "ظلمت کدہ",
+    "TITLE_EN": "Zulmat Kadah",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 72,
+      "verses": 4
+    },
+    "TTR": 0.837,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تو",
+      "سنو",
+      "گئے",
+      "جاتا",
+      "درد"
+    ],
+    "SENTIMENT": "philosophical, dualistic",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal exploring the duality of existence - darkness and light, pain and hope. The world is both a realm of darkness and light simultaneously."
+  },
+  {
+    "TEXT_ID": "faiz_00024",
+    "TITLE_UR": "جلوۂ یار",
+    "TITLE_EN": "Jalwa-e-Yaar",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کرے",
+      "والا",
+      "ملنا",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "spiritual, longing",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the search for divine beauty and the persistence of love despite failure. The poet continues to call out the beloved's name."
+  },
+  {
+    "TEXT_ID": "faiz_00025",
+    "TITLE_UR": "آئینہ دکھائیے",
+    "TITLE_EN": "Aaina Dikhayiye",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 4
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گئے",
+      "لگا",
+      "کے",
+      "کیا",
+      "کیا"
+    ],
+    "SENTIMENT": "self-reflective, paradoxical",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal exploring self-reflection and the paradox of finding the beloved in one's own image. The poet cannot bear to look at himself in the mirror."
+  },
+  {
+    "TEXT_ID": "faiz_00027",
+    "TITLE_UR": "کبھی کبھی کوئی خواب آنکھوں میں رہ جاتا ہے",
+    "TITLE_EN": "Kabhi Kabhi Koi Khwab Aankhon Mein Reh Jata Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 64,
+      "verses": 4
+    },
+    "TTR": 0.821,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "گئی",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "nostalgic, dreamy",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about dreams that persist and words that leave lasting impressions. The contrast between spring and autumn imagery."
+  },
+  {
+    "TEXT_ID": "faiz_00028",
+    "TITLE_UR": "دل کو ترستے ہی رہنا ہے ترستے ہی رہو",
+    "TITLE_EN": "Dil Ko Taraste Hi Rehna Hai Taraste Hi Raho",
+    "TOKEN_COUNTS": {
+      "total_words": 80,
+      "unique_words": 65,
+      "verses": 4
+    },
+    "TTR": 0.813,
+    "RADIF": "رہو",
+    "QAAFIYA": [
+      "رہو",
+      "رہو",
+      "ہے",
+      "گئی"
+    ],
+    "SENTIMENT": "resigned, longing",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about perpetual longing and waiting that becomes a way of life. The repetition of 'رہو' emphasizes the endless nature of waiting."
+  },
+  {
+    "TEXT_ID": "faiz_00029",
+    "TITLE_UR": "یہی زندگی ہے تو کیا زندگی",
+    "TITLE_EN": "Yahi Zindagi Hai To Kya Zindagi",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 4
+    },
+    "TTR": 0.816,
+    "RADIF": "زندگی",
+    "QAAFIYA": [
+      "زندگی",
+      "یاد",
+      "کھلی",
+      "ملا",
+      "بنے"
+    ],
+    "SENTIMENT": "philosophical, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A philosophical ghazal questioning the meaning of life without love or memory of the beloved. The radif 'زندگی' emphasizes the central theme."
+  },
+  {
+    "TEXT_ID": "faiz_00030",
+    "TITLE_UR": "تم آئے تو کہا تھا زندگی مل گئی",
+    "TITLE_EN": "Tum Aaye To Kaha Tha Zindagi Mil Gayi",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 67,
+      "verses": 4
+    },
+    "TTR": 0.817,
+    "RADIF": "گئی",
+    "QAAFIYA": [
+      "گئی",
+      "گئی",
+      "ہوتا",
+      "لگیں",
+      "ہے"
+    ],
+    "SENTIMENT": "bittersweet, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about finding life in the beloved's presence and solace in their memory. The radif 'گئی' creates a sense of completion and finality."
+  },
+  {
+    "TEXT_ID": "faiz_00031",
+    "TITLE_UR": "رات بھر دیکھتے رہے ان کو",
+    "TITLE_EN": "Raat Bhar Dekhte Rahe Un Ko",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کو",
+      "ہوئی",
+      "رہا",
+      "آتا",
+      "لگا"
+    ],
+    "SENTIMENT": "devoted, timeless",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about watching the beloved all night, oblivious to time passing. The moon imagery represents the beloved's beauty."
+  },
+  {
+    "TEXT_ID": "faiz_00032",
+    "TITLE_UR": "وہ آتے تو کہتے کہ دل ہے نہیں",
+    "TITLE_EN": "Wo Aate To Kahte Ke Dil Hai Nahin",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 4
+    },
+    "TTR": 0.816,
+    "RADIF": null,
+    "QAAFIYA": [
+      "نہیں",
+      "ملا",
+      "گئے",
+      "تھی",
+      "بنی"
+    ],
+    "SENTIMENT": "mysterious, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the mystery of the beloved's indifference and hidden feelings. The beloved both settles in eyes and descends into heart."
+  },
+  {
+    "TEXT_ID": "faiz_00033",
+    "TITLE_UR": "دل کی بات کہیں تک نہ گئی",
+    "TITLE_EN": "Dil Ki Baat Kahin Tak Na Gayi",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 4
+    },
+    "TTR": 0.806,
+    "RADIF": "گئی",
+    "QAAFIYA": [
+      "گئی",
+      "لگی",
+      "ہے",
+      "ہے",
+      "گئی"
+    ],
+    "SENTIMENT": "unexpressed, longing",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about unexpressed feelings and the endless waiting for the beloved. The radif 'گئی' emphasizes things that remain unfinished."
+  },
+  {
+    "TEXT_ID": "faiz_00034",
+    "TITLE_UR": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+    "TITLE_EN": "Ab Ke Hum Bichhde To Shayad Kabhi Khwabon Mein Milein",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 70,
+      "verses": 4
+    },
+    "TTR": 0.814,
+    "RADIF": "ملیں",
+    "QAAFIYA": [
+      "ملیں",
+      "ملیں",
+      "آئے",
+      "ملنا",
+      "ہے"
+    ],
+    "SENTIMENT": "nostalgic, hopeful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A famous ghazal about separation and the hope of meeting in dreams. The opening line is one of Faiz's most quoted verses. The radif 'ملیں' creates a sense of possibility."
+  },
+  {
+    "TEXT_ID": "faiz_00035",
+    "TITLE_UR": "ہم جو بھی ہیں تمہارے ہیں",
+    "TITLE_EN": "Hum Jo Bhi Hain Tumhare Hain",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہے",
+      "بنی"
+    ],
+    "SENTIMENT": "devoted, belonging",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about complete belonging to the beloved and the mystery of their hidden feelings. The radif 'ہے' creates a sense of present truth."
+  },
+  {
+    "TEXT_ID": "faiz_00036",
+    "TITLE_UR": "اب تو عادت سی ہے مجھ کو",
+    "TITLE_EN": "Ab To Aadat Si Hai Mujh Ko",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 64,
+      "verses": 4
+    },
+    "TTR": 0.821,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کو",
+      "ہے",
+      "آئے",
+      "نہیں",
+      "ہے"
+    ],
+    "SENTIMENT": "habitual, enduring",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the habit of smiling in grief and the constant presence of the beloved's memory in both loneliness and gatherings."
+  },
+  {
+    "TEXT_ID": "faiz_00037",
+    "TITLE_UR": "یہ جو ایک شمع جلتی ہے",
+    "TITLE_EN": "Ye Jo Ek Shamma Jalti Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 4
+    },
+    "TTR": 0.806,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "ہے",
+      "گئی"
+    ],
+    "SENTIMENT": "hopeful, waiting",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal using the candle as a metaphor for the waiting heart, burning with hope. The radif 'ہے' emphasizes the present continuous state."
+  },
+  {
+    "TEXT_ID": "faiz_00038",
+    "TITLE_UR": "کچھ اس کی یاد نے ایسے گھیرا",
+    "TITLE_EN": "Kuchh Uski Yaad Ne Aise Ghera",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 4
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گھیرا",
+      "رہا",
+      "ہے",
+      "تھا",
+      "ہے"
+    ],
+    "SENTIMENT": "obsessive, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about how the beloved's memory consumes all other thoughts and makes the world meaningless without them."
+  },
+  {
+    "TEXT_ID": "faiz_00039",
+    "TITLE_UR": "وہ ہم نہیں جو پہلے تھے",
+    "TITLE_EN": "Wo Hum Nahin Jo Pehle Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 4
+    },
+    "TTR": 0.816,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "جا",
+      "لاؤں",
+      "سوا"
+    ],
+    "SENTIMENT": "transformed, sorrowful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about transformation through suffering and the impossibility of finding anyone like the beloved. The radif 'تھے' creates a sense of past state."
+  },
+  {
+    "TEXT_ID": "faiz_00040",
+    "TITLE_UR": "چاندنی رات میں تنہا",
+    "TITLE_EN": "Chandni Raat Mein Tanha",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تنہا",
+      "مجھ سے",
+      "صورت",
+      "یاد",
+      "آتا",
+      "لگا"
+    ],
+    "SENTIMENT": "lonely, moonlit",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the burden of memory in moonlit nights and the torment of love. Moon imagery enhances the romantic melancholy."
+  },
+  {
+    "TEXT_ID": "faiz_00041",
+    "TITLE_UR": "دل تو بہل گیا مگر",
+    "TITLE_EN": "Dil To Behal Gaya Magar",
+    "TOKEN_COUNTS": {
+      "total_words": 66,
+      "unique_words": 54,
+      "verses": 3
+    },
+    "TTR": 0.818,
+    "RADIF": null,
+    "QAAFIYA": [
+      "مگر",
+      "ہے",
+      "کی",
+      "ہے"
+    ],
+    "SENTIMENT": "persistent, habitual",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "A ghazal about the persistence of memory and the habit of smiling through grief. Despite distraction, memory returns."
+  },
+  {
+    "TEXT_ID": "faiz_00042",
+    "TITLE_UR": "اب کسی کے غم میں جلنا کیا",
+    "TITLE_EN": "Ab Kisi Ke Gham Mein Jalna Kya",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کیا",
+      "گئی",
+      "آنا",
+      "ہوتا",
+      "ہے"
+    ],
+    "SENTIMENT": "betrayed, reminiscent",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a single call that promised life and the suspicion that unfaithfulness hides something deeper."
+  },
+  {
+    "TEXT_ID": "faiz_00043",
+    "TITLE_UR": "وہ جو اک بار مل گیا تھا",
+    "TITLE_EN": "Wo Jo Ek Baar Mil Gaya Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہوں",
+      "رکھیں",
+      "ستایا",
+      "لیا"
+    ],
+    "SENTIMENT": "regretful, tormented",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a significant meeting that defines what meeting means, and how grief increases when expected to decrease."
+  },
+  {
+    "TEXT_ID": "faiz_00044",
+    "TITLE_UR": "کچھ تو ہے جو اس نے چھپایا",
+    "TITLE_EN": "Kuchh To Hai Jo Uss Ne Chhupaya",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.816,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھی",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about hidden things beneath indifference and the heart's eternal dissatisfaction despite all experience."
+  },
+  {
+    "TEXT_ID": "faiz_00045",
+    "TITLE_UR": "اس نے تو اک نظر میں دیکھ کر",
+    "TITLE_EN": "Uss Ne To Ek Nazar Mein Dekh Kar",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.806,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیکھ کر",
+      "ہے",
+      "کی",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "transformative, enduring",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the power of a single glance to erase sorrow and the habit of smiling in grief. The heart eternally watches the same path."
+  },
+  {
+    "TEXT_ID": "faiz_00046",
+    "TITLE_UR": "آج پھر اس کا خیال آیا",
+    "TITLE_EN": "Aaj Phir Uss Ka Khayal Aaya",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "آیا",
+      "ہے",
+      "آئے",
+      "گی",
+      "گیا",
+      "بھی"
+    ],
+    "SENTIMENT": "resigned, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the persistence of memory and the final state of knowing nothing at all except the beloved's thought."
+  },
+  {
+    "TEXT_ID": "faiz_00047",
+    "TITLE_UR": "دل کو سمجھایا بہت پر وہ",
+    "TITLE_EN": "Dil Ko Samjhaya Bahut Par Woh",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.811,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "کہاں",
+      "جگایا",
+      "ہے",
+      "لگائے"
+    ],
+    "SENTIMENT": "wistful, habitual",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the heart's obsession and the beautiful imagery of the heart going to the beloved's lane when the moon rises."
+  },
+  {
+    "TEXT_ID": "faiz_00048",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ اب چین ملے گا",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Ab Chain Mile Ga",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.816,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گیا",
+      "کہیے",
+      "جائیں",
+      "کیا",
+      "پایا"
+    ],
+    "SENTIMENT": "frustrated, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about peace receding further when sought, and the torment of dreams where the heart turns against itself."
+  },
+  {
+    "TEXT_ID": "faiz_00049",
+    "TITLE_UR": "وہ جو ہم سے مل کر مسکرائے تھے",
+    "TITLE_EN": "Wo Jo Hum Se Mil Kar Muskurae Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "نہیں",
+      "کھویا",
+      "نہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "melancholic, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about an enduring smile that remains in memory, and the state of not wanting to meet even oneself."
+  },
+  {
+    "TEXT_ID": "faiz_00050",
+    "TITLE_UR": "آج پھر اس کی یاد آئی تو",
+    "TITLE_EN": "Aaj Phir Uss Ki Yaad Aai To",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.806,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تو",
+      "آئے",
+      "تھا",
+      "ہے",
+      "کاٹے"
+    ],
+    "SENTIMENT": "nostalgic, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a day lost entirely to memory, and the question of whose memory consumed Faiz's days."
+  },
+  {
+    "TEXT_ID": "faiz_00051",
+    "TITLE_UR": "دل ناشاد کو تجھ سے کوئی امید نہیں",
+    "TITLE_EN": "Dil-e-Nashad Ko Tujh Se Koi Umeed Nahi",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 64,
+      "verses": 4
+    },
+    "TTR": 0.821,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "نہیں",
+      "نہیں",
+      "بھرتا",
+      "نہیں",
+      "نہیں"
+    ],
+    "SENTIMENT": "hopeless, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about hopeless hope and the endless fascination with the beloved's story. The radif 'نہیں' emphasizes negation and absence."
+  },
+  {
+    "TEXT_ID": "faiz_00052",
+    "TITLE_UR": "وہ لوگ کہاں گئے جو کہتے تھے",
+    "TITLE_EN": "Wo Log Kahan Gaye Jo Kehte Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "گئے",
+      "گئے",
+      "آئیں",
+      "نہیں"
+    ],
+    "SENTIMENT": "nostalgic, searching",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about those who promised to search but themselves got lost. The radif 'تھے' creates a sense of past existence now lost."
+  },
+  {
+    "TEXT_ID": "faiz_00053",
+    "TITLE_UR": "یوں تو سب ہیں غم زدہ لیکن",
+    "TITLE_EN": "Yun To Sab Hain Gham-zada Lekin",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 4
+    },
+    "TTR": 0.806,
+    "RADIF": null,
+    "QAAFIYA": [
+      "لیکن",
+      "گیا",
+      "گیا",
+      "ہے",
+      "لگتا"
+    ],
+    "SENTIMENT": "distinguishing, penetrating",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal distinguishing between ordinary grief and the beloved's grief that penetrates deeper and remains in the eyes."
+  },
+  {
+    "TEXT_ID": "faiz_00054",
+    "TITLE_UR": "اب کے ہم نے سوچا ہے",
+    "TITLE_EN": "Ab Ke Hum Ne Socha Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 4
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "نہیں",
+      "جائیں",
+      "ہے",
+      "بنی"
+    ],
+    "SENTIMENT": "conflicted, silent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the conflict between decision and emotion, and the heaviness of silence."
+  },
+  {
+    "TEXT_ID": "faiz_00055",
+    "TITLE_UR": "کچھ تو دن میں بھی اندھیرا ہوتا",
+    "TITLE_EN": "Kuchh To Din Mein Bhi Andhera Hota",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 54,
+      "verses": 4
+    },
+    "TTR": 0.794,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہوتا",
+      "کوئی",
+      "رہو",
+      "ہے",
+      "گئی"
+    ],
+    "SENTIMENT": "wistful, waiting",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal wishing for darkness to escape memories, and the endless waiting that consumes life."
+  },
+  {
+    "TEXT_ID": "faiz_00056",
+    "TITLE_UR": "دل کو سمجھا کر یہ کہا کرتے تھے",
+    "TITLE_EN": "Dil Ko Samjha Kar Ye Kaha Karte Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کیا",
+      "گئی",
+      "آنا",
+      "ہوتا",
+      "ہے"
+    ],
+    "SENTIMENT": "hopeful, betrayed",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a single call that promised life. The suspicion that unfaithfulness hides something deeper is explored."
+  },
+  {
+    "TEXT_ID": "faiz_00057",
+    "TITLE_UR": "وہ جو اک بار مل گیا تھا",
+    "TITLE_EN": "Wo Jo Ek Baar Mil Gaya Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہوں",
+      "رکھیں",
+      "ستایا",
+      "لیا"
+    ],
+    "SENTIMENT": "regretful, tormented",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a significant meeting that defines what meeting means. The beloved will be remembered even after death. Grief increases when expected to decrease."
+  },
+  {
+    "TEXT_ID": "faiz_00060",
+    "TITLE_UR": "دل کو سمجھایا بہت پر وہ",
+    "TITLE_EN": "Dil Ko Samjhaya Bahut Par Woh",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "کہاں",
+      "جگایا",
+      "ہے",
+      "لگائے"
+    ],
+    "SENTIMENT": "wistful, habitual",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the heart's obsession. The beautiful imagery of the heart going to the beloved's lane when the moon rises is a classic Faiz motif."
+  },
+  {
+    "TEXT_ID": "faiz_00062",
+    "TITLE_UR": "کچھ تو ہے جو اس نے چھپایا",
+    "TITLE_EN": "Kuchh To Hai Jo Uss Ne Chhupaya",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 63,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھی",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about hidden things beneath indifference and the heart's eternal dissatisfaction despite all experience."
+  },
+  {
+    "TEXT_ID": "faiz_00075",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ اب چین ملے گا",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Ab Chain Mile Ga",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.838,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گیا",
+      "کہیے",
+      "جائیں",
+      "کیا",
+      "پایا"
+    ],
+    "SENTIMENT": "frustrated, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about peace receding further when sought, and the torment of dreams where the heart turns against itself."
+  },
+  {
+    "TEXT_ID": "faiz_00080",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ وہ بھول گئے",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Woh Bhool Gaye",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "جائیں",
+      "بچا",
+      "ہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "reflective, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the irony of assuming the beloved has forgotten when she actually remembers. Life's constant state remains unchanged."
+  },
+  {
+    "TEXT_ID": "faiz_00081",
+    "TITLE_UR": "ہم سے جو بات کہی تم نے سن لی ہم نے",
+    "TITLE_EN": "Hum Se Jo Baat Kahi Tum Ne Sun Li Hum Ne",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 4
+    },
+    "TTR": 0.806,
+    "RADIF": "نے",
+    "QAAFIYA": [
+      "نے",
+      "نے",
+      "ہے",
+      "گے",
+      "رکھیں",
+      "ہے",
+      "نہیں"
+    ],
+    "SENTIMENT": "receptive, reminiscent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about words that are heard and cherished, and the conflict between promises of forgetting and remembering. The radif 'نے' emphasizes agency."
+  },
+  {
+    "TEXT_ID": "faiz_00082",
+    "TITLE_UR": "یوں تو ہر چہرہ پہ اجنبیت چھائی ہے",
+    "TITLE_EN": "Yun To Har Chehra Pe Ajnabiyat Chhayi Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "ہے",
+      "یاد",
+      "ہے",
+      "بنی"
+    ],
+    "SENTIMENT": "distinguishing, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the beloved's face being the only one not strange. The radif 'ہے' creates a sense of present truth."
+  },
+  {
+    "TEXT_ID": "faiz_00083",
+    "TITLE_UR": "ہم نے چاہا تو بہت پر نہ ملا",
+    "TITLE_EN": "Hum Ne Chaha To Bahut Par Na Mila",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 4
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملا",
+      "ملنا",
+      "ہے",
+      "ہے",
+      "لگتا"
+    ],
+    "SENTIMENT": "resigned, paradoxical",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the grief of forgetting and the paradoxical pleasure found in the heart's burning. Fate and destiny themes appear."
+  },
+  {
+    "TEXT_ID": "faiz_00084",
+    "TITLE_UR": "یوں نہیں کہ اس کا غم کم ہو گیا",
+    "TITLE_EN": "Yun Nahin Ke Uss Ka Gham Kam Ho Gaya",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 54,
+      "verses": 4
+    },
+    "TTR": 0.794,
+    "RADIF": "گیا",
+    "QAAFIYA": [
+      "گیا",
+      "گئی",
+      "ہیں",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "habitual, desolate",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about how grief becomes habitual, and the desolation of paths once walked together. The radif 'گیا' creates a sense of transformation."
+  },
+  {
+    "TEXT_ID": "faiz_00085",
+    "TITLE_UR": "اب تو گزرے دن بھی یاد نہیں",
+    "TITLE_EN": "Ab To Guzray Din Bhi Yaad Nahin",
+    "TOKEN_COUNTS": {
+      "total_words": 66,
+      "unique_words": 52,
+      "verses": 4
+    },
+    "TTR": 0.788,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "نہیں",
+      "نہیں",
+      "جائیں",
+      "ہے",
+      "بنی"
+    ],
+    "SENTIMENT": "erased, silent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the erasure of both past and future from memory, leaving only a heavy silence. The radif 'نہیں' emphasizes negation."
+  },
+  {
+    "TEXT_ID": "faiz_00086",
+    "TITLE_UR": "کچھ نہیں تو یہ دل ہے",
+    "TITLE_EN": "Kuchh Nahin To Ye Dil Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 64,
+      "verses": 5
+    },
+    "TTR": 0.821,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "تھا",
+      "بھولے",
+      "ہیں",
+      "دیا"
+    ],
+    "SENTIMENT": "protective, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the preciousness of the heart, the persistence of memory, and total sacrifice for the beloved."
+  },
+  {
+    "TEXT_ID": "faiz_00101",
+    "TITLE_UR": "اب اس کے بعد کس سے ملیے",
+    "TITLE_EN": "Ab Uss Ke Baad Kis Se Miliye",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 54,
+      "verses": 4
+    },
+    "TTR": 0.794,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملیے",
+      "ہے",
+      "ہے",
+      "ہے",
+      "نہیں"
+    ],
+    "SENTIMENT": "omnipresent, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about seeing the beloved's reflection everywhere after separation. The beloved's image is both in the heart and in every face."
+  },
+  {
+    "TEXT_ID": "faiz_00102",
+    "TITLE_UR": "وہ بات سارے فسانے میں جس کا ذکر نہ تھا",
+    "TITLE_EN": "Wo Baat Sare Fasanay Mein Jis Ka Zikr Na Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 4
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "mysterious, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the unspoken elements in love and the mystery of attachment. The thing not mentioned becomes most significant."
+  },
+  {
+    "TEXT_ID": "faiz_00103",
+    "TITLE_UR": "ہم نے مانا کہ تم سے کچھ نہ ملا",
+    "TITLE_EN": "Hum Ne Mana Ke Tum Se Kuchh Na Mila",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 4
+    },
+    "TTR": 0.811,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملا",
+      "تھی",
+      "لگیں",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "philosophical, accepting",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the pleasure found in desire itself, even when unfulfilled. The world's sorrow becomes the beloved's sorrow."
+  },
+  {
+    "TEXT_ID": "faiz_00105",
+    "TITLE_UR": "وہ لوگ بہت خوش قسمت تھے",
+    "TITLE_EN": "Wo Log Bahut Khush Qismat Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 4
+    },
+    "TTR": 0.806,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "ہو",
+      "والا",
+      "تھا"
+    ],
+    "SENTIMENT": "philosophical, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A philosophical ghazal comparing the fortune of those who could pursue love as a profession. The radif 'تھے' emphasizes past state."
+  },
+  {
+    "TEXT_ID": "faiz_00106",
+    "TITLE_UR": "قریب آؤ کہ ہم تم سے پیار کر لیں",
+    "TITLE_EN": "Qareeb Aao Ke Hum Tum Se Pyaar Kar Lein",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 4
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "لیں",
+      "سکیں",
+      "کھوئے",
+      "گزارا",
+      "ہے"
+    ],
+    "SENTIMENT": "passionate, urgent",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A passionate ghazal about the urgency of love. The beloved's image is seen on every face after separation."
+  },
+  {
+    "TEXT_ID": "faiz_00108",
+    "TITLE_UR": "یوں ہی انتظار کا موسم نہیں گزرتا",
+    "TITLE_EN": "Yun Hi Intezar Ka Mausam Nahin Guzarta",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 54,
+      "verses": 4
+    },
+    "TTR": 0.794,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گزرتا",
+      "جائیں",
+      "بھاری",
+      "آگئی",
+      "سکیں"
+    ],
+    "SENTIMENT": "lonely, heavy",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal exploring the heaviness of silence and the need for a confidant. The heart's words cannot be shared."
+  },
+  {
+    "TEXT_ID": "faiz_00109",
+    "TITLE_UR": "ہم پہ اب بھی ہے اس کی مہربانی",
+    "TITLE_EN": "Hum Pe Ab Bhi Hai Uski Mehrbani",
+    "TOKEN_COUNTS": {
+      "total_words": 64,
+      "unique_words": 50,
+      "verses": 4
+    },
+    "TTR": 0.781,
+    "RADIF": null,
+    "QAAFIYA": [
+      "مہربانی",
+      "راتوں",
+      "عادت",
+      "کہتے",
+      "ہوچکا"
+    ],
+    "SENTIMENT": "bittersweet, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about the bittersweet nature of memory when the beloved no longer comes. The heart becomes accustomed to absence."
+  },
+  {
+    "TEXT_ID": "faiz_00111",
+    "TITLE_UR": "اب کے ہم بچھڑے تو شاید",
+    "TITLE_EN": "Ab Ke Hum Bichhde To Shayad",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 36,
+      "verses": 3
+    },
+    "TTR": 0.75,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملیں",
+      "ملیں",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "nostalgic, hopeful",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "A famous ghazal about separation and the hope of meeting in dreams. The imagery of dried flowers in books is iconic."
+  },
+  {
+    "TEXT_ID": "faiz_00116",
+    "TITLE_UR": "وہ ہم نہیں جو پہلے تھے",
+    "TITLE_EN": "Wo Hum Nahin Jo Pehle Thay",
+    "TOKEN_COUNTS": {
+      "total_words": 66,
+      "unique_words": 52,
+      "verses": 4
+    },
+    "TTR": 0.788,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "جا",
+      "لاؤں",
+      "سوا"
+    ],
+    "SENTIMENT": "transformed, sorrowful",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "A ghazal about transformation through suffering. The radif 'تھے' creates a sense of past state and lost identity."
+  },
+  {
+    "TEXT_ID": "faiz_00119",
+    "TITLE_UR": "اب کسی کے غم میں جلنا کیا",
+    "TITLE_EN": "Ab Kisi Ke Gham Mein Jalna Kya",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کیا",
+      "گئی",
+      "آنا",
+      "ہوتا",
+      "ہے"
+    ],
+    "SENTIMENT": "hopeful, betrayed",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about a single call that promised life. The suspicion that unfaithfulness hides something deeper is explored."
+  },
+  {
+    "TEXT_ID": "faiz_00122",
+    "TITLE_UR": "اس نے تو اک نظر میں دیکھ کر",
+    "TITLE_EN": "Uss Ne To Ek Nazar Mein Dekh Kar",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیکھ کر",
+      "ہے",
+      "کی",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "transformative, enduring",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the power of a single glance to erase sorrow. The habit of smiling in grief becomes defining."
+  },
+  {
+    "TEXT_ID": "faiz_00123",
+    "TITLE_UR": "آج پھر اس کا خیال آیا",
+    "TITLE_EN": "Aaj Phir Uss Ka Khayal Aaya",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "آیا",
+      "ہے",
+      "آئے",
+      "گی",
+      "گیا",
+      "بھی"
+    ],
+    "SENTIMENT": "resigned, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the persistence of memory. The final state of knowing nothing at all except the beloved's thought."
+  },
+  {
+    "TEXT_ID": "faiz_00124",
+    "TITLE_UR": "دل کو سمجھایا بہت پر وہ",
+    "TITLE_EN": "Dil Ko Samjhaya Bahut Par Woh",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.811,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "کہاں",
+      "جگایا",
+      "ہے",
+      "لگائے"
+    ],
+    "SENTIMENT": "wistful, habitual",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the heart's obsession. The imagery of the heart going to the beloved's lane when the moon rises is beautiful."
+  },
+  {
+    "TEXT_ID": "faiz_00125",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ اب چین ملے گا",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Ab Chain Mile Ga",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.816,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گیا",
+      "کہیے",
+      "جائیں",
+      "کیا",
+      "پایا"
+    ],
+    "SENTIMENT": "frustrated, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about peace receding further when sought. The torment of dreams is a powerful theme."
+  },
+  {
+    "TEXT_ID": "faiz_00126",
+    "TITLE_UR": "کچھ تو ہے جو اس نے چھپایا",
+    "TITLE_EN": "Kuchh To Hai Jo Uss Ne Chhupaya",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.816,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھی",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about hidden things beneath indifference. Both meeting and departure were significant."
+  },
+  {
+    "TEXT_ID": "faiz_00127",
+    "TITLE_UR": "اس نے تو اک نظر میں دیکھ کر",
+    "TITLE_EN": "Uss Ne To Ek Nazar Mein Dekh Kar",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیکھ کر",
+      "ہے",
+      "کی",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "transformative, enduring",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the power of a single glance. The heart eternally watches the same path."
+  },
+  {
+    "TEXT_ID": "faiz_00128",
+    "TITLE_UR": "آج پھر اس کا خیال آیا",
+    "TITLE_EN": "Aaj Phir Uss Ka Khayal Aaya",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "آیا",
+      "ہے",
+      "آئے",
+      "گی",
+      "گیا",
+      "بھی"
+    ],
+    "SENTIMENT": "resigned, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the persistence of memory. Words spoken remain eternal."
+  },
+  {
+    "TEXT_ID": "faiz_00129",
+    "TITLE_UR": "دل تو بہل گیا تھا کچھ دیر",
+    "TITLE_EN": "Dil To Behal Gaya Tha Kuchh Der",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.806,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیر",
+      "نہیں",
+      "رکھا",
+      "نہیں",
+      "ہے"
+    ],
+    "SENTIMENT": "cyclical, obsessive",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the cycle of distraction and return to memory. The beloved dwells in the eyes."
+  },
+  {
+    "TEXT_ID": "faiz_00130",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ وہ بھول گئے",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Woh Bhool Gaye",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.8,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "جائیں",
+      "بچا",
+      "ہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "reflective, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A ghazal about the irony of assuming the beloved has forgotten when she actually remembers. Life's constant state remains unchanged."
+  }
+]

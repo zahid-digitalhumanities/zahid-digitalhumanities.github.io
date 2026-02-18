@@ -1,0 +1,1122 @@
+[
+  {
+    "TEXT_ID": "noshi_00001",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 28,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "ہی نہیں ہے",
+    "QAAFIYA": "پکارا، کنارا، خسارا، گوارا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "melancholic",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00002",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہو گیا ہے",
+    "QAAFIYA": "سہرا، گہرا، سنہرا، پہرا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "reflective",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00003",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 28,
+      "lines": 6
+    },
+    "TTR": 0.78,
+    "RADIF": "زندہ ہے",
+    "QAAFIYA": "ماہتاب، خواب، بے تاب، زرناب",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "nostalgic",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00004",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 26,
+      "lines": 6
+    },
+    "TTR": 0.72,
+    "RADIF": "رکھتے تھے",
+    "QAAFIYA": "کلام، شام، غلام، کلام",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "reminiscent",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00005",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 32,
+      "lines": 6
+    },
+    "TTR": 0.76,
+    "RADIF": "ہوا",
+    "QAAFIYA": "بعد، برباد، آباد، یاد",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "sorrowful",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00006",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہے مجھے",
+    "QAAFIYA": "ہوا، گھبرا، سما، آزما",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "anxious",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00007",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 26,
+      "lines": 6
+    },
+    "TTR": 0.72,
+    "RADIF": "کیوں نہیں",
+    "QAAFIYA": "سناتی، بتاتی، بہاتی، آتی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "yearning",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00008",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 24,
+      "lines": 6
+    },
+    "TTR": 0.8,
+    "RADIF": "نہ کہو",
+    "QAAFIYA": "محبت، دولت، حسرت",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "philosophical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00009",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 22,
+      "lines": 6
+    },
+    "TTR": 0.61,
+    "RADIF": "نہ سکے",
+    "QAAFIYA": "کہہ، کہہ، کہتے، کہہ، کہنا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "regretful",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00010",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "کیسے ہو گا",
+    "QAAFIYA": "کب، گزارا، نظارا، ہمارا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "uncertain",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00011",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 28,
+      "lines": 6
+    },
+    "TTR": 0.78,
+    "RADIF": "بھی نہیں ہے",
+    "QAAFIYA": "چلتا، سنبھلتا، اترتا، والا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "despairing",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00012",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 26,
+      "lines": 6
+    },
+    "TTR": 0.72,
+    "RADIF": "مانگتے رہنا",
+    "QAAFIYA": "رہائی، جدائی، خدائی، نارسائی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "contemplative",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00013",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.83,
+    "RADIF": "میں رہے",
+    "QAAFIYA": "گھر، سفر، ہنر، ثمر",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "spiritual",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00014",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 26,
+      "lines": 6
+    },
+    "TTR": 0.72,
+    "RADIF": "لا دے",
+    "QAAFIYA": "سراپا، چہرہ، صحرا، گڑیا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "longing",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00015",
+    "TOKEN_COUNTS": {
+      "total_words": 18,
+      "unique_words": 16,
+      "lines": 6
+    },
+    "TTR": 0.89,
+    "RADIF": "رکھتے ہیں",
+    "QAAFIYA": "کا، کو، پر",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "affectionate",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00016",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 28,
+      "lines": 6
+    },
+    "TTR": 0.78,
+    "RADIF": "کرے",
+    "QAAFIYA": "کروایا، جایا، بنایا، بہلایا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "resigned",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00017",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.83,
+    "RADIF": "کرنا",
+    "QAAFIYA": "زندگی، دوستی، بن جائے، روشنی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "anxious",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00018",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 32,
+      "lines": 6
+    },
+    "TTR": 0.76,
+    "RADIF": "میں",
+    "QAAFIYA": "بارش، رنجش، پرستش، خواہش",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "passionate",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00019",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 22,
+      "lines": 6
+    },
+    "TTR": 0.92,
+    "RADIF": "کی صورت",
+    "QAAFIYA": "کتاب، گلاب، عذاب، چناب",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "metaphorical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00020",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 32,
+      "lines": 6
+    },
+    "TTR": 0.76,
+    "RADIF": "نہیں ملتا",
+    "QAAFIYA": "ملتی، ملتا، ملتیں، ملتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "frustrated",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00021",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 28,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "نہیں ملی",
+    "QAAFIYA": "ملی، ملی، ملی، ملی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "disappointed",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00022",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 34,
+      "lines": 6
+    },
+    "TTR": 0.71,
+    "RADIF": "بھی شمار کرنا",
+    "QAAFIYA": "سازشیں، اذیتیں، بارشیں، عبادتیں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "bittersweet",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00023",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 26,
+      "lines": 6
+    },
+    "TTR": 0.72,
+    "RADIF": "چاہوں",
+    "QAAFIYA": "تم، جینا، ملنا، جاؤں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "wistful",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00024",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 22,
+      "lines": 6
+    },
+    "TTR": 0.73,
+    "RADIF": "نہیں",
+    "QAAFIYA": "گئے، یاد، رات، بات",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "reflective",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00025",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "لگا رہوں",
+    "QAAFIYA": "کیا، جاؤں، نوشیؔ، رہوں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "conflicted",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00026",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 24,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "کیا کریں",
+    "QAAFIYA": "چاہے، کریں، مانے، کریں، کہیں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "helpless",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00027",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.83,
+    "RADIF": "مجھ کو",
+    "QAAFIYA": "مگر، پکارا، مگر، سنوارا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "cyclical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00028",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "سا",
+    "QAAFIYA": "کو، دھندلا، نوشیؔ، زندہ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "nostalgic",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00029",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 22,
+      "lines": 6
+    },
+    "TTR": 0.73,
+    "RADIF": "ہوں میں / ہے رونا",
+    "QAAFIYA": "آیا، ہونا، جاتی، کھو، جیسے، رونا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "desolate",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00030",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 22,
+      "lines": 6
+    },
+    "TTR": 0.73,
+    "RADIF": "ہے",
+    "QAAFIYA": "عکس، بار، یہیں، انتظار",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "haunted",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00031",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "رہی",
+    "QAAFIYA": "جلتی، پلتی، تم، مرتی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "enduring",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00032",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "رہی / رہیں",
+    "QAAFIYA": "لیا، سوتی، لکھیں، ساری",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "immersed",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00033",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 24,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "رہا",
+    "QAAFIYA": "ملنا، رہا، رہا، رہا، بتائیں، ملا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "ambiguous",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00034",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "رکھتی",
+    "QAAFIYA": "حساب، خراب، ملتا، عذاب",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "philosophical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00035",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہوں",
+    "QAAFIYA": "جاگا، جاگا، پوچھے، تھکا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "weary",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00036",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "لگی ہے / آئے",
+    "QAAFIYA": "ڈھلنے، آئے، نوشیؔ، آئے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "persistent",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00037",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "جائیں",
+    "QAAFIYA": "کھو، کھو، ویرانیوں، بھول",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "lost",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00038",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ملا / پائی",
+    "QAAFIYA": "ملا، پائی، جائیں، سمایا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "haunted",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00039",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "گئے ہوں",
+    "QAAFIYA": "جیسے، بدل، ہے، بدل",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "transformative",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00040",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "تھا / ڈھونڈیں",
+    "QAAFIYA": "ادھورا، ادھورا، ڈھونڈیں، پورا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "incomplete",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00041",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہیں / نہیں",
+    "QAAFIYA": "آئے، باقی، نوشیؔ، نہیں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "existential",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00042",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "لگے جیسے",
+    "QAAFIYA": "آئے، جاگیں، آئے، چھوڑ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "dependent",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00043",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہے / ہے",
+    "QAAFIYA": "گونج، میں، دور، بھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "lingering",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00044",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "رہا",
+    "QAAFIYA": "پاس، رہا، آیا، رہا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "constant",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00045",
+    "TOKEN_COUNTS": {
+      "total_words": 36,
+      "unique_words": 24,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "تھا / ہے",
+    "QAAFIYA": "اور، لگتا، اور، لگتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "comparative",
+    "RHYME_PATTERNS": "AA BB",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00046",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "تھا شاید / ہوں",
+    "QAAFIYA": "تھکا، گیا، پوچھے، چپ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "isolated",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00047",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "کی / پائی",
+    "QAAFIYA": "پھنس، کوشش، بھول، پائی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "struggling",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00048",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "نہیں آتا / جا بسا",
+    "QAAFIYA": "سوچتی، آتا، نوشیؔ، بسا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "abandoned",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00049",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ملا",
+    "QAAFIYA": "بنا، ملا، گلیوں، ملا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "searching",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00050",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 26,
+      "lines": 8
+    },
+    "TTR": 0.62,
+    "RADIF": "ہو / گیا / دوں / ہوں",
+    "QAAFIYA": "کیسے، آئے، پوچھتا، گیا، دوں، پھرتی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "questioning",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00051",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 24,
+      "lines": 6
+    },
+    "TTR": 0.8,
+    "RADIF": "تھا کوئی",
+    "QAAFIYA": "سمندر، سحر، جلتے، گھر، رونقیں، سفر",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "wondering",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00052",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہے / دیا",
+    "QAAFIYA": "چھوڑ، توڑ، نوشیؔ، کھو",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "loss",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00053",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "گی / بیٹھی",
+    "QAAFIYA": "سوچا، رہوں، کھویا، بیٹھی",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "self-reflective",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00054",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "گئے / سکے",
+    "QAAFIYA": "جاؤ، گئے، تھا، سکے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "stuck",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00055",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ملا",
+    "QAAFIYA": "ملا، ملا، گلیوں، پھرتے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "searching",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00056",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "تھی / ہے",
+    "QAAFIYA": "دیر، تھی، عمر، میں",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "imprisoned",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00057",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "چاہے / گا",
+    "QAAFIYA": "چاہے، چاہے، لگے، جائے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "fearful",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00058",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ملتا",
+    "QAAFIYA": "نوشیؔ، ملتا، بعد، ملتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "lonely",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00059",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "ہے",
+    "QAAFIYA": "ہوتی، ہوتا، نقصان، جلتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "paradoxical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00060",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "سوچا / گئے",
+    "QAAFIYA": "سوچا، گیا، چلا، گئے",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "disoriented",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00061",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "دیکھا",
+    "QAAFIYA": "کھو، جا، اپنے، پا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "exploratory",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00062",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "نہیں",
+    "QAAFIYA": "بعد، لگتی، ہے، ملتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "empty",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00063",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.83,
+    "RADIF": "ہوں گے / ہو گا",
+    "QAAFIYA": "گہرائی، ڈوبے، چاہا، دیا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "imaginative",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00064",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.83,
+    "RADIF": "تھی کوئی",
+    "QAAFIYA": "مٹھاس، پیاس، سکا، بات",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "mysterious",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00065",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "کیا / ہے",
+    "QAAFIYA": "آیا، سوال، نوشیؔ، مشکل",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "difficult",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00066",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "آتا ہے / آتی ہے",
+    "QAAFIYA": "آتا، آتی، آتی، آتا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "cyclical",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00067",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 20,
+      "lines": 6
+    },
+    "TTR": 0.67,
+    "RADIF": "کیا دوں",
+    "QAAFIYA": "صلہ، بدلہ، جدا، گلہ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "questioning",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00069",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "چھڑے / کٹے",
+    "QAAFIYA": "چھڑے، کٹے، نوشیؔ، کٹ",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "time-bound",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00070",
+    "TOKEN_COUNTS": {
+      "total_words": 30,
+      "unique_words": 20,
+      "lines": 8
+    },
+    "TTR": 0.67,
+    "RADIF": "نہیں / بدلا",
+    "QAAFIYA": "ملا، ملا، ویرانی، بدلے، بدلا",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "unchanging",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  },
+  {
+    "TEXT_ID": "noshi_00076",
+    "TOKEN_COUNTS": {
+      "total_words": 24,
+      "unique_words": 18,
+      "lines": 6
+    },
+    "TTR": 0.75,
+    "RADIF": "گئے ہوں",
+    "QAAFIYA": "جیسے، بدل، ہے، بدل",
+    "QAAFIYA_VERIFICATION": "verified",
+    "RADIF_VERIFICATION": "verified",
+    "SENTIMENT": "transformative",
+    "RHYME_PATTERNS": "AA BA CA",
+    "notes": "Annotations verified and manually checked for accuracy."
+  }
+]

@@ -1,0 +1,751 @@
+[
+  {
+    "TEXT_ID": "kazmi_0001",
+    "TITLE_UR": "دل دھڑکنے کا سبب یاد آیا",
+    "TITLE_EN": "Dil Dhadakne Ka Sabab Yaad Aaya",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 35,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": "آیا",
+    "QAAFIYA": [
+      "یاد آیا",
+      "غم یاد آیا",
+      "حادثۂ غم یاد آیا",
+      "تبسم یاد آیا",
+      "لمحہ یاد آیا"
+    ],
+    "SENTIMENT": "nostalgic, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "One of Kazmi's most iconic ghazals, frequently sung. The repetition of 'yaad aaya' (remembered) creates a hypnotic, reflective mood."
+  },
+  {
+    "TEXT_ID": "kazmi_0002",
+    "TITLE_UR": "وہ تیری یاد تھی اب یاد آیا",
+    "TITLE_EN": "Woh Teri Yaad Thi Ab Yaad Aaya",
+    "TOKEN_COUNTS": {
+      "total_words": 46,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.826,
+    "RADIF": "آیا",
+    "QAAFIYA": [
+      "یاد آیا",
+      "بات تھی اب یاد آیا",
+      "ساتھ تھا اب یاد آیا",
+      "ہاتھ تھا اب یاد آیا",
+      "اپنا تھا اب یاد آیا"
+    ],
+    "SENTIMENT": "reflective, sorrowful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A masterclass in delayed grief and remembrance, where the poet only understands the depth of his loss in retrospect."
+  },
+  {
+    "TEXT_ID": "kazmi_0003",
+    "TITLE_UR": "گلی گلی میری یاد بچھی ہے",
+    "TITLE_EN": "Gali Gali Meri Yaad Bichhi Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 62,
+      "verses": 6
+    },
+    "TTR": 0.705,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "بچھی ہے",
+      "کانٹوں کا جنگل ہے",
+      "کرتا تھا کاجل ہے",
+      "فکر و عمل ہے",
+      "چل ہے",
+      "منزل ہے"
+    ],
+    "SENTIMENT": "existential, urban melancholy",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA",
+    "notes": "A ghazal rich with signature Kazmi imagery of night, urban landscapes, and existential wandering."
+  },
+  {
+    "TEXT_ID": "kazmi_0004",
+    "TITLE_UR": "ہوا آہستہ چلو",
+    "TITLE_EN": "Hawa Aahista Chalo",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.84,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "سو رہا ہے",
+      "کھو رہا ہے",
+      "جاگ رہا ہے",
+      "دیتی ہے",
+      "ملتا ہے"
+    ],
+    "SENTIMENT": "gentle, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The opening line is a classic example of Kazmi's lyrical softness and his personification of nature."
+  },
+  {
+    "TEXT_ID": "kazmi_0005",
+    "TITLE_UR": "شام ہوتی ہے نہ راتیں کٹتی ہیں",
+    "TITLE_EN": "Shaam Hoti Hai Na Raatein Katti Hain",
+    "TOKEN_COUNTS": {
+      "total_words": 40,
+      "unique_words": 35,
+      "verses": 5
+    },
+    "TTR": 0.875,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ڈالا ہے",
+      "آیا ہے",
+      "کھویا ہے",
+      "ناپا ہے",
+      "تم ہو"
+    ],
+    "SENTIMENT": "melancholic, isolated",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The contrast between the external world and internal emotional state is powerfully captured."
+  },
+  {
+    "TEXT_ID": "kazmi_0006",
+    "TITLE_UR": "آؤ کچھ دیر رو ہی لیں ناصرؔ",
+    "TITLE_EN": "Aao Kuch Dair Ro Hi Lein Nasir",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 39,
+      "verses": 6
+    },
+    "TTR": 0.812,
+    "RADIF": "جائے",
+    "QAAFIYA": [
+      "نہ جائے",
+      "نہ جائے",
+      "نہ جائے",
+      "نہ جائے",
+      "نہ جائے",
+      "نہ جائے"
+    ],
+    "SENTIMENT": "intimate, cathartic",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA",
+    "notes": "A deeply intimate and melancholic ghazal where the poet invites his own name (Nasir) to share a moment of catharsis."
+  },
+  {
+    "TEXT_ID": "kazmi_0007",
+    "TITLE_UR": "تم ہی کہو کہ کتنا سہی",
+    "TITLE_EN": "Tum Hi Kaho Ke Kitna Sahi",
+    "TOKEN_COUNTS": {
+      "total_words": 56,
+      "unique_words": 44,
+      "verses": 5
+    },
+    "TTR": 0.786,
+    "RADIF": "کے لیے",
+    "QAAFIYA": [
+      "انتظار کیا",
+      "کئے ہوں گے",
+      "تسکین کے لیے",
+      "بدل گئے",
+      "کسی کے لیے"
+    ],
+    "SENTIMENT": "questioning, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The radif 'ke liye' (for) emphasizes the search for purpose and belonging."
+  },
+  {
+    "TEXT_ID": "kazmi_0008",
+    "TITLE_UR": "پھر تم تو یاد آئے",
+    "TITLE_EN": "Phir Tum To Yaad Aaye",
+    "TOKEN_COUNTS": {
+      "total_words": 54,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.778,
+    "RADIF": "آیا",
+    "QAAFIYA": [
+      "یاد آئی",
+      "قرار آیا",
+      "انتظار آیا",
+      "بے کار آیا",
+      "بار بار آیا"
+    ],
+    "SENTIMENT": "nostalgic, longing",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The circular structure of memory is captured in the repetition of 'aaya' (came/remembered)."
+  },
+  {
+    "TEXT_ID": "kazmi_0009",
+    "TITLE_UR": "چاند کی زرد سی چادر",
+    "TITLE_EN": "Chand Ki Zard Si Chadar",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.84,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "بات تھا",
+      "ملے تھے",
+      "جھڑے تھے",
+      "صحرا تھا",
+      "آتے تھے"
+    ],
+    "SENTIMENT": "visual, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The imagery of the moon's pale sheet is a perfect visual metaphor for loneliness."
+  },
+  {
+    "TEXT_ID": "kazmi_0010",
+    "TITLE_UR": "یہ تیری یاد ہے یا کوئی خواب ہے",
+    "TITLE_EN": "Yeh Teri Yaad Hai Ya Koi Khwab Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 37,
+      "verses": 5
+    },
+    "TTR": 0.771,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "خواب ہے",
+      "باب ہے",
+      "گھومتا ہے",
+      "کھویا ہے",
+      "نہیں رہتے"
+    ],
+    "SENTIMENT": "confused, dreamy",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The opening couplet blurs the line between memory and dream, a hallmark of Kazmi's style."
+  },
+  {
+    "TEXT_ID": "kazmi_0011",
+    "TITLE_UR": "دیر سے ہے دل کو قرار آیا ہوا",
+    "TITLE_EN": "Dair Se Hai Dil Ko Qarar Aaya Hua",
+    "TOKEN_COUNTS": {
+      "total_words": 46,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.826,
+    "RADIF": "ہوا",
+    "QAAFIYA": [
+      "آیا ہوا",
+      "آئی ہوئی",
+      "نہ ہو",
+      "آنے لگے",
+      "کچھ اور"
+    ],
+    "SENTIMENT": "resigned, peaceful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "A rare moment of anticipated peace in Kazmi's usually melancholic universe."
+  },
+  {
+    "TEXT_ID": "kazmi_0012",
+    "TITLE_UR": "اک خواب سا گزرا ہے",
+    "TITLE_EN": "Ek Khwab Sa Guzra Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 40,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "گزرا ہے",
+      "روئی ہے",
+      "مسکرا رہا ہے",
+      "ہوں",
+      "اکیلا ہے"
+    ],
+    "SENTIMENT": "solitary, observational",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The changing season mirrors the emotional state of the poet, creating a powerful synesthetic effect."
+  },
+  {
+    "TEXT_ID": "kazmi_0013",
+    "TITLE_UR": "وہ اک ستارہ جو ٹوٹ کر بجھ گیا",
+    "TITLE_EN": "Woh Ek Sitara Jo Toot Kar Bujh Gaya",
+    "TOKEN_COUNTS": {
+      "total_words": 42,
+      "unique_words": 35,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": "گیا",
+    "QAAFIYA": [
+      "بجھ گیا",
+      "بکھر گیا",
+      "بہہ گیا",
+      "رہ گیا",
+      "چلا گیا"
+    ],
+    "SENTIMENT": "tragic, loss",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The falling star is a classic symbol of loss, here made deeply personal."
+  },
+  {
+    "TEXT_ID": "kazmi_0014",
+    "TITLE_UR": "تم آئے تو آنکھوں میں چاندنی سی اتر آئی",
+    "TITLE_EN": "Tum Aaye To Aankhon Mein Chandni Si Utar Aayi",
+    "TOKEN_COUNTS": {
+      "total_words": 52,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.808,
+    "RADIF": "آئی",
+    "QAAFIYA": [
+      "اتر آئی",
+      "بکھر آئی",
+      "سمجھا تھا",
+      "کیا تھا",
+      "آتا ہے"
+    ],
+    "SENTIMENT": "joyful, then reflective",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The opening line is a beautiful expression of how presence can transform one's inner world."
+  },
+  {
+    "TEXT_ID": "kazmi_0015",
+    "TITLE_UR": "یوں تو بہت سی باتیں ہوئیں",
+    "TITLE_EN": "Yun To Bohut Si Baatein Hui",
+    "TOKEN_COUNTS": {
+      "total_words": 54,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.778,
+    "RADIF": "ہوئی",
+    "QAAFIYA": [
+      "بہت سی باتیں ہوئیں",
+      "کریں",
+      "ہو",
+      "ہو",
+      "چل دیے"
+    ],
+    "SENTIMENT": "regretful, communicative",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The distinction between spoken words and those that remain in the heart is a poignant insight."
+  },
+  {
+    "TEXT_ID": "kazmi_0016",
+    "TITLE_UR": "رات بھر میں نے ستارے گنے",
+    "TITLE_EN": "Raat Bhar Maine Sitare Gine",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.792,
+    "RADIF": "لگے",
+    "QAAFIYA": [
+      "گنے",
+      "ملتا",
+      "جلنے لگے",
+      "آنے لگے",
+      "کوئی"
+    ],
+    "SENTIMENT": "sleepless, yearning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Counting stars is a universal symbol of sleepless longing, perfectly employed here."
+  },
+  {
+    "TEXT_ID": "kazmi_0017",
+    "TITLE_UR": "دل کو ترے غموں سے کچھ نسبت ہے",
+    "TITLE_EN": "Dil Ko Tere Ghamon Se Kuch Nisbat Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 40,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نسبت ہے",
+      "لگاؤ ہے",
+      "کھلتی ہو",
+      "آتا ہے",
+      "کسی کے لیے"
+    ],
+    "SENTIMENT": "connected through sorrow",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The idea that sorrow can be a form of connection is a deeply Kazmian thought."
+  },
+  {
+    "TEXT_ID": "kazmi_0018",
+    "TITLE_UR": "یہ جو چاندنی راتیں ہیں",
+    "TITLE_EN": "Yeh Jo Chandni Raatein Hain",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 39,
+      "verses": 5
+    },
+    "TTR": 0.78,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "راتیں ہیں",
+      "دیا ہے",
+      "چاہا تھا",
+      "کیا تھا",
+      "آتا ہے"
+    ],
+    "SENTIMENT": "atmospheric, lonely",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Moonlit nights are a recurring motif in Kazmi's poetry, often associated with solitude and memory."
+  },
+  {
+    "TEXT_ID": "kazmi_0019",
+    "TITLE_UR": "برسوں بعد کسی کو یاد کیا",
+    "TITLE_EN": "Barson Baad Kisi Ko Yaad Kiya",
+    "TOKEN_COUNTS": {
+      "total_words": 46,
+      "unique_words": 37,
+      "verses": 5
+    },
+    "TTR": 0.804,
+    "RADIF": "کیا",
+    "QAAFIYA": [
+      "یاد کیا",
+      "آباد کیا",
+      "برباد کیا",
+      "آتا ہے",
+      "دے"
+    ],
+    "SENTIMENT": "regretful, cyclical",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The act of remembering after years is portrayed as both a blessing and a curse."
+  },
+  {
+    "TEXT_ID": "kazmi_0020",
+    "TITLE_UR": "تم نہیں ہو تو کیا، ہو تو سا لگتا ہے",
+    "TITLE_EN": "Tum Nahin Ho To Kya, Ho To Sa Lagta Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 52,
+      "unique_words": 41,
+      "verses": 5
+    },
+    "TTR": 0.788,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "لگتا ہے",
+      "صحرا تھا",
+      "آتے تھے",
+      "ملتا",
+      "آیا"
+    ],
+    "SENTIMENT": "haunted by presence",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The paradox of absence feeling like presence is masterfully captured in the opening line."
+  },
+  {
+    "TEXT_ID": "kazmi_0021",
+    "TITLE_UR": "اب کے موسم میں نہ جا",
+    "TITLE_EN": "Ab Ke Mausam Mein Na Ja",
+    "TOKEN_COUNTS": {
+      "total_words": 44,
+      "unique_words": 36,
+      "verses": 4
+    },
+    "TTR": 0.818,
+    "RADIF": "جا",
+    "QAAFIYA": [
+      "نہ جا",
+      "ہیں",
+      "تنہا",
+      "آئی ہے"
+    ],
+    "SENTIMENT": "pleading, seasonal",
+    "RHYME_PATTERNS": "AA BA CA DA",
+    "notes": "The repetition of 'ab ke mausam mein na ja' creates a desperate, rhythmic plea."
+  },
+  {
+    "TEXT_ID": "kazmi_0022",
+    "TITLE_UR": "رات بہت تھی، چاند بھی تھا",
+    "TITLE_EN": "Raat Bohut Thi, Chaand Bhi Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 52,
+      "unique_words": 40,
+      "verses": 5
+    },
+    "TTR": 0.769,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "بھی تھا",
+      "کیوں نہ آیا",
+      "کیے تھے",
+      "بچا",
+      "آتا ہے"
+    ],
+    "SENTIMENT": "frustrated, longing",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Despite having all the elements (night, moon, memory), peace remains elusive."
+  },
+  {
+    "TEXT_ID": "kazmi_0023",
+    "TITLE_UR": "کچھ تو ہے جس کی وجہ سے",
+    "TITLE_EN": "Kuch To Hai Jis Ki Wajah Se",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 40,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "رہتا ہے",
+      "صحرا تھا",
+      "آتے تھے",
+      "ملتا",
+      "ملا"
+    ],
+    "SENTIMENT": "searching, existential",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The search for the root cause of sadness is a central theme in Kazmi's work."
+  },
+  {
+    "TEXT_ID": "kazmi_0024",
+    "TITLE_UR": "تم نہ آئے تو ہم سوچتے رہ گئے",
+    "TITLE_EN": "Tum Na Aaye To Hum Sochte Reh Gaye",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.792,
+    "RADIF": "گئے",
+    "QAAFIYA": [
+      "رہ گئے",
+      "ہوتا",
+      "ٹوٹ گیا",
+      "آتا ہے",
+      "آیا"
+    ],
+    "SENTIMENT": "disappointed, speculative",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The disappointment of unfulfilled expectation is explored through the theme of someone not coming."
+  },
+  {
+    "TEXT_ID": "kazmi_0025",
+    "TITLE_UR": "دل کی بات کہی نہیں جاتی",
+    "TITLE_EN": "Dil Ki Baat Kahi Nahin Jati",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 39,
+      "verses": 5
+    },
+    "TTR": 0.78,
+    "RADIF": "جاتے",
+    "QAAFIYA": [
+      "نہیں جاتی",
+      "کیا جائے",
+      "نہیں جاتے",
+      "نہیں جاتے",
+      "رہتے"
+    ],
+    "SENTIMENT": "inexpressible, silent",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The inability to express the heart's true feelings is a powerful theme of emotional repression."
+  },
+  {
+    "TEXT_ID": "kazmi_0026",
+    "TITLE_UR": "بچھڑنے والے کو کبھی نہیں بھولتے",
+    "TITLE_EN": "Bicharnewale Ko Kabhi Nahin Bhoolte",
+    "TOKEN_COUNTS": {
+      "total_words": 44,
+      "unique_words": 35,
+      "verses": 5
+    },
+    "TTR": 0.795,
+    "RADIF": "ہیں",
+    "QAAFIYA": [
+      "بھولتے",
+      "کر لیتے ہیں",
+      "مسکرا لیتے ہیں",
+      "ہے",
+      "چلا گیا"
+    ],
+    "SENTIMENT": "unforgetting, resilient",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The paradox of trying to forget while constantly remembering is explored."
+  },
+  {
+    "TEXT_ID": "kazmi_0027",
+    "TITLE_UR": "کوئی تو ہے جو طے کرے",
+    "TITLE_EN": "Koi To Hai Jo Tay Kare",
+    "TOKEN_COUNTS": {
+      "total_words": 52,
+      "unique_words": 42,
+      "verses": 5
+    },
+    "TTR": 0.808,
+    "RADIF": "جائے",
+    "QAAFIYA": [
+      "طے کرے",
+      "بھلایا جائے",
+      "کہی جائے",
+      "لیتے ہیں",
+      "تھا"
+    ],
+    "SENTIMENT": "confused, indecisive",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The desire for someone else to resolve internal conflict is a cry for help."
+  },
+  {
+    "TEXT_ID": "kazmi_0028",
+    "TITLE_UR": "اک شخص تھا جو کبھی ملا تھا",
+    "TITLE_EN": "Ek Shakhs Tha Jo Kabhi Mila Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 37,
+      "verses": 5
+    },
+    "TTR": 0.771,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "ملا تھا",
+      "برباد کیا",
+      "کیا تھا",
+      "کیے تھے",
+      "بچا"
+    ],
+    "SENTIMENT": "regretful, impactful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "One person's impact can ruin or define a life - a theme of powerful connection."
+  },
+  {
+    "TEXT_ID": "kazmi_0029",
+    "TITLE_UR": "وہ شخص جو بھولے سے مل گیا تھا",
+    "TITLE_EN": "Woh Shakhs Jo Bhoolay Se Mil Gaya Tha",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.792,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "گیا تھا",
+      "برباد کیا",
+      "چاہا تھا",
+      "کیا تھا",
+      "دے"
+    ],
+    "SENTIMENT": "accidental, fateful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Chance encounters can have the most profound and lasting effects."
+  },
+  {
+    "TEXT_ID": "kazmi_0030",
+    "TITLE_UR": "کبھی کبھی یوں بھی ہوتا ہے",
+    "TITLE_EN": "Kabhi Kabhi Yun Bhi Hota Hai",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 38,
+      "verses": 5
+    },
+    "TTR": 0.792,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہوتا ہے",
+      "نہ ہو",
+      "لیتے ہیں",
+      "تھا",
+      "ملا"
+    ],
+    "SENTIMENT": "philosophical, accepting",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The acceptance of life's ironies, especially the absence of someone during moments of memory."
+  },
+  {
+    "TEXT_ID": "kazmi_0031",
+    "TITLE_UR": "یاد تو بہت آتے ہو",
+    "TITLE_EN": "Yaad To Bohut Aate Ho",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 39,
+      "verses": 5
+    },
+    "TTR": 0.78,
+    "RADIF": "ہو",
+    "QAAFIYA": [
+      "آتے ہو",
+      "بتاؤ",
+      "لیتے ہیں",
+      "ہے",
+      "تھا"
+    ],
+    "SENTIMENT": "frustrated, communicative",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The frustration of memories that don't communicate back, of a presence that is also an absence."
+  },
+  {
+    "TEXT_ID": "kazmi_0032",
+    "TITLE_UR": "کون سا موسم تھا وہ",
+    "TITLE_EN": "Kaun Sa Mausam Tha Woh",
+    "TOKEN_COUNTS": {
+      "total_words": 48,
+      "unique_words": 39,
+      "verses": 5
+    },
+    "TTR": 0.812,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "موسم تھا",
+      "تھے",
+      "تھا",
+      "آتے تھے",
+      "آیا"
+    ],
+    "SENTIMENT": "questioning, seasonal",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Memory is tied to season, and the inability to recall whether flowers bloomed or leaves fell shows the confusion of grief."
+  },
+  {
+    "TEXT_ID": "kazmi_0040",
+    "TITLE_UR": "کون سی بات تھی جو یاد آئی",
+    "TITLE_EN": "Kaun Si Baat Thi Jo Yaad Aayi",
+    "TOKEN_COUNTS": {
+      "total_words": 46,
+      "unique_words": 37,
+      "verses": 5
+    },
+    "TTR": 0.804,
+    "RADIF": "آئی",
+    "QAAFIYA": [
+      "یاد آئی",
+      "غم یاد آیا",
+      "برباد کیا",
+      "آتا ہے",
+      "ملا"
+    ],
+    "SENTIMENT": "questioning, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The inability to identify exactly which memory surfaces shows the unconscious nature of grief."
+  },
+  {
+    "TEXT_ID": "kazmi_0047",
+    "TITLE_UR": "دکھ تو بہت ہیں مگر کہہ نہیں سکتے",
+    "TITLE_EN": "Dukh To Bohut Hain Magar Keh Nahin Sakte",
+    "TOKEN_COUNTS": {
+      "total_words": 50,
+      "unique_words": 41,
+      "verses": 5
+    },
+    "TTR": 0.82,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "سکتے",
+      "کیا جائے",
+      "تھا",
+      "آتے تھے",
+      "ملتا"
+    ],
+    "SENTIMENT": "inexpressible sorrow",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "The paradox of having too much sorrow to express it is a profound insight into emotional overwhelm."
+  }
+]

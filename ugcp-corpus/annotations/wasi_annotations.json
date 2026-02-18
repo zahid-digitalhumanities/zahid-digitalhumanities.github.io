@@ -1,0 +1,1704 @@
+[{
+    "TEXT_ID": "wasi_00001",
+    "TOKEN_COUNTS": {
+      "total_tokens": 412,
+      "unique_tokens": 176,
+      "lines": 22,
+      "couplets": 11
+    },
+    "TTR": 0.427,
+    "RADIF": "جاتی ہیں",
+    "QAAFIYA": [
+      "سے",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہوں",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہے",
+      "ہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "melancholy_sensitive",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'جاتی ہیں' appears consistently at end of each couplet. Qaafiya pattern follows words ending with 'ے' sound. Central theme of tears and emotional sensitivity throughout."
+},
+{
+    "TEXT_ID": "wasi_00002",
+    "TOKEN_COUNTS": {
+      "total_tokens": 478,
+      "unique_tokens": 214,
+      "lines": 18,
+      "couplets": 9
+    },
+    "TTR": 0.448,
+    "RADIF": "ہوتا",
+    "QAAFIYA": [
+      "کنگن",
+      "ساتھ",
+      "مجھ کو",
+      "میں",
+      "جاتا",
+      "کرتی",
+      "جاتا",
+      "کرتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "romantic_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوتا' consistently at end. Imagery of bracelet as metaphor for closeness and intimacy. Highly romantic with sensual undertones."
+},
+{
+    "TEXT_ID": "wasi_00003",
+    "TOKEN_COUNTS": {
+      "total_tokens": 396,
+      "unique_tokens": 168,
+      "lines": 18,
+      "couplets": 9
+    },
+    "TTR": 0.424,
+    "RADIF": "ہوگی",
+    "QAAFIYA": [
+      "آتی",
+      "بہاتی",
+      "ملاتی",
+      "ہلائے گی",
+      "سلاتی",
+      "مناتی",
+      "سجاتی",
+      "دلاتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_grief",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوگی' indicates speculation about beloved's state after separation. Qaafiya pattern follows verbs ending in 'اتی' sound. Themes of mourning and memory."
+},
+{
+    "TEXT_ID": "wasi_00004",
+    "TOKEN_COUNTS": {
+      "total_tokens": 426,
+      "unique_tokens": 184,
+      "lines": 20,
+      "couplets": 10
+    },
+    "TTR": 0.432,
+    "RADIF": "یاد آؤں گا",
+    "QAAFIYA": [
+      "تیور",
+      "سمجھو",
+      "پلٹو",
+      "لکھو",
+      "چومو",
+      "پونچھو",
+      "بھیگو",
+      "بکھرو",
+      "تھامو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "anticipatory_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'یاد آؤں گا' promises return in memory. Qaafiya uses future tense verbs addressing the beloved directly. Each couplet predicts moments when speaker will be remembered."
+},
+{
+    "TEXT_ID": "wasi_00005",
+    "TOKEN_COUNTS": {
+      "total_tokens": 398,
+      "unique_tokens": 162,
+      "lines": 20,
+      "couplets": 10
+    },
+    "TTR": 0.407,
+    "RADIF": "رکھا ہے",
+    "QAAFIYA": [
+      "جلا",
+      "سجا",
+      "اٹھا",
+      "خفا",
+      "لگا",
+      "اٹھا",
+      "کھلا",
+      "بسا",
+      "بھلا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopeful_waiting",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'رکھا ہے' indicates preservation and waiting. Qaafiya uses past participles ending in 'ا' sound. Central metaphor of keeping lamp lit for beloved's return."
+},
+{
+    "TEXT_ID": "wasi_00006",
+    "TOKEN_COUNTS": {
+      "total_tokens": 352,
+      "unique_tokens": 158,
+      "lines": 16,
+      "couplets": 8
+    },
+    "TTR": 0.449,
+    "RADIF": "رکھنا",
+    "QAAFIYA": [
+      "حسین",
+      "اٹھیں",
+      "جانب",
+      "حنا",
+      "جاتے",
+      "وجود",
+      "ہیں",
+      "مولا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "devotional_love",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'رکھنا' is a plea/prayer. Qaafiya pattern varies but maintains rhythm. Unique blend of romantic and devotional imagery focusing on beloved's hands as sacred objects."
+},
+{
+    "TEXT_ID": "wasi_00007",
+    "TOKEN_COUNTS": {
+      "total_tokens": 284,
+      "unique_tokens": 132,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.465,
+    "RADIF": "ہوگا",
+    "QAAFIYA": [
+      "شامل",
+      "دوبارہ",
+      "رہے",
+      "پاگل",
+      "سکیں گی",
+      "کہانیوں",
+      "جاؤ گے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوگا' indicates future inevitability. Shorter ghazal with more varied qaafiya patterns. Themes of existential questioning and timeless connection."
+},
+{
+    "TEXT_ID": "wasi_00008",
+    "TOKEN_COUNTS": {
+      "total_tokens": 342,
+      "unique_tokens": 148,
+      "lines": 16,
+      "couplets": 8
+    },
+    "TTR": 0.433,
+    "RADIF": "نہیں جاتی",
+    "QAAFIYA": [
+      "لالی",
+      "خالی",
+      "پلٹے",
+      "خیالی",
+      "دوں",
+      "ٹالی",
+      "سنبھالے",
+      "سنبھالی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "persistent_sorrow",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں جاتی' emphasizes persistence of pain. Qaafiya uses words ending in 'الی' sound. Each couplet explores something that cannot be escaped or managed."
+},
+{
+    "TEXT_ID": "wasi_00009",
+    "TOKEN_COUNTS": {
+      "total_tokens": 238,
+      "unique_tokens": 112,
+      "lines": 16,
+      "couplets": 8
+    },
+    "TTR": 0.471,
+    "RADIF": "کرنا",
+    "QAAFIYA": [
+      "عشق",
+      "کھیلو",
+      "ہے",
+      "ہو",
+      "ہو",
+      "ہے",
+      "ہوتا",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "cautionary_wistful",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کرنا' is an imperative. Direct address to a young girl warning about love's pain. Simpler vocabulary and structure, more conversational tone than other ghazals."
+},
+{
+    "TEXT_ID": "wasi_00010",
+    "TOKEN_COUNTS": {
+      "total_tokens": 264,
+      "unique_tokens": 118,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.447,
+    "RADIF": "ہیں",
+    "QAAFIYA": [
+      "لیتے",
+      "لیتے",
+      "دیکھے",
+      "آؤں گا",
+      "کنگن",
+      "ساتھ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "composite_reflective",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہیں' appears in first two couplets only; this ghazal shows more variation in structure. Appears to combine excerpts from multiple poems. Mixed themes of divine grace, shared sorrow, and romantic longing."
+    },
+    {
+    "TEXT_ID": "wasi_00011",
+    "TOKEN_COUNTS": {
+      "total_tokens": 246,
+      "unique_tokens": 112,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.455,
+    "RADIF": "پائے گی",
+    "QAAFIYA": [
+      "سل",
+      "ذہانت",
+      "مجھے",
+      "قصے",
+      "زباں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "frustrated_communication",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'پائے گی' consistently at end. Qaafiya pattern follows words ending in 'ے' sound. Central theme of being misunderstood by the beloved."
+},
+{
+    "TEXT_ID": "wasi_00012",
+    "TOKEN_COUNTS": {
+      "total_tokens": 258,
+      "unique_tokens": 118,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.457,
+    "RADIF": "لگے",
+    "QAAFIYA": [
+      "سہانا",
+      "دیوانہ",
+      "بنی تھی",
+      "بہانہ",
+      "سارا",
+      "زمانہ",
+      "ہے",
+      "ٹھکانہ",
+      "مجھ کو",
+      "بیگانہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "alienation_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'لگے' expresses perception and feeling. Qaafiya uses words ending in 'انا' and 'انہ' sounds. Theme of estrangement from the city after beloved's departure."
+},
+{
+    "TEXT_ID": "wasi_00013",
+    "TOKEN_COUNTS": {
+      "total_tokens": 272,
+      "unique_tokens": 124,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.456,
+    "RADIF": "ائیں گے",
+    "QAAFIYA": [
+      "رہ",
+      "بہلائیں",
+      "ستائے",
+      "گرائیں",
+      "مٹیں",
+      "پائیں",
+      "روئے",
+      "شرما ئیں",
+      "ہوتی",
+      "بلائیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "rainy_nostalgia",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ائیں گے' indicates future actions. Rain imagery dominates this ghazal. Qaafiya pattern follows verbs ending in 'ائیں' sound. Romantic longing mixed with seasonal metaphors."
+},
+{
+    "TEXT_ID": "wasi_00014",
+    "TOKEN_COUNTS": {
+      "total_tokens": 264,
+      "unique_tokens": 116,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.439,
+    "RADIF": "نہیں آتا مجھ کو",
+    "QAAFIYA": [
+      "بھلانا",
+      "مٹانا",
+      "بہتر",
+      "زمانا",
+      "جاؤں",
+      "سمجھانا",
+      "پہچانے",
+      "پہچانا",
+      "صحرا",
+      "نشانہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "inability_to_forget",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں آتا مجھ کو' expresses inability. Long radif pattern typical of Wasi Shah's style. Qaafiya uses infinitives and nouns ending in 'انا' and 'انہ'. Theme of being unable to forget."
+},
+{
+    "TEXT_ID": "wasi_00015",
+    "TOKEN_COUNTS": {
+      "total_tokens": 208,
+      "unique_tokens": 96,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.462,
+    "RADIF": "تھے تم",
+    "QAAFIYA": [
+      "آئے",
+      "سجائے",
+      "لکیریں",
+      "ڈیرے",
+      "دے",
+      "تھے",
+      "تھے",
+      "تھے",
+      "تھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "dreamy_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DA",
+      "EA",
+      "FA",
+      "GA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے تم' appears in most couplets with some variation. Dream imagery and wedding motifs (henna) present. Shorter lines and simpler structure."
+},
+{
+    "TEXT_ID": "wasi_00016",
+    "TOKEN_COUNTS": {
+      "total_tokens": 242,
+      "unique_tokens": 108,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.446,
+    "RADIF": "ہیں مجھے",
+    "QAAFIYA": [
+      "کھلاتے",
+      "دکھلاتے",
+      "تھا",
+      "گراتے",
+      "تھا",
+      "بلاتے",
+      "ہے",
+      "گھبراتے",
+      "ہے",
+      "ستاتے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "persecution_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہیں مجھے' emphasizes actions directed at the speaker. Qaafiya uses plural verbs. Theme of being tormented by others and by fate. Mirror imagery in fourth couplet."
+},
+{
+    "TEXT_ID": "wasi_00017",
+    "TOKEN_COUNTS": {
+      "total_tokens": 196,
+      "unique_tokens": 82,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.418,
+    "RADIF": "تم نہیں تو کچھ نہیں",
+    "QAAFIYA": [
+      "یہاں",
+      "نہیں",
+      "ہیں",
+      "ہیں",
+      "نہیں",
+      "ہیں",
+      "ہیں",
+      "نہیں",
+      "ہے",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_dependence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Long radif 'تم نہیں تو کچھ نہیں' creates powerful refrain. Each couplet lists worldly pleasures that become meaningless without beloved. Philosophical and romantic blend."
+},
+{
+    "TEXT_ID": "wasi_00018",
+    "TOKEN_COUNTS": {
+      "total_tokens": 286,
+      "unique_tokens": 122,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.427,
+    "RADIF": "تو شاید کبھی نہ ملیں",
+    "QAAFIYA": [
+      "بچھڑے",
+      "بڑھے",
+      "قدر",
+      "روکے",
+      "سفر",
+      "چلے",
+      "ساتھ",
+      "ملے",
+      "کہانی",
+      "دی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "conditional_farewell",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تو شاید کبھی نہ ملیں' expresses conditional separation. Each couplet presents a hypothetical situation leading to permanent parting. Uncertainty and fate themes."
+},
+{
+    "TEXT_ID": "wasi_00019",
+    "TOKEN_COUNTS": {
+      "total_tokens": 224,
+      "unique_tokens": 102,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.455,
+    "RADIF": "ہم نے",
+    "QAAFIYA": [
+      "پایا",
+      "بہائے",
+      "خوشبو",
+      "چھاؤں",
+      "ہے",
+      "ہے",
+      "لگا",
+      "جائیں",
+      "نام",
+      "کرتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "post_separation_reflection",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہم نے' appears in first two couplets only; rest show variation. Mixed structure with reflective tone. Urban imagery (streets, turns) mixed with emotional landscape."
+},
+{
+    "TEXT_ID": "wasi_00020",
+    "TOKEN_COUNTS": {
+      "total_tokens": 268,
+      "unique_tokens": 114,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.425,
+    "RADIF": "ہوگا",
+    "QAAFIYA": [
+      "ہمارا",
+      "بسا",
+      "چمکتا",
+      "دکھاتا",
+      "ہوگا",
+      "لگاتا",
+      "گزرے",
+      "پونچھتا",
+      "پرائے",
+      "کہلاتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopeful_search",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوگا' expresses hope and speculation. Qaafiya uses words ending in 'ا' sound. Theme of searching for belonging and connection in an indifferent city."
+},
+{
+    "TEXT_ID": "wasi_00021",
+    "TOKEN_COUNTS": {
+      "total_tokens": 254,
+      "unique_tokens": 108,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.425,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "سناٹا",
+      "ہو",
+      "خاموشی",
+      "ہو",
+      "اندھیرا",
+      "ہو",
+      "ویران",
+      "ہو",
+      "بس",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "desolate_aftermath",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' creates present tense immediacy. Extended similes comparing post-separation state to empty forest, dry river, dark eyes. Powerful nature imagery."
+},
+{
+    "TEXT_ID": "wasi_00022",
+    "TOKEN_COUNTS": {
+      "total_tokens": 212,
+      "unique_tokens": 94,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.443,
+    "RADIF": "مل گیا",
+    "QAAFIYA": [
+      "لگا",
+      "جہاں",
+      "لگا",
+      "ملی",
+      "لگا",
+      "ملا",
+      "لگا",
+      "ملا",
+      "لگا",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "ecstatic_union",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'مل گیا' expresses attainment and fulfillment. Contrasts with most Wasi Shah ghazals which focus on separation. Joyful, celebratory tone. Short, rhythmic lines."
+},
+{
+    "TEXT_ID": "wasi_00023",
+    "TOKEN_COUNTS": {
+      "total_tokens": 198,
+      "unique_tokens": 86,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.434,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "اچھا",
+      "چاہا",
+      "اچھا",
+      "سمجھا",
+      "اچھا",
+      "تھا",
+      "اچھا",
+      "تھا",
+      "اچھا",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_appreciation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھا' places everything in past tense. Repetition of 'کتنا اچھا تھا' creates incantatory effect. Simple vocabulary, profound emotion. Final couplet reveals loss."
+},
+{
+    "TEXT_ID": "wasi_00024",
+    "TOKEN_COUNTS": {
+      "total_tokens": 276,
+      "unique_tokens": 118,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.428,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "ہے",
+      "ملتے",
+      "ہے",
+      "ملتے",
+      "ہے",
+      "ہیں",
+      "ہے",
+      "ہیں",
+      "ہے",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mysterious_distance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں' negates connection. Each couplet begins with 'کچھ تو بات ہے' creating mystery about the unspecified obstacle. Rhythmic repetition builds emotional tension."
+},
+{
+    "TEXT_ID": "wasi_00025",
+    "TOKEN_COUNTS": {
+      "total_tokens": 288,
+      "unique_tokens": 124,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.431,
+    "RADIF": "جاؤ",
+    "QAAFIYA": [
+      "کھو",
+      "کھل",
+      "گھر",
+      "کھو",
+      "آؤ",
+      "جاؤ",
+      "کرو",
+      "پا",
+      "ہو",
+      "جائیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "springtime_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'جاؤ' is imperative, addressing beloved. Spring (بہار) imagery dominates. Qaafiya uses verbs of action and movement. Hopeful, anticipatory tone."
+},
+{
+    "TEXT_ID": "wasi_00026",
+    "TOKEN_COUNTS": {
+      "total_tokens": 248,
+      "unique_tokens": 104,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.419,
+    "RADIF": "لگتی ہیں",
+    "QAAFIYA": [
+      "راتیں",
+      "باتیں",
+      "خاموشیاں",
+      "تنہائیاں",
+      "ستارے",
+      "ہے",
+      "ہنسی",
+      "ہے",
+      "زندگی",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "incompleteness",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'لگتی ہیں' expresses perception. Each couplet describes how things appear without beloved. Cumulative effect emphasizes emptiness. Parallel structure throughout."
+},
+{
+    "TEXT_ID": "wasi_00027",
+    "TOKEN_COUNTS": {
+      "total_tokens": 264,
+      "unique_tokens": 112,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.424,
+    "RADIF": "ہوگا/ہوگی",
+    "QAAFIYA": [
+      "شہر",
+      "ہوں",
+      "صبح",
+      "جاگیں",
+      "بہار",
+      "کھلیں",
+      "ملن",
+      "ملیں",
+      "ہے",
+      "ہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopeful_transcendence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif alternates between 'ہوگا' and 'ہوگی'. River metaphor for separation and possible reunion across some divide. Spiritual/philosophical overtones."
+},
+{
+    "TEXT_ID": "wasi_00028",
+    "TOKEN_COUNTS": {
+      "total_tokens": 282,
+      "unique_tokens": 118,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.418,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "جاننا",
+      "چین",
+      "سکون",
+      "خوشی",
+      "غم",
+      "صبح",
+      "شام",
+      "ماضی",
+      "مستقبل",
+      "موت"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "revelatory_loss",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے' places realization in past tense. Each couplet reveals through separation what the beloved meant. Polar opposites paired (joy/sorrow, morning/evening, life/death)."
+},
+{
+    "TEXT_ID": "wasi_00029",
+    "TOKEN_COUNTS": {
+      "total_tokens": 216,
+      "unique_tokens": 92,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.426,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "چاہا",
+      "مانگا",
+      "سوچا",
+      "کبھی",
+      "دیکھے",
+      "کاٹی",
+      "چاہا",
+      "پاس",
+      "چاہا",
+      "مجھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "interrupted_hopes",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھا' in first line of each couplet creates pattern. 'ابھی تو' (just now) emphasizes recency of hopes now dashed. Simple vocabulary, powerful effect."
+},
+{
+    "TEXT_ID": "wasi_00030",
+    "TOKEN_COUNTS": {
+      "total_tokens": 298,
+      "unique_tokens": 126,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.423,
+    "RADIF": "کیا رکھا ہے",
+    "QAAFIYA": [
+      "شہر",
+      "پتہ",
+      "جھلک",
+      "ادا",
+      "عکس",
+      "صدا",
+      "ذکر",
+      "وفا",
+      "سمندر",
+      "ہوا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "urban_haunting",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کیا رکھا ہے' is rhetorical question. Each couplet answers: nothing but memories. City becomes repository of beloved's traces. Rich sensory imagery (fragrance, glimpse, reflection)."
+},
+{
+    "TEXT_ID": "wasi_00031",
+    "TOKEN_COUNTS": {
+      "total_tokens": 258,
+      "unique_tokens": 108,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.419,
+    "RADIF": "کیوں ہو",
+    "QAAFIYA": [
+      "کہیں",
+      "سنیں",
+      "ہوگی",
+      "ہوگا",
+      "ہوگا",
+      "ہوگا",
+      "ہوگی",
+      "ہوگی",
+      "ہے",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "questioning_silence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF",
+      "GG"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کیوں ہو' repeated at end of each couplet. Question addressed to self or beloved about persistent silence. Each couplet speculates on reason behind silence."
+},
+{
+    "TEXT_ID": "wasi_00032",
+    "TOKEN_COUNTS": {
+      "total_tokens": 242,
+      "unique_tokens": 106,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.438,
+    "RADIF": "ہیں تازہ",
+    "QAAFIYA": [
+      "یادیں",
+      "چھوڑا",
+      "یادیں",
+      "کہا",
+      "پاس",
+      "مجھے",
+      "یادیں",
+      "روکا",
+      "یادیں",
+      "ہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "traumatic_memory",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF",
+      "GG"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہیں تازہ' emphasizes persistent freshness of painful memory. Each couplet returns to the evening of separation. Final couplet reveals it was also the evening of love declaration."
+},
+{
+    "TEXT_ID": "wasi_00033",
+    "TOKEN_COUNTS": {
+      "total_tokens": 218,
+      "unique_tokens": 94,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.431,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "پوچھا",
+      "میرے",
+      "پوچھا",
+      "میرا",
+      "پوچھا",
+      "کا",
+      "پوچھا",
+      "میری",
+      "پوچھا",
+      "اداس"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "unquestioned_suffering",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں' negates beloved's inquiry. Repetition of 'تم نے کبھی پوچھا نہیں' emphasizes beloved's indifference. Each couplet reveals another dimension of unasked-about suffering."
+},
+{
+    "TEXT_ID": "wasi_00034",
+    "TOKEN_COUNTS": {
+      "total_tokens": 248,
+      "unique_tokens": 108,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.435,
+    "RADIF": "کیا کیا پایا",
+    "QAAFIYA": [
+      "تم نے",
+      "کھویا",
+      "خواب",
+      "سہارے",
+      "تمہیں",
+      "گیا",
+      "کھلا",
+      "مہکا",
+      "ملا",
+      "ملی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "spring_accounting",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کیا کیا پایا' asks for inventory of gains. Each couplet questions what beloved gained in spring. Final couplet reveals speaker gave their heart. Spring as metaphor for new beginnings."
+},
+{
+    "TEXT_ID": "wasi_00035",
+    "TOKEN_COUNTS": {
+      "total_tokens": 312,
+      "unique_tokens": 132,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.423,
+    "RADIF": "بھول جا",
+    "QAAFIYA": [
+      "رات",
+      "چاہا",
+      "رات",
+      "پکارا",
+      "تھی",
+      "تھی",
+      "تھیں",
+      "تھیں",
+      "تھے",
+      "تھیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "bittersweet_forgetting",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'بھول جا' is imperative to forget. Ironic because each couplet vividly remembers what should be forgotten. Rich sensory details (moonlight, fragrance, laughter, kiss)."
+},
+{
+    "TEXT_ID": "wasi_00036",
+    "TOKEN_COUNTS": {
+      "total_tokens": 268,
+      "unique_tokens": 112,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.418,
+    "RADIF": "تمہاری ہے/ہیں",
+    "QAAFIYA": [
+      "ہو",
+      "ہیں",
+      "ہو",
+      "ہیں",
+      "ہو",
+      "ہے",
+      "ہو",
+      "ہے",
+      "ہو",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "persistent_ownership",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تمہاری ہے/ہیں' asserts beloved's ownership despite absence. Each couplet begins with 'تم تو نہیں ہو' (you are not here) but ends with 'تمہاری ہے' (it is yours). Paradox of presence in absence."
+},
+{
+    "TEXT_ID": "wasi_00037",
+    "TOKEN_COUNTS": {
+      "total_tokens": 222,
+      "unique_tokens": 98,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.441,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہوتا",
+      "آتے",
+      "ہوتا",
+      "ہیں",
+      "ہوتا",
+      "آتے",
+      "ہوتا",
+      "گھبراتا",
+      "ہوتا",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "intermittent_pain",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' creates present tense immediacy. 'کبھی کبھی' (sometimes) emphasizes intermittent nature of pain. Each couplet describes different manifestation of longing."
+},
+{
+    "TEXT_ID": "wasi_00038",
+    "TOKEN_COUNTS": {
+      "total_tokens": 256,
+      "unique_tokens": 108,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.422,
+    "RADIF": "تمہارا/تمہاری/تمہارے ہیں",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "total_surrender",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF",
+      "GG"
+    ],
+    "ANNOTATION_NOTES": "Radif varies based on noun gender/number. Each couplet dedicates another aspect of self to beloved. Cumulative effect of complete surrender. Final couplet echoes 'wasi_00017'."
+},
+{
+    "TEXT_ID": "wasi_00039",
+    "TOKEN_COUNTS": {
+      "total_tokens": 238,
+      "unique_tokens": 102,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.429,
+    "RADIF": "تھے/تھیں",
+    "QAAFIYA": [
+      "دن",
+      "تھے",
+      "راتیں",
+      "تھیں",
+      "تھے",
+      "تھیں",
+      "تھا",
+      "تھی",
+      "تھیں",
+      "تھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "premature_ending",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif alternates based on noun gender. 'ابھی تو' (just now) emphasizes recency. Each couplet lists what was still left unfinished. Theme of interrupted journey."
+},
+{
+    "TEXT_ID": "wasi_00040",
+    "TOKEN_COUNTS": {
+      "total_tokens": 238,
+      "unique_tokens": 98,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.412,
+    "RADIF": "کون رہے گا",
+    "QAAFIYA": [
+      "شہر",
+      "رہے",
+      "گلیاں",
+      "رہے",
+      "گھر",
+      "رہے",
+      "راتیں",
+      "رہے",
+      "شہر",
+      "رہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "deserted_city",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کون رہے گا' rhetorical question. Each couplet describes city's desolation after beloved's departure. Powerful repetition creates incantatory effect. Urban desolation as metaphor for heart's state."
+},
+{
+    "TEXT_ID": "wasi_00041",
+    "TOKEN_COUNTS": {
+      "total_tokens": 254,
+      "unique_tokens": 108,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.425,
+    "RADIF": "کچھ نہیں رکھتے",
+    "QAAFIYA": [
+      "موسم",
+      "رکھتے",
+      "پھول",
+      "رکھتے",
+      "راتیں",
+      "رکھتیں",
+      "باتیں",
+      "رکھتیں",
+      "دنیا",
+      "رکھتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "meaningless_world",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کچھ نہیں رکھتے' negates value of everything. Each couplet describes something that holds no meaning after beloved's departure. Philosophical despair mixed with romantic loss."
+},
+{
+    "TEXT_ID": "wasi_00042",
+    "TOKEN_COUNTS": {
+      "total_tokens": 282,
+      "unique_tokens": 118,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.418,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ملاتا",
+      "ہے",
+      "روکتا",
+      "ہے",
+      "دیتا",
+      "ہے",
+      "دیتا",
+      "ہے",
+      "دیتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "ambivalent_force",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF",
+      "GG"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' creates present tense. 'کچھ تو ہے جو' (there is something that) introduces mysterious force. Each couplet presents paradox: same force connects and separates, gives life and takes it."
+},
+{
+    "TEXT_ID": "wasi_00043",
+    "TOKEN_COUNTS": {
+      "total_tokens": 238,
+      "unique_tokens": 102,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.429,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "ہیں",
+      "ملاقات",
+      "ہیں",
+      "بات",
+      "ہیں",
+      "رشتہ",
+      "ہیں",
+      "آنکھ",
+      "ہیں",
+      "پیار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "superficial_connection",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں' negates true connection despite presence. Each couplet contrasts physical proximity with emotional distance. Theme of alienation within relationship."
+},
+{
+    "TEXT_ID": "wasi_00044",
+    "TOKEN_COUNTS": {
+      "total_tokens": 248,
+      "unique_tokens": 104,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.419,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "انتظار",
+      "ہے",
+      "سوچنا",
+      "ہے",
+      "دیکھنا",
+      "ہے",
+      "کرنا",
+      "ہے",
+      "جینا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "habitual_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' creates present tense. 'اب تو عادت سی ہے' (now it has become a habit) transforms pain into routine. Each couplet describes another habituated behavior of longing."
+},
+{
+    "TEXT_ID": "wasi_00045",
+    "TOKEN_COUNTS": {
+      "total_tokens": 196,
+      "unique_tokens": 86,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.439,
+    "RADIF": "کبھی تو",
+    "QAAFIYA": [
+      "آؤ",
+      "ملنا",
+      "پوچھو",
+      "سنو",
+      "دیکھو",
+      "پڑھو",
+      "چھوؤ",
+      "کہو",
+      "آؤ",
+      "ملنا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "pleading_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کبھی تو' expresses hope for future attention. Simple imperatives list all the small gestures longed for. Childlike simplicity, profound emotion. Circular structure returns to opening plea."
+},
+{
+    "TEXT_ID": "wasi_00046",
+    "TOKEN_COUNTS": {
+      "total_tokens": 252,
+      "unique_tokens": 106,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.421,
+    "RADIF": "تمہارا/تمہاری/تمہارے ہیں",
+    "QAAFIYA": [
+      "ہے",
+      "ہیں",
+      "ہے",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہیں",
+      "ہے",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "cosmic_dedication",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif varies based on noun. Expands ownership to entire cosmos (ocean, sky, stars, winds). Nature imagery elevated to metaphysical level. Final couplet echoes existential dependence theme."
+},
+{
+    "TEXT_ID": "wasi_00047",
+    "TOKEN_COUNTS": {
+      "total_tokens": 238,
+      "unique_tokens": 104,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.437,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ٹھان",
+      "جائیں",
+      "ٹھان",
+      "سجائیں",
+      "ٹھان",
+      "اپنائیں",
+      "ٹھان",
+      "کمائیں",
+      "ٹھان",
+      "جی لیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "determined_moving_on",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' in first line of each couplet. 'اب کے ہم نے ٹھان لی ہے' (this time we have decided) introduces resolution. Each couplet declares intention to move on, forget, find new joys."
+},
+{
+    "TEXT_ID": "wasi_00048",
+    "TOKEN_COUNTS": {
+      "total_tokens": 262,
+      "unique_tokens": 112,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.427,
+    "RADIF": "ہو",
+    "QAAFIYA": [
+      "ہوں",
+      "بدلے",
+      "ہوں",
+      "بھولے",
+      "ہوں",
+      "ہو",
+      "ہوں",
+      "ہو",
+      "ہوں",
+      "ہو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "defensive_counter",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہو' in second line of each couplet. Structure: beloved's accusation in first line, speaker's counter-question in second. Rhetorical questions challenge beloved's hypocrisy."
+},
+{
+    "TEXT_ID": "wasi_00049",
+    "TOKEN_COUNTS": {
+      "total_tokens": 298,
+      "unique_tokens": 124,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.416,
+    "RADIF": "ہے/ہیں",
+    "QAAFIYA": [
+      "ہے",
+      "لیتی",
+      "ہے",
+      "دیتی",
+      "ہے",
+      "دیکھتی",
+      "ہے",
+      "سہتا",
+      "ہے",
+      "کرتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "embodied_memory",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BB",
+      "CC",
+      "DD",
+      "EE",
+      "FF",
+      "GG"
+    ],
+    "ANNOTATION_NOTES": "Radif varies. Each bodily function or natural phenomenon is imbued with beloved's presence. Heartbeat takes name, breath gives address, night waits. Complete integration of beloved into existence."
+},
+{
+    "TEXT_ID": "wasi_00050",
+    "TOKEN_COUNTS": {
+      "total_tokens": 242,
+      "unique_tokens": 104,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.430,
+    "RADIF": "تھے تم",
+    "QAAFIYA": [
+      "ملے",
+      "لگے",
+      "بولے",
+      "لگے",
+      "مسکرائے",
+      "لگے",
+      "گئے",
+      "لگے",
+      "آئے",
+      "تھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "final_memory",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے تم' in most couplets. 'آخری بار' (the last time) frames each memory as final. Each couplet recalls different aspect of last meeting. Final couplet shifts to last time beloved didn't come, completing the arc."
+}
+]

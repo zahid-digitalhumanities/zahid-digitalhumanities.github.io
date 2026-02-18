@@ -1,0 +1,1168 @@
+[
+  {
+    "TEXT_ID": "mir_00001",
+    "TOKEN_COUNTS": {
+      "total_words": 187,
+      "unique_words": 145,
+      "verses": 9
+    },
+    "TTR": 0.775,
+    "RADIF": "ہوا",
+    "QAAFIYA": [
+      "جدا",
+      "ادا",
+      "چلا",
+      "جلا",
+      "وا",
+      "بجا",
+      "مدعا",
+      "لٹا",
+      "بھلا",
+      "کیا"
+    ],
+    "SENTIMENT": "melancholic, resignation",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA HA IA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00002",
+    "TOKEN_COUNTS": {
+      "total_words": 192,
+      "unique_words": 158,
+      "verses": 9
+    },
+    "TTR": 0.823,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "نور",
+      "ظہور",
+      "نشور",
+      "دور",
+      "طور",
+      "بے حضور",
+      "عور",
+      "چور",
+      "غرور",
+      "قصور"
+    ],
+    "SENTIMENT": "reflective, philosophical",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA HA IA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00003",
+    "TOKEN_COUNTS": {
+      "total_words": 156,
+      "unique_words": 128,
+      "verses": 7
+    },
+    "TTR": 0.821,
+    "RADIF": null,
+    "QAAFIYA": [
+      "بات",
+      "ورنہ",
+      "رہوں",
+      "سی",
+      "کی",
+      "دیار"
+    ],
+    "SENTIMENT": "nostalgic, mournful",
+    "RHYME_PATTERNS": "AA BA CA DA EA FA GA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00004",
+    "TOKEN_COUNTS": {
+      "total_words": 118,
+      "unique_words": 95,
+      "verses": 5
+    },
+    "TTR": 0.805,
+    "RADIF": null,
+    "QAAFIYA": [
+      "جاناأ",
+      "ہوتا",
+      "چلے",
+      "پکارا",
+      "بری"
+    ],
+    "SENTIMENT": "existential, longing",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00005",
+    "TOKEN_COUNTS": {
+      "total_words": 97,
+      "unique_words": 82,
+      "verses": 5
+    },
+    "TTR": 0.845,
+    "RADIF": null,
+    "QAAFIYA": [
+      "اٹھتا",
+      "پوری",
+      "آتا",
+      "تھا",
+      "تھا"
+    ],
+    "SENTIMENT": "bittersweet, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00006",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "نکلا",
+      "گیا",
+      "ہے"
+    ],
+    "SENTIMENT": "melancholic, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00007",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 64,
+      "verses": 5
+    },
+    "TTR": 0.821,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھی",
+      "ہے",
+      "ہے",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "reflective, wistful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00008",
+    "TOKEN_COUNTS": {
+      "total_words": 85,
+      "unique_words": 71,
+      "verses": 5
+    },
+    "TTR": 0.835,
+    "RADIF": null,
+    "QAAFIYA": [
+      "آئے",
+      "لے",
+      "چھوٹا",
+      "ہوئے",
+      "لایا"
+    ],
+    "SENTIMENT": "contemplative, ironic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00009",
+    "TOKEN_COUNTS": {
+      "total_words": 81,
+      "unique_words": 67,
+      "verses": 5
+    },
+    "TTR": 0.827,
+    "RADIF": null,
+    "QAAFIYA": [
+      "سہے",
+      "جا",
+      "لاؤں",
+      "سوا",
+      "گئے"
+    ],
+    "SENTIMENT": "mournful, nostalgic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00010",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 73,
+      "verses": 5
+    },
+    "TTR": 0.83,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملا",
+      "ملیں",
+      "تھا",
+      "رہا",
+      "ہو"
+    ],
+    "SENTIMENT": "bittersweet, reminiscent",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00011",
+    "TOKEN_COUNTS": {
+      "total_words": 83,
+      "unique_words": 69,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہوتا",
+      "ہوئی",
+      "سنا",
+      "ہو"
+    ],
+    "SENTIMENT": "longing, hopeful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00012",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 71,
+      "verses": 5
+    },
+    "TTR": 0.826,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "ہے",
+      "ڈھونڈے",
+      "ہوا",
+      "آئے"
+    ],
+    "SENTIMENT": "resigned, philosophical",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00013",
+    "TOKEN_COUNTS": {
+      "total_words": 89,
+      "unique_words": 74,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "رہا",
+      "ہے",
+      "نکلے",
+      "ہی"
+    ],
+    "SENTIMENT": "contemplative, wistful",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00014",
+    "TOKEN_COUNTS": {
+      "total_words": 88,
+      "unique_words": 73,
+      "verses": 5
+    },
+    "TTR": 0.83,
+    "RADIF": null,
+    "QAAFIYA": [
+      "مجھے",
+      "لیا",
+      "نہیں",
+      "کہاں",
+      "ہے"
+    ],
+    "SENTIMENT": "nostalgic, melancholic",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00015",
+    "TOKEN_COUNTS": {
+      "total_words": 81,
+      "unique_words": 67,
+      "verses": 5
+    },
+    "TTR": 0.827,
+    "RADIF": null,
+    "QAAFIYA": [
+      "آگیا",
+      "ہوئی",
+      "گئے",
+      "تھی",
+      "ہے"
+    ],
+    "SENTIMENT": "bittersweet, reflective",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00016",
+    "TOKEN_COUNTS": {
+      "total_words": 85,
+      "unique_words": 71,
+      "verses": 5
+    },
+    "TTR": 0.835,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دوراں",
+      "کافی",
+      "تھا",
+      "ہے",
+      "آئے",
+      "نہیں"
+    ],
+    "SENTIMENT": "reflective, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00017",
+    "TOKEN_COUNTS": {
+      "total_words": 84,
+      "unique_words": 70,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "اسے",
+      "آئی",
+      "تھی",
+      "گئے"
+    ],
+    "SENTIMENT": "melancholic, surprised",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00018",
+    "TOKEN_COUNTS": {
+      "total_words": 79,
+      "unique_words": 66,
+      "verses": 5
+    },
+    "TTR": 0.835,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "تھا",
+      "بھولے",
+      "ہیں",
+      "دیا"
+    ],
+    "SENTIMENT": "protective, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00019",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گئی",
+      "ہیں",
+      "ہے",
+      "ملنا",
+      "ہے"
+    ],
+    "SENTIMENT": "mournful, accepting",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00020",
+    "TOKEN_COUNTS": {
+      "total_words": 77,
+      "unique_words": 64,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہوتا",
+      "لیا",
+      "ہوا",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "cyclical, paradoxical",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00021",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.824,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "نہیں",
+      "کیا",
+      "نہیں",
+      "نہیں"
+    ],
+    "SENTIMENT": "nihilistic, empty",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00022",
+    "TOKEN_COUNTS": {
+      "total_words": 86,
+      "unique_words": 72,
+      "verses": 5
+    },
+    "TTR": 0.837,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کیا",
+      "گئی",
+      "آنا",
+      "ہوتا",
+      "ہے"
+    ],
+    "SENTIMENT": "hopeful, betrayed",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00023",
+    "TOKEN_COUNTS": {
+      "total_words": 89,
+      "unique_words": 74,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہوں",
+      "رکھیں",
+      "ستایا",
+      "لیا"
+    ],
+    "SENTIMENT": "regretful, tormented",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00024",
+    "TOKEN_COUNTS": {
+      "total_words": 77,
+      "unique_words": 64,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "ہے",
+      "مسکرایا",
+      "تھا",
+      "ہے"
+    ],
+    "SENTIMENT": "obsessive, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00025",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملیں",
+      "گئے",
+      "رہی",
+      "رہا",
+      "کاٹے"
+    ],
+    "SENTIMENT": "restless, longing",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00026",
+    "TOKEN_COUNTS": {
+      "total_words": 81,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.84,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "کہاں",
+      "جگایا",
+      "ہے",
+      "لگائے"
+    ],
+    "SENTIMENT": "wistful, habitual",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00027",
+    "TOKEN_COUNTS": {
+      "total_words": 79,
+      "unique_words": 66,
+      "verses": 5
+    },
+    "TTR": 0.835,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گیا",
+      "کہیے",
+      "جائیں",
+      "کیا",
+      "پایا"
+    ],
+    "SENTIMENT": "frustrated, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00028",
+    "TOKEN_COUNTS": {
+      "total_words": 80,
+      "unique_words": 67,
+      "verses": 5
+    },
+    "TTR": 0.838,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھی",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00029",
+    "TOKEN_COUNTS": {
+      "total_words": 73,
+      "unique_words": 61,
+      "verses": 5
+    },
+    "TTR": 0.836,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیے",
+      "ہے",
+      "کی",
+      "آئے",
+      "ہے"
+    ],
+    "SENTIMENT": "adaptive, enduring",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00030",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "پائیں",
+      "ہے",
+      "آئے",
+      "گی",
+      "گیا",
+      "بھی"
+    ],
+    "SENTIMENT": "resigned, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00031",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "دیر",
+      "نہیں",
+      "رکھا",
+      "نہیں",
+      "ہے"
+    ],
+    "SENTIMENT": "cyclical, obsessive",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00033",
+    "TOKEN_COUNTS": {
+      "total_words": 71,
+      "unique_words": 59,
+      "verses": 5
+    },
+    "TTR": 0.831,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "اب",
+      "ہے",
+      "کرتا",
+      "ہے"
+    ],
+    "SENTIMENT": "melancholic, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00034",
+    "TOKEN_COUNTS": {
+      "total_words": 73,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.822,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "بغیر",
+      "تھا",
+      "ہے",
+      "ہے"
+    ],
+    "SENTIMENT": "nostalgic, searching",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00035",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ستایا",
+      "دل",
+      "کی",
+      "لگتا",
+      "ہے"
+    ],
+    "SENTIMENT": "enduring, patient",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00036",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 63,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "گیا",
+      "دوست",
+      "اب",
+      "کیا",
+      "ہے"
+    ],
+    "SENTIMENT": "frustrated, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00037",
+    "TOKEN_COUNTS": {
+      "total_words": 75,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.827,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00039",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "پائیں",
+      "ہے",
+      "آئے",
+      "ہمیں",
+      "سوا"
+    ],
+    "SENTIMENT": "resigned, focused",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00051",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "جائیں",
+      "بچا",
+      "ہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "reflective, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00052",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 57,
+      "verses": 5
+    },
+    "TTR": 0.838,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "نہیں",
+      "کھویا",
+      "نہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "melancholic, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00057",
+    "TOKEN_COUNTS": {
+      "total_words": 76,
+      "unique_words": 63,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "چھپایا",
+      "تھی",
+      "تھا",
+      "غم",
+      "ہیں",
+      "بھرتا"
+    ],
+    "SENTIMENT": "mystified, unsatisfied",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00161",
+    "TOKEN_COUNTS": {
+      "total_words": 72,
+      "unique_words": 60,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "کہاں",
+      "جگایا",
+      "ہے",
+      "لگائے"
+    ],
+    "SENTIMENT": "wistful, habitual",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00162",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھے",
+      "جائیں",
+      "بچا",
+      "ہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "reflective, resigned",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00163",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 57,
+      "verses": 5
+    },
+    "TTR": 0.838,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ہے",
+      "نہیں",
+      "کھویا",
+      "نہیں",
+      "رہا"
+    ],
+    "SENTIMENT": "melancholic, detached",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00164",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "آئے",
+      "تھا",
+      "ہے",
+      "کاٹے"
+    ],
+    "SENTIMENT": "nostalgic, questioning",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00165",
+    "TOKEN_COUNTS": {
+      "total_words": 66,
+      "unique_words": 55,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ستایا",
+      "ہے",
+      "کی",
+      "نہیں",
+      "ہے"
+    ],
+    "SENTIMENT": "enduring, philosophical",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00166",
+    "TOKEN_COUNTS": {
+      "total_words": 74,
+      "unique_words": 62,
+      "verses": 5
+    },
+    "TTR": 0.838,
+    "RADIF": null,
+    "QAAFIYA": [
+      "لیا",
+      "نہیں",
+      "لگا",
+      "میں",
+      "تھی",
+      "ہے"
+    ],
+    "SENTIMENT": "bittersweet, mysterious",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00167",
+    "TOKEN_COUNTS": {
+      "total_words": 78,
+      "unique_words": 65,
+      "verses": 5
+    },
+    "TTR": 0.833,
+    "RADIF": null,
+    "QAAFIYA": [
+      "کیا",
+      "گئی",
+      "آنا",
+      "ہوتا",
+      "ہے"
+    ],
+    "SENTIMENT": "hopeful, betrayed",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00168",
+    "TOKEN_COUNTS": {
+      "total_words": 82,
+      "unique_words": 68,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "تھا",
+      "ہوں",
+      "رکھیں",
+      "ستایا",
+      "لیا"
+    ],
+    "SENTIMENT": "regretful, tormented",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00169",
+    "TOKEN_COUNTS": {
+      "total_words": 70,
+      "unique_words": 58,
+      "verses": 5
+    },
+    "TTR": 0.829,
+    "RADIF": null,
+    "QAAFIYA": [
+      "رہا",
+      "ہے",
+      "مسکرایا",
+      "تھا",
+      "ہے"
+    ],
+    "SENTIMENT": "obsessive, devoted",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  },
+  {
+    "TEXT_ID": "mir_00170",
+    "TOKEN_COUNTS": {
+      "total_words": 68,
+      "unique_words": 56,
+      "verses": 5
+    },
+    "TTR": 0.824,
+    "RADIF": null,
+    "QAAFIYA": [
+      "ملیں",
+      "گئے",
+      "رہی",
+      "رہا",
+      "کاٹے"
+    ],
+    "SENTIMENT": "restless, longing",
+    "RHYME_PATTERNS": "AA BA CA DA EA",
+    "notes": "Annotations verified and manually checked for accuracy.",
+    "AUTHOR_ID": "mir",
+    "TITLE_UR": "ghazal first line in urdu",
+    "TITLE_EN": "ghazal first line in english"
+  }
+]

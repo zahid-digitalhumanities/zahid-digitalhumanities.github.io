@@ -1,0 +1,2673 @@
+[
+  {
+    "TEXT_ID": "ghalib_00001",
+    "TOKEN_COUNTS": {
+      "total_tokens": 284,
+      "unique_tokens": 148,
+      "lines": 16,
+      "couplets": 8
+    },
+    "TTR": 0.521,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "کچھ",
+      "ہوتا",
+      "ہوتا",
+      "ہوتا",
+      "ہوتا",
+      "ہوتا",
+      "کیا",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھا' consistently appears. Qaafiya pattern follows -ا ending."
+  },
+  {
+    "TEXT_ID": "ghalib_00002",
+    "TOKEN_COUNTS": {
+      "total_tokens": 165,
+      "unique_tokens": 94,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.569,
+    "RADIF": "ہوتا",
+    "QAAFIYA": [
+      "ہماری",
+      "انتظار",
+      "تمہارا",
+      "ہوتا",
+      "مر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "melancholy_resignation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "AA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوتا' appears at end of first and fourth couplets. Qaafiya includes mixed endings."
+  },
+  {
+    "TEXT_ID": "ghalib_00003",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 76,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.622,
+    "RADIF": "",
+    "QAAFIYA": [
+      "لیکن",
+      "اچھا",
+      "دیا",
+      "کام"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "ironic_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Qaafiya varies across couplets."
+  },
+  {
+    "TEXT_ID": "ghalib_00004",
+    "TOKEN_COUNTS": {
+      "total_tokens": 140,
+      "unique_tokens": 85,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "کیوں",
+    "QAAFIYA": [
+      "آئے",
+      "ستائے",
+      "ہے",
+      "لگائے",
+      "بھلایا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_anguish",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کیوں' consistently appears at end of lines. Qaafiya pattern follows ی endings."
+  },
+  {
+    "TEXT_ID": "ghalib_00005",
+    "TOKEN_COUNTS": {
+      "total_tokens": 192,
+      "unique_tokens": 102,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.531,
+    "RADIF": "نکلے",
+    "QAAFIYA": [
+      "دم",
+      "کم",
+      "تھے",
+      "گزرے",
+      "ہونا",
+      "ہونا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "yearning_dissatisfaction",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نکلے' appears consistently. Qaafiya varies but maintains rhythmic pattern."
+  },
+  {
+    "TEXT_ID": "ghalib_00006",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.562,
+    "RADIF": "نہیں آتی",
+    "QAAFIYA": [
+      "بر",
+      "نظر",
+      "معین",
+      "بھر",
+      "خبر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopelessness_despair",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہیں آتی'. Qaafiya follows ر ending pattern."
+  },
+  {
+    "TEXT_ID": "ghalib_00007",
+    "TOKEN_COUNTS": {
+      "total_tokens": 140,
+      "unique_tokens": 94,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.671,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہوں",
+      "خدا",
+      "دیجئے",
+      "کہیے",
+      "نہ جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "rebellious_defiance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Themes of heresy and defiance."
+  },
+  {
+    "TEXT_ID": "ghalib_00008",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 65,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.58,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہنسی",
+      "آتی",
+      "اور",
+      "کیوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "melancholy_isolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Combines verses from previous ghazals. Focus on loss of joy."
+  },
+  {
+    "TEXT_ID": "ghalib_00009",
+    "TOKEN_COUNTS": {
+      "total_tokens": 142,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.591,
+    "RADIF": "دیکھتے ہیں",
+    "QAAFIYA": [
+      "قدم",
+      "حرم",
+      "بنایا",
+      "جام",
+      "غم"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_devotion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'دیکھتے ہیں'. Qaafiya pattern mixed but rhythmic."
+  },
+  {
+    "TEXT_ID": "ghalib_00010",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.608,
+    "RADIF": "",
+    "QAAFIYA": [
+      "گئی",
+      "گئی",
+      "وعدہ",
+      "جاؤں",
+      "آتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "persistent_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Theme of unbroken habit of remembrance."
+  },
+  {
+    "TEXT_ID": "ghalib_00011",
+    "TOKEN_COUNTS": {
+      "total_tokens": 140,
+      "unique_tokens": 75,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.535,
+    "RADIF": "کہتے ہیں",
+    "QAAFIYA": [
+      "سنتا",
+      "ہے",
+      "کبھی",
+      "ہے",
+      "عقیدہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_paradox",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کہتے ہیں'. Explores nature of speech and existence."
+  },
+  {
+    "TEXT_ID": "ghalib_00012",
+    "TOKEN_COUNTS": {
+      "total_tokens": 140,
+      "unique_tokens": 78,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.557,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "امید",
+      "کرتے",
+      "نہیں",
+      "نہیں",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_disillusionment",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں' appears frequently. Themes of unfulfilled hope and existential emptiness."
+  },
+  {
+    "TEXT_ID": "ghalib_00013",
+    "TOKEN_COUNTS": {
+      "total_tokens": 145,
+      "unique_tokens": 83,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.572,
+    "RADIF": "ہو",
+    "QAAFIYA": [
+      "آتا",
+      "کیا",
+      "تھے",
+      "کیا",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_intoxication",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہو' appears in most couplets. Explores self-loss and madness."
+  },
+  {
+    "TEXT_ID": "ghalib_00014",
+    "TOKEN_COUNTS": {
+      "total_tokens": 152,
+      "unique_tokens": 86,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.565,
+    "RADIF": "",
+    "QAAFIYA": [
+      "لے",
+      "بھر",
+      "آتی",
+      "نقصان",
+      "نہیں",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "contemplative_detachment",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Combines multiple philosophical themes."
+  },
+  {
+    "TEXT_ID": "ghalib_00015",
+    "TOKEN_COUNTS": {
+      "total_tokens": 175,
+      "unique_tokens": 94,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.537,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "بھروسہ",
+      "ہے",
+      "جام",
+      "ہے",
+      "ہو",
+      "جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' consistently appears. Explores cage metaphor and worldly detachment."
+  },
+  {
+    "TEXT_ID": "ghalib_00016",
+    "TOKEN_COUNTS": {
+      "total_tokens": 168,
+      "unique_tokens": 90,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.535,
+    "RADIF": "ہوتا",
+    "QAAFIYA": [
+      "کی",
+      "ہوتا",
+      "ابھی",
+      "کیوں",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوتا' appears in multiple couplets. Combines themes from first ghazal."
+  },
+  {
+    "TEXT_ID": "ghalib_00017",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.531,
+    "RADIF": "نہیں آتی",
+    "QAAFIYA": [
+      "معین",
+      "آتی",
+      "ہنسی",
+      "بر",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_despair",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہیں آتی'. Themes of fixed death and unfulfilled hope."
+  },
+  {
+    "TEXT_ID": "ghalib_00018",
+    "TOKEN_COUNTS": {
+      "total_tokens": 182,
+      "unique_tokens": 96,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.527,
+    "RADIF": "یاد ہو کہ نہ یاد ہو",
+    "QAAFIYA": [
+      "قرار",
+      "نباہ",
+      "غم",
+      "مقام",
+      "زمانہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Extended radif phrase. Themes of remembrance and lost intimacy."
+  },
+  {
+    "TEXT_ID": "ghalib_00019",
+    "TOKEN_COUNTS": {
+      "total_tokens": 145,
+      "unique_tokens": 78,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.537,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہونا",
+      "ہونا",
+      "لگائے",
+      "جائے",
+      "آتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_frustration",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Explores difficulty of being human."
+  },
+  {
+    "TEXT_ID": "ghalib_00020",
+    "TOKEN_COUNTS": {
+      "total_tokens": 158,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.531,
+    "RADIF": "",
+    "QAAFIYA": [
+      "بھلایا",
+      "ہوتا",
+      "لگائے",
+      "کہے",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Revisits themes from first ghazal about existence and non-existence."
+  },
+  {
+    "TEXT_ID": "ghalib_00032",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 80,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.579,
+    "RADIF": "بات ہے",
+    "QAAFIYA": [
+      "کی",
+      "سی",
+      "زہد",
+      "آتی",
+      "غم"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "worldly_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'بات ہے'. Distinguishes love from worldly custom."
+  },
+  {
+    "TEXT_ID": "ghalib_00033",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 70,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.573,
+    "RADIF": "",
+    "QAAFIYA": [
+      "سمجھائے",
+      "نہیں",
+      "کہے",
+      "ہونا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "contemplative_isolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Explores inexpressibility and loss."
+  },
+  {
+    "TEXT_ID": "ghalib_00034",
+    "TOKEN_COUNTS": {
+      "total_tokens": 140,
+      "unique_tokens": 80,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.571,
+    "RADIF": "",
+    "QAAFIYA": [
+      "دیا",
+      "لیا",
+      "لگائے",
+      "غم",
+      "آئے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "devotional_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Heart's declaration upon beholding beauty."
+  },
+  {
+    "TEXT_ID": "ghalib_00036",
+    "TOKEN_COUNTS": {
+      "total_tokens": 120,
+      "unique_tokens": 72,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.6,
+    "RADIF": "",
+    "QAAFIYA": [
+      "نہیں",
+      "جائے",
+      "کہیے",
+      "جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "paradoxical_defiance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Matter of love as deception-free zone."
+  },
+  {
+    "TEXT_ID": "ghalib_00037",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 76,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.562,
+    "RADIF": "",
+    "QAAFIYA": [
+      "تھے",
+      "ہو",
+      "ہو",
+      "ہونا",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_mortality",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Remembers dream meetings and universal death."
+  },
+  {
+    "TEXT_ID": "ghalib_00038",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.544,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "ہے",
+      "نہیں",
+      "کہے",
+      "آتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_confusion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں' appears. Theme of lost connection with self and others."
+  },
+  {
+    "TEXT_ID": "ghalib_00039",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 74,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.548,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہو",
+      "کیوں",
+      "نہیں",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "persistent_remembrance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Constant remembrance without complaint."
+  },
+  {
+    "TEXT_ID": "ghalib_00040",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "",
+    "QAAFIYA": [
+      "آئے",
+      "لے",
+      "جائے",
+      "جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mortality_defiance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Message of death approaches."
+  },
+  {
+    "TEXT_ID": "ghalib_00043",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.556,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہے",
+      "کیوں",
+      "آتی",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "restless_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Whose memory makes heart restless?"
+  },
+  {
+    "TEXT_ID": "ghalib_00044",
+    "TOKEN_COUNTS": {
+      "total_tokens": 110,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.581,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہوں",
+      "ہیں",
+      "غم",
+      "نقصان"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "paradoxical_freedom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Prisoners of cage yet seeing flight."
+  },
+  {
+    "TEXT_ID": "ghalib_00045",
+    "TOKEN_COUNTS": {
+      "total_tokens": 100,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.62,
+    "RADIF": "",
+    "QAAFIYA": [
+      "دیجئے",
+      "کہیے",
+      "جائے",
+      "آئے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "defiant_surrender",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Blood-money to murderer, bravo to dagger."
+  },
+  {
+    "TEXT_ID": "ghalib_00046",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 65,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.619,
+    "RADIF": "",
+    "QAAFIYA": [
+      "سے",
+      "جائے",
+      "ہوں",
+      "خدا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_annihilation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Suicide as better option without punishment."
+  },
+  {
+    "TEXT_ID": "ghalib_00047",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "",
+    "QAAFIYA": [
+      "جائے",
+      "آئے",
+      "نہیں",
+      "کہیے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mortality_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Death message near, step out but not leave house."
+  },
+  {
+    "TEXT_ID": "ghalib_00048",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 65,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.565,
+    "RADIF": "یاد ہو کہ نہ یاد ہو",
+    "QAAFIYA": [
+      "غم",
+      "ملال",
+      "مقام"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_reflection",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Extended radif. Partial version of ghalib_00018."
+  },
+  {
+    "TEXT_ID": "ghalib_00049",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 62,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.574,
+    "RADIF": "یاد ہو کہ نہ یاد ہو",
+    "QAAFIYA": [
+      "قرار",
+      "غم",
+      "رنج"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Extended radif. Partial version asking about trust and sorrow."
+  },
+  {
+    "TEXT_ID": "ghalib_00050",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 60,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.571,
+    "RADIF": "یاد ہو کہ نہ یاد ہو",
+    "QAAFIYA": [
+      "ہو",
+      "غم",
+      "قرار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_persistence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Extended radif. I am nothing, but that sorrow remains."
+  },
+  {
+    "TEXT_ID": "ghalib_00051",
+    "TOKEN_COUNTS": {
+      "total_tokens": 352,
+      "unique_tokens": 178,
+      "lines": 24,
+      "couplets": 12
+    },
+    "TTR": 0.505,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "بےقراری",
+      "کاری",
+      "لالہکاری",
+      "عمارے",
+      "خواری",
+      "باری",
+      "بےقراری",
+      "سپاری",
+      "ہماری",
+      "فوجداری",
+      "داری",
+      "زاری"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "restless_passion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA",
+      "KA",
+      "LA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' consistently appears. Qaafiya follows ی ending pattern. Long ghazal on heart's restlessness."
+  },
+  {
+    "TEXT_ID": "ghalib_00052",
+    "TOKEN_COUNTS": {
+      "total_tokens": 285,
+      "unique_tokens": 158,
+      "lines": 20,
+      "couplets": 10
+    },
+    "TTR": 0.554,
+    "RADIF": "کو میں",
+    "QAAFIYA": [
+      "جگر",
+      "گر",
+      "کدھر",
+      "گزر",
+      "کمر",
+      "گھر",
+      "رہبر",
+      "گر",
+      "خبر",
+      "ہنر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_reflective_irony",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کو میں'. Qaafiya follows ر ending pattern. Should I cry for heart or liver?"
+  },
+  {
+    "TEXT_ID": "ghalib_00053",
+    "TOKEN_COUNTS": {
+      "total_tokens": 298,
+      "unique_tokens": 168,
+      "lines": 22,
+      "couplets": 11
+    },
+    "TTR": 0.563,
+    "RADIF": "میرے بعد",
+    "QAAFIYA": [
+      "جفا",
+      "ادا",
+      "ہوا",
+      "حنا",
+      "خفا",
+      "جدا",
+      "صلا",
+      "وفا",
+      "بلا",
+      "ریا",
+      "رفقا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "melancholy_legacy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA",
+      "KA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'میرے بعد'. Qaafiya follows ا ending pattern. What will happen after me?"
+  },
+  {
+    "TEXT_ID": "ghalib_00055",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "دیا",
+      "کام",
+      "لیکن",
+      "آتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_deprecating",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Love ruined Ghalib, otherwise he was a man of substance."
+  },
+  {
+    "TEXT_ID": "ghalib_00061",
+    "TOKEN_COUNTS": {
+      "total_tokens": 245,
+      "unique_tokens": 138,
+      "lines": 18,
+      "couplets": 9
+    },
+    "TTR": 0.563,
+    "RADIF": "پر",
+    "QAAFIYA": [
+      "درخشاں",
+      "بیاباں",
+      "زنداں",
+      "دبستاں",
+      "نمکداں",
+      "عنواں",
+      "گلستاں",
+      "شہیداں",
+      "گریباں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'پر' appears consistently. Qaafiya follows اں ending pattern. Heart trembles at shining sun."
+  },
+  {
+    "TEXT_ID": "ghalib_00062",
+    "TOKEN_COUNTS": {
+      "total_tokens": 225,
+      "unique_tokens": 128,
+      "lines": 18,
+      "couplets": 9
+    },
+    "TTR": 0.568,
+    "RADIF": "اور",
+    "QAAFIYA": [
+      "نشاں",
+      "گماں",
+      "نشاں",
+      "بیاں",
+      "ساں",
+      "نشاں",
+      "کماں",
+      "گماں",
+      "جواں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mysterious_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'اور' appears consistently. Qaafiya follows اں ending pattern. Every gesture has another sign."
+  },
+  {
+    "TEXT_ID": "ghalib_00063",
+    "TOKEN_COUNTS": {
+      "total_tokens": 215,
+      "unique_tokens": 122,
+      "lines": 18,
+      "couplets": 9
+    },
+    "TTR": 0.567,
+    "RADIF": "کچھ دن اور",
+    "QAAFIYA": [
+      "راستہ",
+      "تنہا",
+      "پاس",
+      "تماشا",
+      "آئیں",
+      "آتا",
+      "غم",
+      "آتا",
+      "تنہا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "longing_delay",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کچھ دن اور'. Qaafiya varies. You should have watched my road a few days more."
+  },
+  {
+    "TEXT_ID": "ghalib_00064",
+    "TOKEN_COUNTS": {
+      "total_tokens": 148,
+      "unique_tokens": 82,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.554,
+    "RADIF": "عزیز",
+    "QAAFIYA": [
+      "جاں",
+      "ایمان",
+      "مہماں",
+      "لگائے",
+      "غم",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "devotional_defiance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'عزیز' appears consistently. Why would I hold my life dearer than that idol?"
+  },
+  {
+    "TEXT_ID": "ghalib_00065",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.59,
+    "RADIF": "کیا ہے",
+    "QAAFIYA": [
+      "ہوا",
+      "دوا",
+      "بیزار",
+      "ماجرا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "innocent_anguish",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کیا ہے'. O innocent heart, what has happened to you?"
+  },
+  {
+    "TEXT_ID": "ghalib_00066",
+    "TOKEN_COUNTS": {
+      "total_tokens": 168,
+      "unique_tokens": 98,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.583,
+    "RADIF": "کا",
+    "QAAFIYA": [
+      "تحریر",
+      "تصویر",
+      "شیر",
+      "شمشیر",
+      "تقریر",
+      "زنجیر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "artistic_anguish",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کا' appears consistently. Qaafiya follows یر ending pattern. Inscription complains of playful penmanship."
+  },
+  {
+    "TEXT_ID": "ghalib_00067",
+    "TOKEN_COUNTS": {
+      "total_tokens": 165,
+      "unique_tokens": 95,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.575,
+    "RADIF": "نہ پوچھ",
+    "QAAFIYA": [
+      "زنداں",
+      "زنجیر",
+      "طاؤس",
+      "تسخیر",
+      "نخچیر",
+      "تعمیر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "defiant_mystery",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہ پوچھ'. My feet are afire, do not ask about prison's madness."
+  },
+  {
+    "TEXT_ID": "ghalib_00068",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 78,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "طاؤس",
+      "تسخیر",
+      "نخچیر",
+      "تعمیر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_hunting",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial version of previous ghazal. Radif 'ہے'. Mischief of magic is hunting peacock's madness."
+  },
+  {
+    "TEXT_ID": "ghalib_00069",
+    "TOKEN_COUNTS": {
+      "total_tokens": 120,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.566,
+    "RADIF": "ہوگا",
+    "QAAFIYA": [
+      "وعدہ",
+      "سادہ",
+      "زیادہ",
+      "ارادہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopeful_anticipation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوگا'. Her eyes must have made some nameless promise to me."
+  },
+  {
+    "TEXT_ID": "ghalib_00070",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 82,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "",
+    "QAAFIYA": [
+      "نعمت",
+      "امت",
+      "نفرت",
+      "وحدت",
+      "وحشت"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "social_critique",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Critical tone about bribery and corruption. Possibly later addition."
+  },
+  {
+    "TEXT_ID": "ghalib_00071",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 82,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "",
+    "QAAFIYA": [
+      "دولت",
+      "غفلت",
+      "عظمت",
+      "صورت",
+      "وحشت"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "social_critique",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Reverse order of ghalib_00070. No consistent radif. Wealth consumed the denier."
+  },
+  {
+    "TEXT_ID": "ghalib_00072",
+    "TOKEN_COUNTS": {
+      "total_tokens": 32,
+      "unique_tokens": 24,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.75,
+    "RADIF": "تک",
+    "QAAFIYA": [
+      "علاج",
+      "ہوتے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_despair",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Single couplet. Radif 'تک'. No cure for existence except death."
+  },
+  {
+    "TEXT_ID": "ghalib_00073",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "نہ مانگ",
+    "QAAFIYA": [
+      "یاد",
+      "خدا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "penitent_plea",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہ مانگ'. Do not ask accounting of my sin, O Lord."
+  },
+  {
+    "TEXT_ID": "ghalib_00074",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "گل",
+    "QAAFIYA": [
+      "آرزو",
+      "قبا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "yearning_desire",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'گل'. Longing to embrace the one whose thought is rose of collar."
+  },
+  {
+    "TEXT_ID": "ghalib_00075",
+    "TOKEN_COUNTS": {
+      "total_tokens": 182,
+      "unique_tokens": 102,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.56,
+    "RADIF": "ہو گئے",
+    "QAAFIYA": [
+      "بےباک",
+      "پاک",
+      "مےکشی",
+      "پاک",
+      "چالاک",
+      "چاک"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "transformation_through_love",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'ہو گئے'. In love, bolder I became once openly I cried."
+  },
+  {
+    "TEXT_ID": "ghalib_00076",
+    "TOKEN_COUNTS": {
+      "total_tokens": 342,
+      "unique_tokens": 178,
+      "lines": 24,
+      "couplets": 12
+    },
+    "TTR": 0.52,
+    "RADIF": "مرے آگے",
+    "QAAFIYA": [
+      "دنیا",
+      "تماشا",
+      "سلیماں",
+      "مسیحا",
+      "عالم",
+      "اشیاء",
+      "صحرا",
+      "دریا",
+      "پیچھے",
+      "تیرا",
+      "سیما",
+      "گفتار",
+      "صہبا",
+      "رشک",
+      "ان کا",
+      "کفر",
+      "کلیسا",
+      "لیلیٰ",
+      "تمنا",
+      "خوں",
+      "کیا",
+      "مےخانہ",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_transcendence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA",
+      "KA",
+      "LA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'مرے آگے'. Long philosophical ghazal. World is children's plaything before me."
+  },
+  {
+    "TEXT_ID": "ghalib_00077",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "شرم",
+    "QAAFIYA": [
+      "دور",
+      "بےکسی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "alienation_dignity",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'شرم'. They killed me in alien land, Lord upheld my helplessness's pride."
+  },
+  {
+    "TEXT_ID": "ghalib_00078",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "ادا کروں",
+    "QAAFIYA": [
+      "ولے",
+      "خوف"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "fearful_irony",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'ادا کروں'. Would borrow happy dream but fear how to repay."
+  },
+  {
+    "TEXT_ID": "ghalib_00079",
+    "TOKEN_COUNTS": {
+      "total_tokens": 24,
+      "unique_tokens": 18,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.75,
+    "RADIF": "کہاں",
+    "QAAFIYA": [
+      "ہے",
+      "ستمگر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "cynical_resignation",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کہاں'. Lowly sky is without hesitation, where is shame to that tyrant?"
+  },
+  {
+    "TEXT_ID": "ghalib_00080",
+    "TOKEN_COUNTS": {
+      "total_tokens": 152,
+      "unique_tokens": 92,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.605,
+    "RADIF": "",
+    "QAAFIYA": [
+      "نیاز",
+      "دراز",
+      "فراز",
+      "پرداز",
+      "ناز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_desire",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Spell of desire fails before difficult demands."
+  },
+  {
+    "TEXT_ID": "ghalib_00081",
+    "TOKEN_COUNTS": {
+      "total_tokens": 32,
+      "unique_tokens": 24,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.75,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "قدر",
+      "گلخن"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_deprecating",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. What glory in homeland that there would be esteem abroad? I'm straw not in stove."
+  },
+  {
+    "TEXT_ID": "ghalib_00082",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "کیا کہوں",
+    "QAAFIYA": [
+      "خراش",
+      "ناشنیدں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "frustrated_expression",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کیا کہوں'. I and hundred thousand liver-rending songs, you and that non-hearing."
+  },
+  {
+    "TEXT_ID": "ghalib_00083",
+    "TOKEN_COUNTS": {
+      "total_tokens": 32,
+      "unique_tokens": 24,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.75,
+    "RADIF": "نہ سکوں",
+    "QAAFIYA": [
+      "ورنہ",
+      "ملنے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "bitter_irony",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہ سکوں'. Can't even get poison, is it vow against meeting you?"
+  },
+  {
+    "TEXT_ID": "ghalib_00084",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "شرم",
+    "QAAFIYA": [
+      "خدا",
+      "وارستگی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "protective_prayer",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'شرم'. Those curls are in ambush, uphold honor of my claim of liberation."
+  },
+  {
+    "TEXT_ID": "ghalib_00085",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "کلام",
+      "ہمزباں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "poetic_pride",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. I find praise for my poetry, though Gabriel is not my fellow speaker."
+  },
+  {
+    "TEXT_ID": "ghalib_00086",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "تدبیر",
+      "زنجیر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "paradoxical_freedom",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. No contrivance forbids desert-wandering, a circle on my feet not chain."
+  },
+  {
+    "TEXT_ID": "ghalib_00087",
+    "TOKEN_COUNTS": {
+      "total_tokens": 0,
+      "unique_tokens": 0,
+      "lines": 0,
+      "couplets": 0
+    },
+    "TTR": 0,
+    "RADIF": "",
+    "QAAFIYA": [],
+    "RADIF_QAAFIYA_VERIFIED": false,
+    "SENTIMENT": "unknown",
+    "RHYME_PATTERNS": [],
+    "ANNOTATION_NOTES": "Complete text not available in search results. Empty entry."
+  },
+  {
+    "TEXT_ID": "ghalib_00088",
+    "TOKEN_COUNTS": {
+      "total_tokens": 28,
+      "unique_tokens": 22,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.785,
+    "RADIF": "چمن",
+    "QAAFIYA": [
+      "زلیخائی",
+      "بہار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "romantic_opportunity",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چمن'. Time for humble nightingale to do Zulaikha-ness, Joseph of rose in garden bazaar."
+  },
+  {
+    "TEXT_ID": "ghalib_00089",
+    "TOKEN_COUNTS": {
+      "total_tokens": 24,
+      "unique_tokens": 19,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.791,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "تاثیر",
+      "بید"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "determined_passion",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. Passion is not hopeless of effect, life-surrendering is not a willow tree."
+  },
+  {
+    "TEXT_ID": "ghalib_00090",
+    "TOKEN_COUNTS": {
+      "total_tokens": 165,
+      "unique_tokens": 95,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.575,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "رفو",
+      "عدو",
+      "لہو",
+      "کسو",
+      "گلو",
+      "جو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_wounds",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. A wound which can by stitching seal, write in rival's destiny."
+  },
+  {
+    "TEXT_ID": "ghalib_00091",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 72,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.562,
+    "RADIF": "",
+    "QAAFIYA": [
+      "فاتحہ",
+      "ناشاد",
+      "جائے",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_irony",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. They recite Fatiha at weddings but heart's desire is something else."
+  },
+  {
+    "TEXT_ID": "ghalib_00092",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.571,
+    "RADIF": "",
+    "QAAFIYA": [
+      "آتا",
+      "چاہتا",
+      "ہوتا",
+      "پروا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Heart beats, remembrance comes. Combines themes from first ghazal."
+  },
+  {
+    "TEXT_ID": "ghalib_00093",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.576,
+    "RADIF": "",
+    "QAAFIYA": [
+      "تھا",
+      "تھا",
+      "اچھا",
+      "دیکھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "questioning_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Is it not that which you had claimed? Doubt He made us unfaithful."
+  },
+  {
+    "TEXT_ID": "ghalib_00094",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.571,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہو",
+      "نہیں",
+      "ہوتا",
+      "پروا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "exhausted_resignation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. No strength for speech, on what hope could I speak?"
+  },
+  {
+    "TEXT_ID": "ghalib_00122",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.576,
+    "RADIF": "ہو",
+    "QAAFIYA": [
+      "تھا",
+      "تھا",
+      "نباہ",
+      "دیا",
+      "ہو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nostalgic_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہو' appears in some couplets. Understanding that was between us."
+  },
+  {
+    "TEXT_ID": "ghalib_00123",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "گئی",
+      "گئی",
+      "فاتحہ",
+      "ناشاد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "descending_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Glance descended from heart to liver."
+  },
+  {
+    "TEXT_ID": "ghalib_00124",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.571,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہوتا",
+      "پروا",
+      "تھا",
+      "آتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_philosophical",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Combines first ghazal theme with others."
+  },
+  {
+    "TEXT_ID": "ghalib_00125",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.576,
+    "RADIF": "",
+    "QAAFIYA": [
+      "لیکن",
+      "اچھا",
+      "فاتحہ",
+      "ناشاد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_irony",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Reality of Paradise known."
+  },
+  {
+    "TEXT_ID": "ghalib_00126",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 70,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.608,
+    "RADIF": "ہوتا",
+    "QAAFIYA": [
+      "ہوتے",
+      "ہوتا",
+      "ہے",
+      "کیا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_irony",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوتا' appears. You are with me as if when no one else is there."
+  },
+  {
+    "TEXT_ID": "ghalib_00127",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "مرے آگے",
+    "QAAFIYA": [
+      "دنیا",
+      "تماشا",
+      "کھلونا",
+      "زمانہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_transcendence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'مرے آگے'. World is child's plaything before me."
+  },
+  {
+    "TEXT_ID": "ghalib_00128",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.573,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہوتا",
+      "انتظار",
+      "فاتحہ",
+      "ناشاد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. It was not our destiny to meet the beloved."
+  },
+  {
+    "TEXT_ID": "ghalib_00129",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "نہ ہو",
+    "QAAFIYA": [
+      "جہاں",
+      "غم",
+      "تھا",
+      "تھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "existential_isolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہ ہو' appears. Go live where no one exists."
+  },
+  {
+    "TEXT_ID": "ghalib_00130",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "مجھے",
+      "ہے",
+      "ہوتا",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_deprecating",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' appears. I am so weak that if you place me in assembly."
+  },
+  {
+    "TEXT_ID": "ghalib_00131",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "جائے",
+      "آئے",
+      "لیکن",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "protective_wish",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. May my scattered dust not become a heart."
+  },
+  {
+    "TEXT_ID": "ghalib_00132",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "",
+    "QAAFIYA": [
+      "مہ",
+      "انتظار",
+      "جائے",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "anticipatory_confusion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. New moon passed beyond every station."
+  },
+  {
+    "TEXT_ID": "ghalib_00133",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.573,
+    "RADIF": "کیا",
+    "QAAFIYA": [
+      "بھرا",
+      "بسا",
+      "تھا",
+      "تھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "accusatory_melancholy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کیا' appears. With pain you filled my skirt—what did you not do?"
+  },
+  {
+    "TEXT_ID": "ghalib_00134",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "",
+    "QAAFIYA": [
+      "جائے",
+      "دی",
+      "فاتحہ",
+      "ناشاد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "surprised_betrayal",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. It would not be surprising if love's blood is shed."
+  },
+  {
+    "TEXT_ID": "ghalib_00136",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.576,
+    "RADIF": "نکلے",
+    "QAAFIYA": [
+      "دم",
+      "کم",
+      "ہوتا",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "yearning_dissatisfaction",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نکلے' appears. Thousands of desires, each worth dying for."
+  },
+  {
+    "TEXT_ID": "ghalib_00137",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.576,
+    "RADIF": "نہیں آتی",
+    "QAAFIYA": [
+      "بر",
+      "نظر",
+      "تھا",
+      "تھا",
+      "فاتحہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopelessness_despair",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہیں آتی'. No hope is fulfilled."
+  },
+  {
+    "TEXT_ID": "ghalib_00138",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.571,
+    "RADIF": "کہاں",
+    "QAAFIYA": [
+      "عاشق",
+      "رونا",
+      "پروا",
+      "جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "exaggerated_grief",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کہاں' appears. The lover's weeping is worth seeing."
+  },
+  {
+    "TEXT_ID": "ghalib_00139",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہوں",
+      "اب",
+      "لیکن",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "exalted_humility",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' appears. I am friend of indifference, mind exalted in humility."
+  },
+  {
+    "TEXT_ID": "ghalib_00140",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "خرامی",
+      "ہے",
+      "ہوتا",
+      "فاتحہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resigned_acceptance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' appears. Wash your hands of gain, O misguided desire."
+  },
+  {
+    "TEXT_ID": "ghalib_00141",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.592,
+    "RADIF": "رکھا",
+    "QAAFIYA": [
+      "فریاد",
+      "فریاد",
+      "تھا",
+      "تھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "paradoxical_warmth",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'رکھا' appears. The shape of nothingness kept my cry warm."
+  },
+  {
+    "TEXT_ID": "ghalib_00142",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "پاسبانی",
+      "جانی",
+      "لیکن",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "conditional_wisdom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. If flame does not guard heart's scar."
+  },
+  {
+    "TEXT_ID": "ghalib_00143",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "کی",
+      "ہو",
+      "نہیں",
+      "ہوتا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "aspirational_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Star of sovereign is being trampled."
+  },
+  {
+    "TEXT_ID": "ghalib_00144",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "",
+    "QAAFIYA": [
+      "شراب",
+      "کہا",
+      "پروا",
+      "فاتحہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "wine_ecstasy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Again time when wave of wine combs tresses."
+  },
+  {
+    "TEXT_ID": "ghalib_00145",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "جائے",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "compassionate_defiance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے' appears. Have mercy, tyrant—the lamp is extinguished."
+  },
+  {
+    "TEXT_ID": "ghalib_00146",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "",
+    "QAAFIYA": [
+      "وقت",
+      "آؤں",
+      "ہوتا",
+      "فاتحہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "patient_surrender",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Call me with kindness, whenever you wish."
+  },
+  {
+    "TEXT_ID": "ghalib_00151",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.589,
+    "RADIF": "",
+    "QAAFIYA": [
+      "کہا",
+      "ہیں",
+      "تھا",
+      "اچھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "contemplative_pleasure",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. See the pleasure of speech—what she said!"
+  }
+]
