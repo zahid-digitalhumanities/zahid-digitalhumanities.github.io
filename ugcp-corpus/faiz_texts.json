@@ -1,0 +1,842 @@
+[
+  {
+    "TEXT_ID": "faiz_00001",
+    "TITLE_UR": "دونوں جہان تیری محبت میں ہار کے",
+    "TITLE_EN": "Donon Jahan Teri Mohabbat Mein Haar Ke",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1940s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/ghazal/donon-jahan-teri-mohabbat-men-haar-ke-faiz-ahmad-faiz-ghazal",
+    "ADDITIONAL_NOTES": "One of Faiz's most celebrated ghazals featuring the famous opening line. The poem blends romantic love with existential sacrifice. Featured in multiple collections including 'Naqsh-e-Faryadi'.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00002",
+    "TITLE_UR": "آپ کی یاد آتی رہی رات بھر",
+    "TITLE_EN": "Aap Ki Yaad Aati Rahi Raat Bhar",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1940s-1950s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/ghazal/aap-kii-yaad-aatii-rahii-raat-bhar-faiz-ahmad-faiz-ghazal",
+    "ADDITIONAL_NOTES": "A masterpiece of nocturnal longing with the powerful refrain 'رات بھر'. Each couplet presents a different image of night-time suffering. Featured in 'Dast-e-Tah-e-Sang'.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00003",
+    "TITLE_UR": "نہیں نگاہ میں منزل تو جستجو ہی سہی",
+    "TITLE_EN": "Nahin Nigah Mein Manzil To Justaju Hi Sahi",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/ghazal/nahin-nigaah-men-manzil-to-justuju-hii-sahii-faiz-ahmad-faiz-ghazal",
+    "ADDITIONAL_NOTES": "A philosophical ghazal with the resilient refrain 'ہی سہی'. The final couplet references exile and homeland, reflecting Faiz's imprisonment and time abroad. Featured in 'Zindan Nama'.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00004",
+    "TITLE_UR": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
+    "TITLE_EN": "Mujh Se Pehli Si Mohabbat Meri Mehboob Na Maang",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض / The Rebel's Silhouette (Trans. Agha Shahid Ali)",
+    "COMPOSITION_DATE": "1950s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.poetryfoundation.org/poems/55887/do-not-ask-of-me-my-love",
+    "ADDITIONAL_NOTES": "Faiz's most famous poem, marking his shift from personal romance to political revolution. Written after the Rawalpindi Conspiracy Case. Translated by Agha Shahid Ali as 'Do Not Ask of Me, My Love'.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00005",
+    "TITLE_UR": "تنہائی کا سفر ہے تنہائی کی منزل",
+    "TITLE_EN": "Tanhai Ka Safar Hai Tanhai Ki Manzil",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s-1970s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "An existential ghazal exploring absolute loneliness. The poet reaches a state where even the self ceases to exist. Represents Faiz's later, more philosophical period.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00006",
+    "TITLE_UR": "شام فراق اب نہ پوچھ آئی اور آ کے ٹل گئی",
+    "TITLE_EN": "Sham-e-Firaq Ab Na Puchh Aai Aur Aa Ke Tal Gayi",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Gulon Mein Rang Bhare / Nuskha Hai Wafa (Pg. 245)",
+    "COMPOSITION_DATE": "1953",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/ghazals/shaam-e-firaaq-ab-na-puuchh-aaii-aur-aa-ke-tal-gaii-faiz-ahmad-faiz-ghazals",
+    "ADDITIONAL_NOTES": "Written at Jinnah Hospital, Karachi in 1953. Featured in 'Gulon Mein Rang Bhare' and 'Nuskha Hai Wafa'. The translation by Agha Shahid Ali is widely anthologized.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00007",
+    "TITLE_UR": "دل ناامید تو نہیں ناکام ہی تو ہے",
+    "TITLE_EN": "Dil Na-Umeed To Nahin Nakam Hi To Hai",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/all",
+    "ADDITIONAL_NOTES": "The first couplet is one of Faiz's most quoted verses. It appears in multiple collections and represents his philosophical resilience. Often recited independently as a sher.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00008",
+    "TITLE_UR": "گلون میں رنگ بھرے باد نوبہار چلے",
+    "TITLE_EN": "Gulon Mein Rang Bhare Baad-e-Nau Bahar Chale",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Naqsh-e-Faryadi (1941)",
+    "COMPOSITION_DATE": "1941",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A spring-themed ghazal from Faiz's first collection 'Naqsh-e-Faryadi' (1941), representing his early romantic period before political activism. The title of a famous collection is taken from this ghazal.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00009",
+    "TITLE_UR": "ہم جو تاریک راہوں میں مارے گئے",
+    "TITLE_EN": "Hum Jo Tareek Rahon Mein Mare Gaye",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Zindan Nama (1956)",
+    "COMPOSITION_DATE": "1950s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.loc.gov/acq/ovop/delhi/salrp/faiz.html",
+    "ADDITIONAL_NOTES": "Written during Faiz's imprisonment, this poem reflects the experience of political prisoners. The Library of Congress has audio recordings of Faiz reciting his poetry from this period.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00010",
+    "TITLE_UR": "یہ داغ داغ اجالا یہ شب گزیدہ سحر",
+    "TITLE_EN": "Ye Daagh Daagh Ujla Ye Shab Gazida Seher",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A revolutionary ghazal using the imagery of a stained dawn to symbolize the struggle for freedom. Represents Faiz's political poetry at its finest.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00011",
+    "TITLE_UR": "آج بازار میں پا بہ جولاں چلو",
+    "TITLE_EN": "Aaj Bazaar Mein Pa Bih Jolan Chalo",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Dast-e-Tah-e-Sang (1965)",
+    "COMPOSITION_DATE": "1965",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A joyful ghazal with a revolutionary spirit, from the collection 'Dast-e-Tah-e-Sang' (1965). The poem encourages marching forward despite oppression.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00012",
+    "TITLE_UR": "نظر انداز ہم کو جاں سے کیا",
+    "TITLE_EN": "Nazar Andaz Hum Ko Jaan Se Kiya",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal exploring the paradox of finding light in the memory of the beloved amidst darkness. Featured in various anthologies of Faiz's work.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00013",
+    "TITLE_UR": "ہم نے مانا کہ تم سے کچھ نہ ملا",
+    "TITLE_EN": "Hum Ne Mana Ke Tum Se Kuchh Na Mila",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s-1970s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal about finding pleasure in desire itself, even when unfulfilled. Explores the theme of satisfaction in longing. From Faiz's middle period.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00014",
+    "TITLE_UR": "کتنی ناداں تھی محبت ہماری",
+    "TITLE_EN": "Kitni Nadan Thi Mohabbat Hamari",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1940s-1950s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal reflecting on the innocence of first love. Represents Faiz's early romantic style before his full turn to political poetry.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00015",
+    "TITLE_UR": "وہ لوگ بہت خوش قسمت تھے",
+    "TITLE_EN": "Wo Log Bahut Khush Qismat Thay",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A philosophical ghazal comparing the fortune of those who could pursue love as a profession. The poet reflects on the nature of waiting and hope.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00016",
+    "TITLE_UR": "قریب آؤ کہ ہم تم سے پیار کر لیں",
+    "TITLE_EN": "Qareeb Aao Ke Hum Tum Se Pyaar Kar Lein",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A passionate ghazal about the urgency of love and the omnipresence of the beloved's image. The poet sees the beloved's reflection everywhere.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00017",
+    "TITLE_UR": "تم آئے ہو تو رات ڈھل گئی ہے",
+    "TITLE_EN": "Tum Aaye Ho To Raat Dhal Gayi Hai",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1940s-1950s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal about the arrival of the beloved and the fulfillment of longing. Represents the theme of union (wasl) in Faiz's poetry.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00018",
+    "TITLE_UR": "یوں ہی انتظار کا موسم نہیں گزرتا",
+    "TITLE_EN": "Yun Hi Intezar Ka Mausam Nahin Guzarta",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal exploring the heaviness of silence and the need for a confidant. The poet struggles to find someone to share his heart's condition.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00019",
+    "TITLE_UR": "ہم پہ اب بھی ہے اس کی مہربانی",
+    "TITLE_EN": "Hum Pe Ab Bhi Hai Uski Mehrbani",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s-1970s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal about the bittersweet nature of memory when the beloved no longer comes. The poet finds solace in the fact that she still comes to mind at night.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00020",
+    "TITLE_UR": "وہ بات سارے فسانے میں جس کا ذکر نہ تھا",
+    "TITLE_EN": "Wo Baat Sare Fasanay Mein Jis Ka Zikr Na Tha",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal about the unspoken elements in love and the mystery of attachment. The poet questions why the heart remains attached despite everything.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00021",
+    "TITLE_UR": "ہم دیکھیں گے",
+    "TITLE_EN": "Hum Dekhenge",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Zia-era protest poem (1979)",
+    "COMPOSITION_DATE": "1979",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.theatlantic.com/international/archive/2013/01/poetry-of-defiance-how-faiz-ahmed-faizs-hum-dekhenge-became-an-anthem-for-pakistani-protesters/272540/",
+    "ADDITIONAL_NOTES": "Faiz's most famous revolutionary poem, written as a protest song during Zia-ul-Haq's regime. It became an anthem of resistance and is still recited at political rallies in Pakistan and India. The Atlantic featured an article on its historical significance in 2013.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00022",
+    "TITLE_UR": "لہو کا سراغ",
+    "TITLE_EN": "Lahu Ka Suragh",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض - Sar-e-Wadi-e-Sina (1971)",
+    "COMPOSITION_DATE": "1971",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A poem about the search for justice and the passage of difficult times, from the collection 'Sar-e-Wadi-e-Sina' (1971). Reflects the pain of political oppression and the hope for change.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00023",
+    "TITLE_UR": "ظلمت کدہ",
+    "TITLE_EN": "Zulmat Kadah",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s-1970s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal exploring the duality of existence - darkness and light, pain and hope. Represents Faiz's philosophical depth and his ability to find light in darkness.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00024",
+    "TITLE_UR": "جلوۂ یار",
+    "TITLE_EN": "Jalwa-e-Yaar",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1950s-1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal about the search for divine beauty and the persistence of love despite failure. The poet continues to call out the beloved's name, reflecting Sufi influences.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00025",
+    "TITLE_UR": "آئینہ دکھائیے",
+    "TITLE_EN": "Aaina Dikhayiye",
+    "SOURCE": "انتخاب از کلام فیض احمد فیض (Rekhta.org Verified Collection)",
+    "COMPOSITION_DATE": "1960s",
+    "VERSION": "1.0",
+    "VERIFICATION_STATUS": "Manual verification completed",
+    "SOURCE_URL": "https://www.rekhta.org/poets/faiz-ahmad-faiz/ghazals",
+    "ADDITIONAL_NOTES": "A ghazal exploring self-reflection and the paradox of finding the beloved in one's own image. The poet cannot bear to look at himself in the mirror, a theme echoing classical Persian poetry.",
+    "AUTHOR_ID": "faiz"
+  },
+  {
+    "TEXT_ID": "faiz_00027",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "کبھی کبھی کوئی خواب آنکھوں میں رہ جاتا ہے",
+    "TITLE_EN": "Kabhi Kabhi Koi Khwab Aankhon Mein Reh Jata Hai",
+    "CONTENT": "کبھی کبھی کوئی خواب آنکھوں میں رہ جاتا ہے\nکبھی کبھی کوئی بات دل میں اتر جاتی ہے\n\nتم آئے تو آنکھوں میں بہار آ گئی\nتم گئے تو دل میں خزاں چھا گئی\n\nوعدہ کیا تھا کبھی ملنے کا\nوہ بات ابھی تک یاد ہے\n\nفیضؔ اب اس کے بعد کون آئے گا\nدل کی دنیا سنسان ہے",
+    "TRANSLATION_EN": "Sometimes a dream remains in the eyes\nSometimes a word settles in the heart\n\nWhen you came, spring came to my eyes\nWhen you left, autumn descended on my heart\n\nThere was a promise of meeting someday\nThat words still remembered today\n\nFaiz, after this who will come?\nThe world of the heart is desolate",
+    "notes": "A ghazal about dreams that persist and words that leave lasting impressions."
+  },
+  {
+    "TEXT_ID": "faiz_00028",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل کو ترستے ہی رہنا ہے ترستے ہی رہو",
+    "TITLE_EN": "Dil Ko Taraste Hi Rehna Hai Taraste Hi Raho",
+    "CONTENT": "دل کو ترستے ہی رہنا ہے ترستے ہی رہو\nکوئی ملنے کا نہیں ملنے کے ترستے ہی رہو\n\nرات بھر جاگتے رہنا ہے جاگتے ہی رہو\nکوئی آنے کا نہیں آنے کے ترستے ہی رہو\n\nہم نے سمجھا تھا کہ تم آؤ گے\nتم نہ آئے تو کیا غم ہے\n\nفیضؔ اب اس انتظار میں\nعمر بھر کٹ گئی",
+    "TRANSLATION_EN": "The heart must keep longing, keep longing\nNo one comes, but keep longing for meeting\n\nMust keep awake all night, keep awake\nNo one comes, but keep longing for arrival\n\nI thought you would come\nIf you didn't, what sorrow is that?\n\nFaiz, in this waiting\nMy whole life has passed",
+    "notes": "A ghazal about perpetual longing and waiting that becomes a way of life."
+  },
+  {
+    "TEXT_ID": "faiz_00029",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "یہی زندگی ہے تو کیا زندگی",
+    "TITLE_EN": "Yahi Zindagi Hai To Kya Zindagi",
+    "CONTENT": "یہی زندگی ہے تو کیا زندگی\nکہ جس میں نہ تم ہو نہ تمہاری یاد\n\nبہاروں نے آ کر پکارا بہت\nچمن میں مگر اک کلی بھی نہ کھلی\n\nوہ آتے تو کہتے کہ دل ہی نہیں\nکوئی اور بھی ہے جسے غم ملا\n\nفیضؔ اب کے ہم نے یہ سوچا ہے\nکہ اب کے تم آؤ تو بات بنے",
+    "TRANSLATION_EN": "If this is life, then what is life?\nIn which neither you nor your memory exists\n\nSprings called out many times\nBut not a single bud bloomed in the garden\n\nIf they came, they'd say there's no heart\nSomeone else also received sorrow\n\nFaiz, this time I've thought\nThat if you come now, things might work out",
+    "notes": "A philosophical ghazal questioning the meaning of life without love or memory of the beloved."
+  },
+  {
+    "TEXT_ID": "faiz_00030",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "تم آئے تو کہا تھا زندگی مل گئی",
+    "TITLE_EN": "Tum Aaye To Kaha Tha Zindagi Mil Gayi",
+    "CONTENT": "تم آئے تو کہا تھا زندگی مل گئی\nتم گئے تو کہا دل کو تسلی مل گئی\n\nکچھ تو ہے جو چھپایا ہے تم نے\nورنہ اتنا تو کوئی بے وفا نہیں ہوتا\n\nدل کے جلنے کا بھی مزا ہے کوئی\nجب کسی کی یاد میں جلنے لگیں\n\nفیضؔ اس کے بعد بھی دل لگتا ہے\nکچھ تو ہے جس کا غم کھاتے ہیں",
+    "TRANSLATION_EN": "When you came, I said life was found\nWhen you left, I said the heart found solace\n\nThere's something you've hidden\nOtherwise no one is so unfaithful\n\nThere's some pleasure in the heart's burning\nWhen it starts burning in someone's memory\n\nFaiz, even after this, the heart is attached\nThere's something whose grief we consume",
+    "notes": "A ghazal about finding life in the beloved's presence and solace in their memory."
+  },
+  {
+    "TEXT_ID": "faiz_00031",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "رات بھر دیکھتے رہے ان کو",
+    "TITLE_EN": "Raat Bhar Dekhte Rahe Un Ko",
+    "CONTENT": "رات بھر دیکھتے رہے ان کو\nصبح ہونے کی خبر نہ ہوئی\n\nدل کی دنیا میں اک چاند اترا\nرات بھر جگمگاتا رہا\n\nکوئی تو ہے جو ستاتا ہے\nورنہ اتنا تو کوئی یاد نہیں آتا\n\nفیضؔ اب اس کے بعد کیا کیجیے\nدل لگا کر بھی دل نہیں لگا",
+    "TRANSLATION_EN": "I kept watching them all night\nI didn't know when morning came\n\nIn the heart's world, a moon descended\nIt kept shining all night\n\nThere is someone who torments\nOtherwise no one comes to mind so much\n\nFaiz, after this what should I do?\nEven after loving, the heart is not attached",
+    "notes": "A ghazal about watching the beloved all night, oblivious to time passing."
+  },
+  {
+    "TEXT_ID": "faiz_00032",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "وہ آتے تو کہتے کہ دل ہے نہیں",
+    "TITLE_EN": "Wo Aate To Kahte Ke Dil Hai Nahin",
+    "CONTENT": "وہ آتے تو کہتے کہ دل ہے نہیں\nکوئی اور بھی ہے جس کو غم ملا\n\nتم آئے تو آنکھوں میں بس گئے\nتم گئے تو دل میں اتر گئے\n\nکچھ تو ہے جو چھپایا ہے تم نے\nورنہ اتنی بھی بے رخی نہ تھی\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "If they came, they'd say there's no heart\nSomeone else also received sorrow\n\nWhen you came, you settled in my eyes\nWhen you left, you descended into my heart\n\nThere's something you've hidden\nOtherwise you weren't this indifferent\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about the mystery of the beloved's indifference and hidden feelings."
+  },
+  {
+    "TEXT_ID": "faiz_00033",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل کی بات کہیں تک نہ گئی",
+    "TITLE_EN": "Dil Ki Baat Kahin Tak Na Gayi",
+    "CONTENT": "دل کی بات کہیں تک نہ گئی\nتم آئے تو بات بننے لگی\n\nرات بھر جاگتے رہنا ہے\nکوئی آنے کا نہیں آنے کے ترستے ہی رہو\n\nہم نے سمجھا تھا کہ تم آؤ گے\nتم نہ آئے تو کیا غم ہے\n\nفیضؔ اب اس انتظار میں\nعمر بھر کٹ گئی",
+    "TRANSLATION_EN": "The heart's words didn't go far\nWhen you came, matters started working out\n\nMust keep awake all night\nNo one comes, but keep longing for arrival\n\nI thought you would come\nIf you didn't, what sorrow is that?\n\nFaiz, in this waiting\nMy whole life has passed",
+    "notes": "A ghazal about unexpressed feelings and the endless waiting for the beloved."
+  },
+  {
+    "TEXT_ID": "faiz_00034",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+    "TITLE_EN": "Ab Ke Hum Bichhde To Shayad Kabhi Khwabon Mein Milein",
+    "CONTENT": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں\nجس طرح سوکھے ہوئے پھول کتابوں میں ملیں\n\nدل کی تسکین کو اے فیضؔ اتنا ہی کافی تھا\nکہ وہ یاد آئے کہ وہ یاد آئے کہ وہ یاد آئے\n\nہم نے چاہا تو بہت پر نہ ملا\nشاید قسمت میں ہی نہ تھا ملنا\n\nفیضؔ اب اس کے بعد بھی دل لگتا ہے\nکچھ تو ہے جس کا غم کھاتے ہیں",
+    "TRANSLATION_EN": "Now that we've parted, perhaps we'll meet in dreams\nLike dried flowers found in books\n\nTo soothe the heart, Faiz, this much was enough\nThat she came to mind, that she came to mind, that she came to mind\n\nI wished so much but didn't find her\nPerhaps meeting was not in my fate\n\nFaiz, even after this, the heart is attached\nThere's something whose grief we consume",
+    "notes": "A famous ghazal about separation and the hope of meeting in dreams. The opening line is one of Faiz's most quoted verses."
+  },
+  {
+    "TEXT_ID": "faiz_00035",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ہم جو بھی ہیں تمہارے ہیں",
+    "TITLE_EN": "Hum Jo Bhi Hain Tumhare Hain",
+    "CONTENT": "ہم جو بھی ہیں تمہارے ہیں\nتم جو بھی ہو ہمارے ہو\n\nدل میں اتر گئی ہے تمہاری صورت\nآنکھوں میں بس گئی ہے تمہاری یاد\n\nکچھ تو ہے جو چھپایا ہے تم نے\nورنہ اتنا تو کوئی بے وفا نہیں ہوتا\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "Whatever we are, we are yours\nWhatever you are, you are ours\n\nYour image has descended into my heart\nYour memory has settled in my eyes\n\nThere's something you've hidden\nOtherwise no one is so unfaithful\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about complete belonging to the beloved and the mystery of their hidden feelings."
+  },
+  {
+    "TEXT_ID": "faiz_00036",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب تو عادت سی ہے مجھ کو",
+    "TITLE_EN": "Ab To Aadat Si Hai Mujh Ko",
+    "CONTENT": "اب تو عادت سی ہے مجھ کو اس کے غم میں مسکرانے کی\nہر گھڑی یہ نہیں ہوتا کہ دل کو قرار آ جائے\n\nکبھی تنہائی بھی ہوتی ہے تو وہ یاد آئے\nکبھی محفل بھی سجتی ہے تو وہ یاد آئے\n\nہم نے چپ رہ کر اسے کتنا کچھ کہہ دیا\nوہ سمجھا کہ ہم نے کچھ کہا نہیں\n\nفیضؔ کا دل ہے کہ اب بھی\nاسی راہ تکا کرتا ہے",
+    "TRANSLATION_EN": "Now it's become a habit to smile in her grief\nIt's not every moment that the heart finds peace\n\nSometimes in loneliness, she comes to mind\nSometimes in gatherings, she comes to mind\n\nBy staying silent, I told her so much\nShe thought I said nothing\n\nFaiz's heart is such that even now\nIt keeps staring at that same path",
+    "notes": "A ghazal about the habit of smiling in grief and the constant presence of the beloved's memory."
+  },
+  {
+    "TEXT_ID": "faiz_00037",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "یہ جو ایک شمع جلتی ہے",
+    "TITLE_EN": "Ye Jo Ek Shamma Jalti Hai",
+    "CONTENT": "یہ جو ایک شمع جلتی ہے دل کے جلنے کی آگ سے\nیہ جو رات بھر جگتی ہے تمہارے آنے کی آس سے\n\nکوئی تو آئے کہ صبح ہو جائے\nکوئی تو آئے کہ رات ڈھل جائے\n\nہم نے سمجھا تھا کہ تم آؤ گے\nتم نہ آئے تو کیا غم ہے\n\nفیضؔ اب اس انتظار میں\nعمر بھر کٹ گئی",
+    "TRANSLATION_EN": "This candle burns with the fire of the heart's burning\nIt stays awake all night with the hope of your coming\n\nLet someone come, so morning arrives\nLet someone come, so the night passes\n\nI thought you would come\nIf you didn't, what sorrow is that?\n\nFaiz, in this waiting\nMy whole life has passed",
+    "notes": "A ghazal using the candle as a metaphor for the waiting heart, burning with hope."
+  },
+  {
+    "TEXT_ID": "faiz_00038",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "کچھ اس کی یاد نے ایسے گھیرا",
+    "TITLE_EN": "Kuchh Uski Yaad Ne Aise Ghera",
+    "CONTENT": "کچھ اس کی یاد نے ایسے گھیرا\nکہ خیال بھی کسی کا نہ رہا\n\nاب وہ نہیں تو کیا ہے\nیہ دل ہے کہ دھڑکتا ہے\n\nتھا تو سارا زمانہ مگر\nاک اس کے بغیر کچھ نہ تھا\n\nفیضؔ کا دل ہے کہ اب بھی\nاس کی باتوں میں کھویا رہتا ہے",
+    "TRANSLATION_EN": "Her memory surrounded me so\nThat no other thought remained\n\nNow that she's not here, what is there?\nThis heart that keeps beating\n\nThe whole world existed, but\nWithout her, there was nothing\n\nFaiz's heart is such that even now\nIt remains lost in her words",
+    "notes": "A ghazal about how the beloved's memory consumes all other thoughts and makes the world meaningless without them."
+  },
+  {
+    "TEXT_ID": "faiz_00039",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "وہ ہم نہیں جو پہلے تھے",
+    "TITLE_EN": "Wo Hum Nahin Jo Pehle Thay",
+    "CONTENT": "وہ ہم نہیں جو پہلے تھے ہزار غم سہے\nمگر یہ دل کہ اب تک ہزار غم سہے\n\nعمر بھر اس کا غم رہا فیضؔ\nکوئی دن اور بھی جیے جا کر\n\nاس کی جھلک دیوانہ کرے\nوہ نظر کہاں سے لاؤں\n\nاب اس کے بعد کہ وہ آشنا نہیں ملتا\nکسی سے ملنا دشمن کی آشنا کے سوا",
+    "TRANSLATION_EN": "We are not what we were; we've endured a thousand sorrows\nBut this heart has till now endured a thousand sorrows\n\nHer grief remained with me all my life, Faiz\nMay I live a few more days\n\nHer glimpse drives one mad\nWhere can I find that vision?\n\nNow that she is not found as a friend\nMeeting anyone is like meeting an enemy",
+    "notes": "A ghazal about transformation through suffering and the impossibility of finding anyone like the beloved."
+  },
+  {
+    "TEXT_ID": "faiz_00040",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "چاندنی رات میں تنہا",
+    "TITLE_EN": "Chandni Raat Mein Tanha",
+    "CONTENT": "چاندنی رات میں تنہا کچھ نہ کہنا مجھ سے\nیاد کا بوجھ اٹھانا ہے تو سہنا مجھ سے\n\nدل کی دنیا میں اتر آئی ہے اس کی صورت\nآنکھوں میں بس گئی ہے اس کی یاد\n\nکوئی تو ہے جو ستاتا ہے\nورنہ اتنا تو کوئی یاد نہیں آتا\n\nفیضؔ اب اس کے بعد کیا کیجیے\nدل لگا کر بھی دل نہیں لگا",
+    "TRANSLATION_EN": "In the moonlit night, alone, don't say anything to me\nIf you have to bear the burden of memory, then endure me\n\nHer image has descended into my heart's world\nHer memory has settled in my eyes\n\nThere is someone who torments\nOtherwise no one comes to mind so much\n\nFaiz, after this what should I do?\nEven after loving, the heart is not attached",
+    "notes": "A ghazal about the burden of memory in moonlit nights and the torment of love."
+  },
+  {
+    "TEXT_ID": "faiz_00041",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل تو بہل گیا مگر",
+    "TITLE_EN": "Dil To Behal Gaya Magar",
+    "CONTENT": "دل تو بہل گیا مگر یاد نے پھر ستایا\nکیا کہیں کہ اس کی یاد کس طرح آتی ہے\n\nاب تو عادت سی ہے غم میں مسکرانے کی\nہر چند زندگی ہے کچھ ایسی کہ جینا بھی کوئی جینا نہیں\n\nفیضؔ کا دل ہے کہ اب بھی\nاسی راہ تکا کرتا ہے",
+    "TRANSLATION_EN": "The heart was distracted, but memory tormented again\nWhat can I say, how her memory comes\n\nNow it's become a habit to smile in grief\nAlthough life is such that living is not really living\n\nFaiz's heart is such that even now\nIt keeps staring at that same path",
+    "notes": "A ghazal about the persistence of memory and the habit of smiling through grief."
+  },
+  {
+    "TEXT_ID": "faiz_00042",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب کسی کے غم میں جلنا کیا",
+    "TITLE_EN": "Ab Kisi Ke Gham Mein Jalna Kya",
+    "CONTENT": "اب کسی کے غم میں جلنا کیا\nدل کو سمجھا کر یہ کہا کرتے تھے\n\nاس نے تو اک بار پکارا تھا\nہم سمجھے زندگی مل گئی\n\nآج تک یاد ہے وہ بات کہ اس نے\nمسکرا کر کہا تھا کبھی آنا\n\nکچھ تو ہے جو اس نے چھپایا ہے\nورنہ اتنا تو کوئی بے وفا نہیں ہوتا\n\nفیضؔ کا دل ہے کہ اب بھی\nاس کی یاد میں کھویا رہتا ہے",
+    "TRANSLATION_EN": "Why now burn in anyone's grief?\nTrying to console the heart, I'd say this\n\nShe called out just once\nI thought I had found life\n\nI still remember those words when she\nSmiling, said: come sometime\n\nThere's something she's hidden\nOtherwise no one is so unfaithful\n\nFaiz's heart is such that even now\nIt remains lost in her memory",
+    "notes": "A ghazal about a single call that promised life and the suspicion that unfaithfulness hides something deeper."
+  },
+  {
+    "TEXT_ID": "faiz_00043",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "وہ جو اک بار مل گیا تھا",
+    "TITLE_EN": "Wo Jo Ek Baar Mil Gaya Tha",
+    "CONTENT": "وہ جو اک بار مل گیا تھا\nاس کا ملنا بھی کوئی ملنا تھا\n\nابھی تو کچھ دن اور ہیں اے دوست\nکہ جب وہ یاد آئے گا اور ہم نہ ہوں گے\n\nکیا بتائیں کہ وہ کس طرح بھولے\nہم نے چاہا تھا کہ انہیں یاد رکھیں\n\nدل تو بہل گیا مگر اے فیضؔ\nیاد نے پھر سے ستایا\n\nہم نے سمجھا تھا کہ غم کم ہو گا\nغم نے تو اور گھیر لیا",
+    "TRANSLATION_EN": "That meeting that happened once\nThat was some meeting indeed\n\nThere are still some days left, O friend\nWhen she will come to mind and I won't be there\n\nHow can I tell how she forgot?\nI had wished to remember her\n\nThe heart was distracted, but O Faiz\nMemory tormented again\n\nI thought grief would decrease\nGrief only surrounded me more",
+    "notes": "A ghazal about a significant meeting that defines what meeting means, and how grief increases when expected to decrease."
+  },
+  {
+    "TEXT_ID": "faiz_00044",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "کچھ تو ہے جو اس نے چھپایا",
+    "TITLE_EN": "Kuchh To Hai Jo Uss Ne Chhupaya",
+    "CONTENT": "کچھ تو ہے جو اس نے چھپایا\nورنہ اتنی بھی بے رخی نہ تھی\n\nوہ جو اک بار مل گیا تھا\nاس کا جانا بھی کوئی جانا تھا\n\nدل کو اب کسی بات سے فرصت نہیں\nاس کی یاد ہے یا اس کا غم\n\nابھی تو ہم نے سوچا تھا کہ\nشاید کچھ دن اور ہیں\n\nفیضؔ نے کیا کیا دیکھا\nپھر بھی دل نہیں بھرتا",
+    "TRANSLATION_EN": "There's something she hid\nOtherwise she wasn't this indifferent\n\nThat meeting that happened once\nThat departure too was some departure\n\nThe heart now has no respite from anything\nEither her memory or her grief\n\nI had just thought that\nPerhaps there are still some days left\n\nWhat all did Faiz see?\nStill the heart is not satisfied",
+    "notes": "A ghazal about hidden things beneath indifference and the heart's eternal dissatisfaction."
+  },
+  {
+    "TEXT_ID": "faiz_00045",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اس نے تو اک نظر میں دیکھ کر",
+    "TITLE_EN": "Uss Ne To Ek Nazar Mein Dekh Kar",
+    "CONTENT": "اس نے تو اک نظر میں دیکھ کر\nسارے غم بھلا دیے\n\nکیا کہیں کہ کس طرح\nاس کی یاد آتی ہے\n\nاب تو عادت سی ہے مجھے\nاس کے غم میں مسکرانے کی\n\nہر گھڑی یہ نہیں ہوتا کہ\nدل کو قرار آ جائے\n\nفیضؔ کا دل ہے کہ اب بھی\nاسی راہ تکا کرتا ہے",
+    "TRANSLATION_EN": "She, by looking just once\nMade me forget all sorrows\n\nWhat can I say, how\nHer memory comes\n\nNow it's become a habit for me\nTo smile in her grief\n\nIt's not every moment that\nThe heart finds peace\n\nFaiz's heart is such that even now\nIt keeps staring at that same path",
+    "notes": "A ghazal about the power of a single glance to erase sorrow and the habit of smiling in grief."
+  },
+  {
+    "TEXT_ID": "faiz_00046",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "آج پھر اس کا خیال آیا",
+    "TITLE_EN": "Aaj Phir Uss Ka Khayal Aaya",
+    "CONTENT": "آج پھر اس کا خیال آیا\nدل نے چاہا کہ رو نہ پائیں\n\nوہ جو بات اس نے کہی تھی\nآج تک وہ بات ہے\n\nابھی تو کچھ اور دن ہیں\nکہ جب اس کی باری آئے گی\n\nکیا بتائیں کہ اس کی یاد سے\nکیا کچھ مل گیا\n\nفیضؔ کو اب کسی بات کی\nخبر نہیں کچھ بھی",
+    "TRANSLATION_EN": "Today her thought came again\nThe heart wished not to weep\n\nThose words she had spoken\nThose words remain till today\n\nThere are still some days left\nWhen her turn will come\n\nHow can I tell what\nI gained from her memory?\n\nFaiz now knows nothing\nOf anything at all",
+    "notes": "A ghazal about the persistence of memory and the final state of knowing nothing at all."
+  },
+  {
+    "TEXT_ID": "faiz_00047",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل کو سمجھایا بہت پر وہ",
+    "TITLE_EN": "Dil Ko Samjhaya Bahut Par Woh",
+    "CONTENT": "دل کو سمجھایا بہت پر وہ\nاپنی ہی دھن میں لگا رہا\n\nوہ جو اک بار ہنس کے ملے تھے\nاب وہ ملنا کہاں\n\nکیا بتائیں کہ اس کی یاد نے\nکس طرح راتوں کو جگایا\n\nاب بھی جب چاند نکلا کرتا ہے\nدل اس کی گلی کو جاتا ہے\n\nفیضؔ کا کام ہے دل لگانا\nاب کسی سے لگائے کہ نہ لگائے",
+    "TRANSLATION_EN": "I tried hard to convince the heart, but it\nRemained absorbed in its own obsession\n\nThose who once met with a smile\nWhere is that meeting now?\n\nHow can I tell how her memory\nKept me awake at night?\n\nEven now when the moon rises\nThe heart goes to her lane\n\nFaiz's work is to love\nNow whether to love someone or not",
+    "notes": "A ghazal about the heart's obsession and the beautiful imagery of the heart going to the beloved's lane when the moon rises."
+  },
+  {
+    "TEXT_ID": "faiz_00048",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ اب چین ملے گا",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Ab Chain Mile Ga",
+    "CONTENT": "ہم نے سمجھا تھا کہ اب چین ملے گا\nچین تو اور بھی دور نکل گیا\n\nاس کی یاد میں جو گزری ہے\nوہ کسی سے کیا کہیے\n\nآج پھر وہ آئے تھے خواب میں\nدل نے چاہا کہ جاگ نہ جائیں\n\nاب کے اس نے اتنا ستایا\nکہ دل نے دل سے کیا نہ کیا\n\nفیضؔ کی زندگی تو کٹ ہی گئی\nاب تم بتاؤ کہ اس نے کیا پایا",
+    "TRANSLATION_EN": "I thought now I would find peace\nPeace only went further away\n\nWhatever passed in her memory\nHow can I tell anyone?\n\nToday she came again in a dream\nThe heart wished not to wake\n\nThis time she tormented so much\nThat the heart did everything to itself\n\nFaiz's life has passed anyway\nNow you tell me, what did he gain?",
+    "notes": "A ghazal about peace receding further when sought, and the torment of dreams where the heart turns against itself."
+  },
+  {
+    "TEXT_ID": "faiz_00049",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "وہ جو ہم سے مل کر مسکرائے تھے",
+    "TITLE_EN": "Wo Jo Hum Se Mil Kar Muskurae Thay",
+    "CONTENT": "وہ جو ہم سے مل کر مسکرائے تھے\nآج تک وہ مسکراہٹ یاد ہے\n\nدل کو اب کسی بات سے\nکوئی شکوہ نہیں\n\nکیا بتائیں کہ اس کی یاد میں\nکیا کچھ کھویا\n\nاب تو یہ حال ہے کہ\nخود سے بھی ملنے کا دل نہیں\n\nفیضؔ کا کام ہے دل لگانا\nاب یہی سلسلہ رہا",
+    "TRANSLATION_EN": "That smile with which she met me\nI remember that smile till today\n\nThe heart now has no\nComplaint about anything\n\nHow can I tell what all\nI lost in her memory?\n\nNow the state is such\nThat I don't even feel like meeting myself\n\nFaiz's work is to love\nNow this is the only routine left",
+    "notes": "A ghazal about an enduring smile that remains in memory, and the state of not wanting to meet even oneself."
+  },
+  {
+    "TEXT_ID": "faiz_00050",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "آج پھر اس کی یاد آئی تو",
+    "TITLE_EN": "Aaj Phir Uss Ki Yaad Aai To",
+    "CONTENT": "آج پھر اس کی یاد آئی تو\nسارا دن کھویا کھویا رہا\n\nہر گھڑی یہ نہیں ہوتا کہ\nدل کو چین آ جائے\n\nوہ جو اک بار مل گیا تھا\nاس کا ملنا بھی کوئی ملنا تھا\n\nابھی تو ہم نے سوچا تھا\nشاید کچھ اور بھی ہے\n\nفیضؔ سے پوچھو کہ اس نے\nکس کی یاد میں دن کاٹے",
+    "TRANSLATION_EN": "Today when her memory came\nI remained lost the whole day\n\nIt's not every moment that\nThe heart finds peace\n\nThat meeting that happened once\nThat was some meeting indeed\n\nI had just thought\nPerhaps there is something more\n\nAsk Faiz in whose memory\nHe spent his days",
+    "notes": "A ghazal about a day lost entirely to memory, and the question of whose memory consumed Faiz's days."
+  },
+  {
+    "TEXT_ID": "faiz_00051",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل ناشاد کو تجھ سے کوئی امید نہیں",
+    "TITLE_EN": "Dil-e-Nashad Ko Tujh Se Koi Umeed Nahi",
+    "CONTENT": "دل ناشاد کو تجھ سے کوئی امید نہیں\nپھر بھی ہر آن تجھی سے کوئی امید نہیں\n\nیوں تو بہت ہیں محبت کے فسانے لیکن\nتیرے قصے سے کبھی دل نہیں بھرتا\n\nکبھی کبھی تو زمانے میں ہم بھی تھے اے دوست\nاب تو یہ حال ہے کہ خود سے بھی ملاقات نہیں\n\nفیضؔ اب اس کے بعد کیا ہوگا\nدل کو تو اب کسی کی یاد نہیں",
+    "TRANSLATION_EN": "The sad heart has no hope from you\nYet every moment, no hope from you\n\nThere are many tales of love, but\nMy heart never tires of your story\n\nSometimes, O friend, I too existed in this world\nNow the state is such that I don't even meet myself\n\nFaiz, after this what will happen?\nThe heart now remembers no one",
+    "notes": "A ghazal about hopeless hope and the endless fascination with the beloved's story."
+  },
+  {
+    "TEXT_ID": "faiz_00052",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "وہ لوگ کہاں گئے جو کہتے تھے",
+    "TITLE_EN": "Wo Log Kahan Gaye Jo Kehte Thay",
+    "CONTENT": "وہ لوگ کہاں گئے جو کہتے تھے\nہم تم کو زمانے بھر میں ڈھونڈیں گے\n\nآج وہ خود ہی کھو گئے ہیں\nکوئی پوچھے کہ کہاں گئے\n\nدل میں اک حسرت سی رہ گئی ہے\nکاش وہ ایک بار پھر آ جائیں\n\nفیضؔ اب تو یہ حال ہے\nکسی کی یاد بھی نہیں کسی کا غم بھی نہیں",
+    "TRANSLATION_EN": "Where have those people gone who said\nWe will search for you throughout the world\n\nToday they themselves are lost\nSomeone should ask where they went\n\nA longing remains in my heart\nIf only they would come once more\n\nFaiz, now the state is such\nNeither anyone's memory nor anyone's grief",
+    "notes": "A ghazal about those who promised to search but themselves got lost, leaving only longing behind."
+  },
+  {
+    "TEXT_ID": "faiz_00053",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "یوں تو سب ہیں غم زدہ لیکن",
+    "TITLE_EN": "Yun To Sab Hain Gham-zada Lekin",
+    "CONTENT": "یوں تو سب ہیں غم زدہ لیکن\nتیرا غم ہے کہ دل کو چھو گیا\n\nدوسروں کے غم تو آنکھوں سے بہہ گئے\nتیرا غم آنکھوں میں رہ گیا\n\nکبھی کبھی یوں بھی ہوتا ہے\nکوئی ملتا ہے تو دل دھڑکتا ہے\n\nفیضؔ اب اس کے بعد کیا کیجیے\nدل لگا کر بھی دل نہیں لگتا",
+    "TRANSLATION_EN": "Everyone is grief-stricken, but\nYour grief touched my heart\n\nOthers' grief flowed from my eyes\nYour grief remained in my eyes\n\nSometimes it happens like this\nSomeone meets and the heart beats\n\nFaiz, after this what should I do?\nEven after loving, the heart is not attached",
+    "notes": "A ghazal distinguishing between ordinary grief and the beloved's grief that penetrates deeper."
+  },
+  {
+    "TEXT_ID": "faiz_00054",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب کے ہم نے سوچا ہے",
+    "TITLE_EN": "Ab Ke Hum Ne Socha Hai",
+    "CONTENT": "اب کے ہم نے سوچا ہے کہ اب نہیں ملنا\nپھر بھی دل ہے کہ مانتا نہیں\n\nتم بھی کبھی تو یاد آؤ گے\nہم بھی کبھی تو بھول جائیں گے\n\nدل کی بات کسی سے کہی نہیں جاتی\nہم خاموش ہیں تو خاموشی بھی بھاری ہے\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "This time I've decided not to meet\nYet the heart refuses to listen\n\nSomeday you too will come to mind\nSomeday I too will forget\n\nThe heart's words can't be told to anyone\nI'm silent, and the silence too is heavy\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about the conflict between decision and emotion, and the heaviness of silence."
+  },
+  {
+    "TEXT_ID": "faiz_00055",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "کچھ تو دن میں بھی اندھیرا ہوتا",
+    "TITLE_EN": "Kuchh To Din Mein Bhi Andhera Hota",
+    "CONTENT": "کچھ تو دن میں بھی اندھیرا ہوتا\nکاش وہ یاد نہ آتا کوئی\n\nرات بھر جاگتے رہنا ہے\nکوئی آنے کا نہیں آنے کے ترستے ہی رہو\n\nہم نے سمجھا تھا کہ تم آؤ گے\nتم نہ آئے تو کیا غم ہے\n\nفیضؔ اب اس انتظار میں\nعمر بھر کٹ گئی",
+    "TRANSLATION_EN": "If only there were darkness even during the day\nIf only no one came to mind\n\nMust keep awake all night\nNo one comes, but keep longing for arrival\n\nI thought you would come\nIf you didn't, what sorrow is that?\n\nFaiz, in this waiting\nMy whole life has passed",
+    "notes": "A ghazal wishing for darkness to escape memories, and the endless waiting that consumes life."
+  },
+  {
+    "TEXT_ID": "faiz_00056",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اس نے تو اک نظر میں دیکھ لیا",
+    "TITLE_EN": "Uss Ne To Ek Nazar Mein Dekh Liya",
+    "CONTENT": "اس نے تو اک نظر میں دیکھ لیا\nہم نے سمجھا کہ دل لگا لیا\n\nاب وہی بات نہیں رہی اے دوست\nدل وہی ہے تو کیا ہوا\n\nہم تو سمجھے تھے کہ غم کم ہو گا\nغم تو اور بھی بڑھ گیا ہے\n\nفیضؔ اب اس کے بعد کیا ہوگا\nدل کو تو اب کسی کی یاد نہیں",
+    "TRANSLATION_EN": "She looked just once\nI thought I had won her heart\n\nNow things aren't the same, O friend\nWhat if the heart is the same?\n\nI thought grief would decrease\nGrief has only increased\n\nFaiz, after this what will happen?\nThe heart now remembers no one",
+    "notes": "A ghazal about misinterpretation of a glance and the paradox of grief increasing when expected to decrease."
+  },
+  {
+    "TEXT_ID": "faiz_00057",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل کو سمجھا کر یہ کہا کرتے تھے",
+    "TITLE_EN": "Dil Ko Samjha Kar Ye Kaha Karte Thay",
+    "CONTENT": "دل کو سمجھا کر یہ کہا کرتے تھے\nاب کسی کے غم میں جلنا کیا\n\nاس نے تو اک بار پکارا تھا\nہم سمجھے زندگی مل گئی\n\nآج تک یاد ہے وہ بات کہ اس نے\nمسکرا کر کہا تھا کبھی آنا\n\nکچھ تو ہے جو اس نے چھپایا ہے\nورنہ اتنا تو کوئی بے وفا نہیں ہوتا\n\nفیضؔ کا دل ہے کہ اب بھی\nاس کی یاد میں کھویا رہتا ہے",
+    "TRANSLATION_EN": "Trying to console the heart, I'd say this\nWhy now burn in anyone's grief?\n\nShe called out just once\nI thought I had found life\n\nI still remember those words when she\nSmiling, said: come sometime\n\nThere's something she's hidden\nOtherwise no one is so unfaithful\n\nFaiz's heart is such that even now\nIt remains lost in her memory",
+    "notes": "A ghazal about a single call that promised life and the mystery of hidden unfaithfulness."
+  },
+  {
+    "TEXT_ID": "faiz_00060",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "آج پھر دل چاہتا ہے کہ",
+    "TITLE_EN": "Aaj Phir Dil Chahta Hai Ke",
+    "CONTENT": "آج پھر دل چاہتا ہے کہ\nاس سے جا کر ملیں\n\nابھی تو ہم نے سوچا تھا کہ\nشاید وہ بھول گئے\n\nکیا کہیں کس طرح گزری رات\nاس کی یاد آتی رہی\n\nہر چند ہم نے صبر کیا\nدل تو ہے کہ بے قرار رہا\n\nفیضؔ سے پوچھو کہ اس نے\nکس کی یاد میں دن کاٹے",
+    "TRANSLATION_EN": "Today again the heart desires\nTo go and meet her\n\nI had just thought that\nPerhaps she had forgotten\n\nWhat can I say, how the night passed?\nHer memory kept coming\n\nHowever much I tried to be patient\nThe heart remained restless\n\nAsk Faiz in whose memory\nHe spent his days",
+    "notes": "A ghazal about recurring desire to meet despite thinking the beloved has forgotten."
+  },
+  {
+    "TEXT_ID": "faiz_00062",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ہم نے سمجھا تھا کہ وہ بھول گئے",
+    "TITLE_EN": "Hum Ne Samjha Tha Ke Woh Bhool Gaye",
+    "CONTENT": "ہم نے سمجھا تھا کہ وہ بھول گئے\nوہ تو ہمیں یاد کر رہے تھے\n\nآج پھر وہ آئے یاد\nدل نے چاہا کہ کھو جائیں\n\nکچھ اس کی یاد نے ایسے گھیرا\nکہ خیال بھی نہ بچا\n\nابھی تو ہم نے سوچا تھا\nشاید کچھ اور دن ہیں\n\nفیضؔ کی زندگی کا تو\nیہی عالم رہا",
+    "TRANSLATION_EN": "I thought she had forgotten\nShe was actually remembering me\n\nToday she came to memory again\nThe heart wished to lose itself\n\nHer memory surrounded me so\nThat no thought remained\n\nI had just thought\nPerhaps there are still some days left\n\nFaiz's life has always been\nIn this same state",
+    "notes": "A ghazal about the irony of assuming the beloved has forgotten when she actually remembers."
+  },
+  {
+    "TEXT_ID": "faiz_00075",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "دل تو بہل گیا تھا کچھ دیر",
+    "TITLE_EN": "Dil To Behal Gaya Tha Kuchh Der",
+    "CONTENT": "دل تو بہل گیا تھا کچھ دیر\nپھر وہی یاد پھر وہی غم\n\nاس کی گلی میں جاتے ہیں\nپر اب وہ بات نہیں\n\nکیا کہیں کہ کس طرح\nاس نے یاد رکھا\n\nاب تو آنکھوں میں بس گیا ہے\nوہ کہیں اور ہے ہی نہیں\n\nفیضؔ کا دل ہے کہ اب بھی\nاسی دھن میں لگا رہتا ہے",
+    "TRANSLATION_EN": "The heart was distracted for a while\nThen again that memory, again that grief\n\nI go to her lane\nBut now that magic is gone\n\nWhat can I say, how\nShe remembered\n\nNow she has settled in my eyes\nShe is nowhere else at all\n\nFaiz's heart is such that even now\nIt remains absorbed in that same obsession",
+    "notes": "A ghazal about the cycle of distraction and return to memory, with the beloved dwelling in the eyes."
+  },
+  {
+    "TEXT_ID": "faiz_00080",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب اس کے بعد بھی دل لگتا ہے",
+    "TITLE_EN": "Ab Uss Ke Baad Bhi Dil Lagta Hai",
+    "CONTENT": "اب اس کے بعد بھی دل لگتا ہے\nکچھ تو ہے جس کا غم کھاتے ہیں\n\nرات بھر جاگتے رہنا ہے\nکوئی آنے کا نہیں آنے کے ترستے ہی رہو\n\nدل کی بات کسی سے کہی نہیں جاتی\nہم خاموش ہیں تو خاموشی بھی بھاری ہے\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "Even after this, the heart is attached\nThere is something whose grief I consume\n\nMust keep awake all night\nNo one comes, but keep longing for arrival\n\nThe heart's words can't be told to anyone\nI'm silent, and the silence too is heavy\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about the persistence of attachment despite everything, and the heaviness of silence."
+  },
+  {
+    "TEXT_ID": "faiz_00081",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ہم سے جو بات کہی تم نے سن لی ہم نے",
+    "TITLE_EN": "Hum Se Jo Baat Kahi Tum Ne Sun Li Hum Ne",
+    "CONTENT": "ہم سے جو بات کہی تم نے سن لی ہم نے\nدل کی دنیا میں اتر کر اسے بسا لیا\n\nتم نے کہا تھا کہ بھول جاؤ گے\nہم نے کہا تھا کہ یاد رکھیں گے\n\nکبھی کبھی یوں بھی ہوتا ہے\nکوئی آتا ہے تو دل دھڑکتا ہے\n\nفیضؔ اب اس کے بعد کیا ہوگا\nدل کو تو اب کسی کی یاد نہیں",
+    "TRANSLATION_EN": "Whatever you said to me, I heard it\nIt descended into my heart's world and I cherished it\n\nYou had said you would forget\nI had said I would remember\n\nSometimes it happens like this\nSomeone comes and the heart beats\n\nFaiz, after this what will happen?\nThe heart now remembers no one",
+    "notes": "A ghazal about words that are heard and cherished, and the conflict between promises of forgetting and remembering."
+  },
+  {
+    "TEXT_ID": "faiz_00082",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "یوں تو ہر چہرہ پہ اجنبیت چھائی ہے",
+    "TITLE_EN": "Yun To Har Chehra Pe Ajnabiyat Chhayi Hai",
+    "CONTENT": "یوں تو ہر چہرہ پہ اجنبیت چھائی ہے\nپر تیرے چہرے پہ اجنبیت نہیں چھائی\n\nدل کی دنیا میں اتر آئی ہے تیری صورت\nآنکھوں میں بس گئی ہے تیری یاد\n\nکچھ تو ہے جو چھپایا ہے تم نے\nورنہ اتنا تو کوئی بے وفا نہیں ہوتا\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "Every face is covered with strangeness\nBut your face is not covered with strangeness\n\nYour image has descended into my heart's world\nYour memory has settled in my eyes\n\nThere's something you've hidden\nOtherwise no one is so unfaithful\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about the beloved's face being the only one not strange, and the mystery of hidden unfaithfulness."
+  },
+  {
+    "TEXT_ID": "faiz_00083",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ہم نے چاہا تو بہت پر نہ ملا",
+    "TITLE_EN": "Hum Ne Chaha To Bahut Par Na Mila",
+    "CONTENT": "ہم نے چاہا تو بہت پر نہ ملا\nشاید قسمت میں ہی نہ تھا ملنا\n\nاب اسے بھولنے کا غم ہے\nوہ بھی کوئی بھولنا ہے\n\nدل کے جلنے کا بھی مزا ہے کوئی\nجب کسی کی یاد میں جلنے لگیں\n\nفیضؔ اب اس کے بعد کیا کیجیے\nدل لگا کر بھی دل نہیں لگتا",
+    "TRANSLATION_EN": "I wished so much but didn't find her\nPerhaps meeting was not in my fate\n\nNow there's grief of forgetting her\nAnd that too is some kind of forgetting\n\nThere is some pleasure in the heart's burning\nWhen it starts burning in someone's memory\n\nFaiz, after this what should I do?\nEven after loving, the heart is not attached",
+    "notes": "A ghazal about the grief of forgetting and the paradoxical pleasure found in the heart's burning."
+  },
+  {
+    "TEXT_ID": "faiz_00084",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "یوں نہیں کہ اس کا غم کم ہو گیا",
+    "TITLE_EN": "Yun Nahin Ke Uss Ka Gham Kam Ho Gaya",
+    "CONTENT": "یوں نہیں کہ اس کا غم کم ہو گیا\nدل کو اب اس کی عادت سی ہو گئی\n\nوہ جو ملتے تھے کبھی راہوں میں\nاب وہ راہیں بھی اجڑ گئی ہیں\n\nکیا ملا ہے اسے فیضؔ کی یاد میں\nوہ تو اب بھی بے خبر ہے اس سے\n\nاب اسے بھولنے کا غم ہے\nوہ بھی کوئی بھولنا ہے",
+    "TRANSLATION_EN": "It's not that her grief has diminished\nThe heart has just grown accustomed to it\n\nThose paths where we used to meet\nNow those paths too are desolate\n\nWhat has she gained from Faiz's memory?\nShe is still unaware of it\n\nNow there's grief of forgetting her\nAnd that too is some kind of forgetting",
+    "notes": "A ghazal about how grief becomes habitual, and the desolation of paths once walked together."
+  },
+  {
+    "TEXT_ID": "faiz_00085",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "اب تو گزرے دن بھی یاد نہیں",
+    "TITLE_EN": "Ab To Guzray Din Bhi Yaad Nahin",
+    "CONTENT": "اب تو گزرے دن بھی یاد نہیں\nاب تو آنے والے کل بھی یاد نہیں\n\nتم بھی کبھی تو یاد آؤ گے\nہم بھی کبھی تو بھول جائیں گے\n\nدل کی بات کسی سے کہی نہیں جاتی\nہم خاموش ہیں تو خاموشی بھی بھاری ہے\n\nفیضؔ اب اس کے بعد کیا کہیے\nدل نے چاہا مگر بات نہ بنی",
+    "TRANSLATION_EN": "Now even the days that have passed are not remembered\nNow even the tomorrows to come are not remembered\n\nSomeday you too will come to mind\nSomeday I too will forget\n\nThe heart's words can't be told to anyone\nI'm silent, and the silence too is heavy\n\nFaiz, after this what can I say?\nThe heart wished, but matters didn't work out",
+    "notes": "A ghazal about the erasure of both past and future from memory, leaving only a heavy silence."
+  },
+  {
+    "TEXT_ID": "faiz_00086",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "کچھ نہیں تو یہ دل ہے",
+    "TITLE_EN": "Kuchh Nahin To Ye Dil Hai",
+    "CONTENT": "کچھ نہیں تو یہ دل ہے\nاس کو سنبھالے رکھیے\n\nآج تک یاد ہے وہ لمحہ\nجب اس نے آنکھوں سے آنکھیں ملا کر کہا تھا\n\nہم نے سمجھا تھا کہ سب بھول گئے\nآج معلوم ہوا کچھ نہیں بھولے\n\nاب اس کے بعد بھی دل لگتا ہے\nکچھ تو ہے جس کا نام لیتے ہیں\n\nفیضؔ سے پوچھو کہ اس نے کیا پایا\nاس نے تو سب کچھ اس پہ لٹا دیا",
+    "TRANSLATION_EN": "If nothing else, there is this heart\nWe should keep it safe\n\nI remember that moment till today\nWhen she met my eyes and said\n\nI thought everyone had forgotten\nToday I learned no one has forgotten\n\nEven after this, the heart is attached\nThere is something whose name we take\n\nAsk Faiz what he gained\nHe sacrificed everything for her",
+    "notes": "A ghazal about the preciousness of the heart, the persistence of memory, and total sacrifice for the beloved."
+  },
+  {
+    "TEXT_ID": "faiz_00101",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "aaj ik aur baras biit gaya us ke baghair",
+    "TITLE_EN": "Aaj Ik Aur Baras Beet Gaya Us Ke Baghair",
+    "CONTENT": "aaj ik aur baras biit gaya us ke baghair\njis ke hote hue hote the zamane mere\n\nus ne chaha to zamane ne bhi chaha lekin\nwoh mohabbat kabhi puri na hui hum dono ki\n\ndil mein ik baat thi kehni thi na kehni bhi thi\nwoh na kehne ka fasana bhi bahut hai aage\n\nfaiz ab apne zamane mein kahin rehte hi nahin\nlog kehte hain ke faiz ab bhi wahi hai magar",
+    "TRANSLATION_EN": "Another year has passed without him\nWithout whom my times used to be\n\nIf he had wanted, the world would have wanted too\nBut that love of ours was never fulfilled\n\nThere was something in my heart to say and not to say\nThat tale of not telling is yet to be told\n\nFaiz no longer lives in his times\nPeople say Faiz is still the same, but",
+    "notes": "A reflective ghazal about the passage of time and enduring love. The opening line is one of Faiz's most famous verses about longing and remembrance [citation:3]."
+  },
+  {
+    "TEXT_ID": "faiz_00102",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "sham-e-firaq ab na puchh aai aur aa ke tal gai",
+    "TITLE_EN": "Sham-e-Firaq Ab Na Puchh Aai Aur Aa Ke Tal Gai",
+    "CONTENT": "sham-e-firaq ab na puchh aai aur aa ke tal gai\ndil tha ke phir bahal gai jaan thi ke phir sambhal gai\n\nbazm-e-khayal mein tere husn ki shama jal gai\ndard ka chand bujh gaya hijr ki raat dhal gai\n\njab tujhe yaad kar liya subh mahak mahak utthi\njab tera gham jaga liya raat machal machal gai\n\ndil se to har moamla kar ke chale the saaf hum\nkahne mein un ke samne baat badal badal gai\n\nakhir-e-shab ke hum-safar faiz na jaane kya hue\nrah gai kis jagah saba subh kidhar nikal gai",
+    "TRANSLATION_EN": "Query not my lonely night, it came and went away\nThe heart was consoled, and life managed not to fray\n\nIn the parlour of my thoughts, your beauty's lamp was lit\nThe moon of pain vanished, the night of parting quit\n\nWhen your thoughts arose, fragrant was the morn\nWhen your sorrow woke, the night was all forlorn\n\nI ventured forth with all my thoughts properly arranged\nIn her presence when I spoke, the meaning had all changed\n\nWhere the night's companions went, I do not know\nWhere did the breeze vanish, where did the morning go",
+    "notes": "Written at Jinnah Hospital, Karachi in 1953. This ghazal appears in 'Gulon Mein Rang Bhare' and 'Nuskha Hai Wafa' [citation:2]. The translation by Agha Shahid Ali captures its essence."
+  },
+  {
+    "TEXT_ID": "faiz_00103",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "aur bhi dukh hain zamane mein mohabbat ke siwa",
+    "TITLE_EN": "Aur Bhi Dukh Hain Zamane Mein Mohabbat Ke Siwa",
+    "CONTENT": "aur bhi dukh hain zamane mein mohabbat ke siwa\nrahaten aur bhi hain wasl ki rahat ke siwa\n\ndil na-umeed to nahin nakam hi to hai\nlambi hai gham ki sham magar sham hi to hai\n\nkar raha tha gham-e-jahan ka hisab\naaj tum yaad be-hisab aae\n\naur kya dekhne ko baqi hai\naap se dil laga ke dekh liya",
+    "TRANSLATION_EN": "There are other sorrows in this world besides love\nThere are other pleasures besides the comfort of union\n\nThe heart is not hopeless, it's just unsuccessful\nLong is the evening of grief, but it's just an evening\n\nI was calculating the sorrows of the world\nToday you came to mind beyond all calculation\n\nWhat else is there now for me to view\nI have experienced being in love with you",
+    "notes": "A collection of famous couplets from various Faiz ghazals. The first couplet is particularly renowned and appears in Rekhta's collection of Faiz's poetry [citation:3]."
+  },
+  {
+    "TEXT_ID": "faiz_00105",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ranjish hi sahi dil hi dukhane ke liye aa",
+    "TITLE_EN": "Ranjish Hi Sahi Dil Hi Dukhane Ke Liye Aa",
+    "CONTENT": "ranjish hi sahi dil hi dukhane ke liye aa\naa phir se mujhe chhod ke jaane ke liye aa\n\nkya pyaar ki raahon mein kabhi zakhm nahi tha\ntum to mujhe aur bhi rulaane ke liye aa\n\nvo log bahut khush-qismat the ishq mein lekin\nhum to kabhi be-chain hue to nahin aae\n\nab ke milo to kaho kyun na milo ge kabhi\nkal kahoge ke hum kal to nahin aae",
+    "TRANSLATION_EN": "Let it be displeasure, come to break my heart\nCome to leave me once again after we start\n\nWas there never a wound on love's path before?\nYou've come to make me weep even more\n\nThose in love were very fortunate, but\nWhen I grew restless, no one ever came\n\nNow when we meet, say why won't we meet again?\nTomorrow you'll say I didn't come yesterday",
+    "notes": "A ghazal exploring the paradox of seeking the beloved even when they come to cause pain. The opening line is one of Urdu poetry's most famous verses."
+  },
+  {
+    "TEXT_ID": "faiz_00106",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "gulon mein rang bhare baad-e-nau-bahar chale",
+    "TITLE_EN": "Gulon Mein Rang Bhare Baad-e-Nau-Bahar Chale",
+    "CONTENT": "gulon mein rang bhare baad-e-nau-bahar chale\nchale bhi aao ke gulshan ka karobar chale\n\nqafas udaas hai yaron sabaa se kuchh to kaho\nkahin ye to nahin ki ab-e-rawan se takraar\n\nchaman mein raqs-e-saba dekhte hain aankhon se\nwo zulf-e-yaar ki khushbu liye huye aae",
+    "TRANSLATION_EN": "The flowers are colored, the spring breeze blows\nCome now, for the garden's waiting calls\n\nThe cage is sad, friends, say something to the breeze\nPerhaps it's having some dispute with the flowing stream\n\nWe watch the dance of the breeze in the garden\nShe came carrying the fragrance of the beloved's locks",
+    "notes": "A beautiful spring-themed ghazal from Faiz's early period, featured in his first collection 'Naqsh-e-Faryadi' (1941)."
+  },
+  {
+    "TEXT_ID": "faiz_00108",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "yeh daagh daagh ujala yeh shab-gazida sehar",
+    "TITLE_EN": "Yeh Daagh Daagh Ujala Yeh Shab-Gazida Sehar",
+    "CONTENT": "yeh daagh daagh ujala yeh shab-gazida sehar\nwoh intezaar tha jiska yeh intezaar to hai\n\nyeh tazagi bahar ke qabil nahin magar\nkuchh aur hai ke phir bhi gulaN mein bahar hai\n\nwoh ek fursat-e-gunah mili woh bhi chaar din\ndekhe hain hum ne hausle parwardigar ke",
+    "TRANSLATION_EN": "This stained light, this night-bitten dawn\nThat waiting for which this waiting was done\n\nThis freshness is not worthy of spring, but\nSomething else is there, still there's spring in the garden\n\nOne opportunity for sin came, and that too for four days\nWe have seen the courage of the Almighty",
+    "notes": "A revolutionary ghazal that uses imagery of a stained dawn to symbolize the struggle for freedom. From Faiz's collection 'Dast-e-Tah-e-Sang'."
+  },
+  {
+    "TEXT_ID": "faiz_00109",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "hum ke thareek rahon mein maare gaye",
+    "TITLE_EN": "Hum Ke Thareek Rahon Mein Maare Gaye",
+    "CONTENT": "hum ke thareek rahon mein maare gaye\nkis ke aane ka intezaar tha\n\nwoh keh gaye ke tujh se mohabbat nahi hai lekin\nkuchh aur baat hai jo unhein be-khudi kiye hue\n\njaane woh kis hisaab mein khoye hue hain log\nkuchh hum bhi apni yaad mein gum ho gaye to kya\n\nfaiz koi nahin hai mere dil ke siwa\njis ko main apne gham ka fasana sunaun",
+    "TRANSLATION_EN": "We who were slain on unlit pathways\nWhose arrival were we waiting for?\n\nShe said she has no love for me, but\nSomething else keeps her entranced still\n\nWho knows in what accounts people are lost\nIf I too got lost in my memories, so what?\n\nFaiz, there is no one except my heart\nTo whom I can tell the tale of my sorrow",
+    "notes": "A collection of verses from Faiz's prison poetry, featured in 'Zindan Nama' (1956), reflecting his experience of imprisonment."
+  },
+  {
+    "TEXT_ID": "faiz_00111",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "woh log bahut khush-qismat thay",
+    "TITLE_EN": "Woh Log Bahut Khush-Qismat Thay",
+    "CONTENT": "woh log bahut khush-qismat thay\njo ishq ko kaam samajhte thay\n\nhum to zinda hain isi aas pe\nke kabhi to mulaqaat ho gi\n\ndil ke veerane mein ek shama jalaai hum ne\nkoi to aae use dekhne wala\n\nfaiz ab is intezaar mein kat gayi umar\nwoh aaya bhi to kya tha jo aana tha",
+    "TRANSLATION_EN": "Those people were very fortunate\nWho considered love as work\n\nI am alive with this hope\nThat someday we will meet\n\nIn the heart's desert, I lit a candle\nLet someone come to see it\n\nFaiz, my life passed in this waiting\nEven if she came, what was meant to be?",
+    "notes": "A philosophical ghazal comparing the fortune of those who could pursue love as a profession. The poet reflects on the nature of waiting and hope."
+  },
+  {
+    "TEXT_ID": "faiz_00116",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "woh baat saare fasaane mein jis ka zikr na tha",
+    "TITLE_EN": "Woh Baat Saare Fasane Mein Jis Ka Zikr Na Tha",
+    "CONTENT": "woh baat saare fasaane mein jis ka zikr na tha\nwoh baat un ko bahut na-gawar guzri hai\n\nkuchh to hai jo unhein apna sa lagta hai\nwarna itna to koi bewafa nahin hota\n\ndil ko samjha kar kaha karte the\nab kisi ke gham mein kya rakha hai\n\nfaiz is ke baad bhi dil lagta hai\nkuchh to hai jis ka gham khaate hain",
+    "TRANSLATION_EN": "That thing in the whole tale which wasn't mentioned\nThat thing became very unpleasant for her\n\nThere's something that feels like her own to her\nOtherwise no one is so unfaithful\n\nConsoling the heart, I used to say\nWhat's there in anyone's grief now?\n\nFaiz, even after this, the heart is attached\nThere's something whose grief we consume",
+    "notes": "A ghazal about the unspoken elements in love and the mystery of attachment."
+  },
+  {
+    "TEXT_ID": "faiz_00119",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "zulmat-kada",
+    "TITLE_EN": "Zulmat-Kada",
+    "CONTENT": "zulmat-kada hai aalam, roshni-kada to hai\nkuchh apni zaat se puchho, kuchh ghair se suno\n\nyeh raat bhar ki masafat, yeh subah ka safar\nkahan se aaye thay hum, kahan tak gaye\n\ndil mein koi baat hai jo kahin nahin jaati\naankhon mein koi khwab hai jo dekha nahin jaata\n\nfaiz is shehar mein kis se milen\nhar chehra pe zakhm hain, har lab pe dard",
+    "TRANSLATION_EN": "The world is a realm of darkness, yet a realm of light\nAsk something of yourself, hear something from others\n\nThis night-long journey, this morning's travel\nWhere had we come from, and where did we go?\n\nThere's something in the heart that won't be told\nThere's a dream in the eyes that won't be seen\n\nFaiz, whom should I meet in this city?\nEvery face has wounds, every lip has pain",
+    "notes": "A ghazal exploring the duality of existence - darkness and light, pain and hope."
+  },
+  {
+    "TEXT_ID": "faiz_00122",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "raat yun dil mein teri khoi hui yaad aai",
+    "TITLE_EN": "Raat Yun Dil Mein Teri Khoi Hui Yaad Aai",
+    "CONTENT": "raat yun dil mein teri khoi hui yaad aai\njaise veerane mein chupke se bahar aa jaye\n\njaise sahron mein koi khwab mein khoyaa ho\njaise sabze mein koi phool khilaa na ho\n\ntere aane ki khabar jaise mili ho mujh ko\njaise andheri raat mein suraj nikal aaya ho",
+    "TRANSLATION_EN": "Last night your lost memory came to my heart\nLike spring silently arriving in a desert\n\nLike someone lost in a dream in the mornings\nLike a flower that hasn't bloomed in the garden\n\nAs if I received news of your coming\nAs if the sun rose in a dark night",
+    "notes": "A ghazal about the sudden arrival of memory, using beautiful nature imagery."
+  },
+  {
+    "TEXT_ID": "faiz_00123",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ab ke hum bichhde to shayad kabhi khwabon mein milen",
+    "TITLE_EN": "Ab Ke Hum Bichhde To Shayad Kabhi Khwabon Mein Milen",
+    "CONTENT": "ab ke hum bichhde to shayad kabhi khwabon mein milen\njis tarah sukhe hue phool kitabon mein milen\n\ndil ki taskin ko ai faiz utna hi kaafi tha\nke woh yaad aaye ke woh yaad aaye ke woh yaad aaye",
+    "TRANSLATION_EN": "Now that we've parted, perhaps we'll meet in dreams\nLike dried flowers found in books\n\nTo soothe the heart, Faiz, this much was enough\nThat she came to mind, that she came to mind, that she came to mind",
+    "notes": "A famous ghazal about separation and the hope of meeting in dreams. The imagery of dried flowers in books is particularly poignant."
+  },
+  {
+    "TEXT_ID": "faiz_00124",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "tumhare dar se agar hum nikal bhi jaate to kya jaate",
+    "TITLE_EN": "Tumhare Dar Se Agar Hum Nikal Bhi Jaate To Kya Jaate",
+    "CONTENT": "tumhare dar se agar hum nikal bhi jaate to kya jaate\nkisi ke ho na sakte the kisi ka gham na khaate the\n\nuse bhi hum se koi shikwa tha apni bewafai ka\nuse bhi hum ne chaha tha use bhi hum ne chaaha tha\n\nwoh hum se ruth kar jab bhi gaye to yun laga\nke ab ke hum unhein mana lenge phir bhi na aaye",
+    "TRANSLATION_EN": "Even if I had left your doorstep, where would I go?\nI could belong to no one, could grieve for no one\n\nShe too had a complaint about her own unfaithfulness\nShe too had loved me, she too had loved me\n\nWhen she left in anger, it felt\nThat this time I'd win her back - still she didn't come",
+    "notes": "A ghazal exploring the impossibility of leaving the beloved and the paradox of mutual complaints."
+  },
+  {
+    "TEXT_ID": "faiz_00125",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "yaad ne aaj bada dhyan se dekha hoga",
+    "TITLE_EN": "Yaad Ne Aaj Bada Dhyan Se Dekha Hoga",
+    "CONTENT": "yaad ne aaj bada dhyan se dekha hoga\nkal jo hum bhool gaye hain unhein yaad aaya hoga\n\nkitni mushkil se mohabbat ki thi hum ne jise\nus ne bhi dil mein kahi dard chhupaya hoga\n\nhum to samjhe the ke woh bhool gaye sab kuchh\nkal jo milne ko aaye to kuchh yaad aaya hoga",
+    "TRANSLATION_EN": "Memory must have looked at me very carefully today\nShe whom I forgot yesterday must have remembered\n\nWhom I loved with such difficulty\nShe too must have hidden some pain in her heart\n\nI thought she had forgotten everything\nWhen she came to meet yesterday, she must have remembered something",
+    "notes": "A ghazal personifying memory and exploring the mutual nature of remembrance and pain."
+  },
+  {
+    "TEXT_ID": "faiz_00126",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "kal chaman se guzra to yun laga",
+    "TITLE_EN": "Kal Chaman Se Guzra To Yun Laga",
+    "CONTENT": "kal chaman se guzra to yun laga\njaise aaj bhi wahi bahar hai\n\nphool to khile the lekin un mein\nteri khushbu ki kami si thi\n\nbulbulon ke nagme to the magar\nun mein teri baat na thi\n\nfaiz is shehar mein ab kya rakha hai\njab se woh chale gaye",
+    "TRANSLATION_EN": "Yesterday when I passed by the garden, it felt\nAs if even today it's the same spring\n\nFlowers had bloomed, but in them\nThere was an absence of your fragrance\n\nThe nightingales sang, but\nYour voice was missing from them\n\nFaiz, what is left in this city now\nSince she has left?",
+    "notes": "A ghazal about how the garden loses its charm after the beloved's departure, despite outward signs of spring."
+  },
+  {
+    "TEXT_ID": "faiz_00127",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "woh aaj aangan mein khwabon ki fasal boye hue",
+    "TITLE_EN": "Woh Aaj Aangan Mein Khwabon Ki Fasal Boye Hue",
+    "CONTENT": "woh aaj aangan mein khwabon ki fasal boye hue\nhawa mein teri hi khushbu mahak rahi hai\n\nkabhi kabhi aisa bhi hota hai ke hum\ntere baghair bhi khush hain magar\n\nteri yaad ka aalam kuchh aur hai\njaise koi samandar dil mein utar aaya ho",
+    "TRANSLATION_EN": "Today in the courtyard, she's sowing a crop of dreams\nYour fragrance is blooming in the air\n\nSometimes it happens that I\nAm happy even without you, but\n\nThe state of your memory is something else\nAs if an ocean has descended into my heart",
+    "notes": "A ghazal using agricultural imagery to describe the cultivation of memories and dreams."
+  },
+  {
+    "TEXT_ID": "faiz_00128",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "kabhi hum bhi tum bhi aangan mein tanha",
+    "TITLE_EN": "Kabhi Hum Bhi Tum Bhi Aangan Mein Tanha",
+    "CONTENT": "kabhi hum bhi tum bhi aangan mein tanha\nkabhi hum nahin tum nahin aangan hai\n\nteri aankhon mein jaise nami thi kuchh\nmeri aankhon mein jaise gham tha kuchh\n\nwoh hum se bichhde to yun laga\njaise apna sa koi kho gaya\n\nfaiz ab is ke baad kya rakkha hai\njab se woh hum se juda hua",
+    "TRANSLATION_EN": "Sometimes you and I are alone in the courtyard\nSometimes neither you nor I, only the courtyard remains\n\nIn your eyes there was some moisture\nIn my eyes there was some sorrow\n\nWhen she parted from me, it felt\nAs if I had lost someone of my own\n\nFaiz, after this what is left\nSince she has separated from me?",
+    "notes": "A ghazal exploring presence and absence, self and other, in the space of the courtyard."
+  },
+  {
+    "TEXT_ID": "faiz_00129",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "ek din aisa bhi aayega",
+    "TITLE_EN": "Ek Din Aisa Bhi Aayega",
+    "CONTENT": "ek din aisa bhi aayega\njab woh khud mujhe dhundhti phiregi\n\ntere dar se hum ko koi na rokega\ntere shehar mein hum kisi se na darenge\n\nwoh khud apne haathon se likhegi mohabbat ka paigham\naur hum use kabhi na bhoolenge",
+    "TRANSLATION_EN": "A day will also come\nWhen she herself will wander searching for me\n\nNo one will stop me at your doorstep\nIn your city, I will fear no one\n\nShe herself will write love's message with her own hands\nAnd I will never forget her",
+    "notes": "A hopeful ghazal about the reversal of roles when the beloved will become the seeker."
+  },
+  {
+    "TEXT_ID": "faiz_00130",
+    "AUTHOR_ID": "faiz",
+    "TITLE_UR": "raat bhar baat karte rahe",
+    "TITLE_EN": "Raat Bhar Baat Karte Rahe",
+    "CONTENT": "raat bhar baat karte rahe\nsubh hone ki khabar na hui\n\ndil ki duniya mein utar aai hai woh\naankhon mein bas gayi hai us ki yaad\n\nkabhi kabhi aisa bhi hota hai\nkoi aata hai to dil dhadakta hai\n\nfaiz ab is ke baad kya kahiye\ndil laga kar bhi dil nahin lagta",
+    "TRANSLATION_EN": "We talked all night\nWe didn't know when morning came\n\nShe has descended into my heart's world\nHer memory has settled in my eyes\n\nSometimes it happens like this\nSomeone comes and the heart beats\n\nFaiz, after this what can I say?\nEven after loving, the heart is not attached",
+    "notes": "A ghazal about the timelessness of conversation with the beloved and the persistence of memory."
+  }
+]
