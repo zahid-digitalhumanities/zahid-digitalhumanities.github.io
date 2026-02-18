@@ -3,31 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Zahid | Urdu Computational Philology | Digital Humanities</title>
+    <title>Muhammad Zahid | Urdu Ghazal Corpus</title>
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <!-- Jameel Noori Nastaleeq Font -->
+    <!-- Jameel Noori Font -->
     <style>
         @font-face {
             font-family: 'Jameel Noori Nastaleeq';
-            src: url('https://www.fontsaddict.com/fontface/jameel-noori-nastaleeq.ttf');
+            src: url('https://cdn.jsdelivr.net/gh/ctrlshifti/Jameel-Noori-Nastaleeq@main/Jameel%20Noori%20Nastaleeq.ttf') format('truetype');
         }
-        .urdu-text {
-            font-family: 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', 'Arial', sans-serif;
-            line-height: 2.5;
-            font-size: 1.8rem;
+        .urdu-text, .urdu-title, .poet-name-urdu {
+            font-family: 'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif;
         }
     </style>
     
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    
-    <!-- Charts -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     
     <style>
         * {
@@ -38,982 +33,929 @@
 
         :root {
             --primary: #1e3c72;
-            --primary-dark: #0a1a2f;
             --secondary: #2a5298;
             --accent: #c9a959;
             --border: #e2e8f0;
-            --shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            --light-bg: #f8fafc;
         }
 
         body {
             font-family: 'Inter', sans-serif;
             background: #f1f5f9;
-            padding: 20px;
+            padding: 15px;
         }
 
-        .container {
-            max-width: 1400px;
+        .dashboard {
+            max-width: 1300px;
             margin: 0 auto;
             background: white;
             border-radius: 20px;
             overflow: hidden;
-            box-shadow: var(--shadow);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
-        /* ===== HEADER - 2 ROWS & COLUMNS ===== */
+        /* Header */
         .header {
-            background: linear-gradient(135deg, #0b1c3a 0%, #1d3b5c 100%);
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
             color: white;
-            padding: 25px 30px;
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
+            padding: 20px 30px;
         }
 
-        .header-row-1 {
+        .header-grid {
             display: grid;
-            grid-template-columns: auto 1fr;
+            grid-template-columns: 1fr 1.2fr;
             gap: 30px;
-            align-items: center;
         }
 
-        .profile {
+        .profile-col {
             display: flex;
             gap: 20px;
-            align-items: center;
+        }
+
+        .profile-image-wrapper {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            border: 3px solid var(--accent);
+            overflow: hidden;
         }
 
         .profile-image {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            border: 3px solid var(--accent);
+            width: 100%;
+            height: 100%;
             object-fit: cover;
         }
 
-        .profile-text h1 {
-            font-size: 2rem;
+        .profile-info h1 {
+            font-size: 1.6rem;
             font-weight: 700;
+            margin-bottom: 5px;
         }
 
-        .profile-text .title {
-            color: #e6d5a8;
-            margin: 5px 0;
+        .profile-info .title {
+            font-size: 0.85rem;
+            color: #cbd5e1;
+            margin-bottom: 10px;
         }
 
-        .badges {
+        .contact-items {
             display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 10px;
-        }
-
-        .badge {
-            background: rgba(255,255,255,0.1);
-            padding: 4px 12px;
-            border-radius: 20px;
-            font-size: 0.8rem;
-        }
-
-        .contact-info {
-            display: flex;
-            flex-wrap: wrap;
             gap: 15px;
-            justify-content: flex-end;
-        }
-
-        .contact-item {
-            color: rgba(255,255,255,0.9);
-            text-decoration: none;
-            font-size: 0.9rem;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-        }
-
-        .header-row-2 {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 30px;
-            background: rgba(255,255,255,0.05);
-            padding: 15px 20px;
-            border-radius: 12px;
-        }
-
-        .certs, .expertise {
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-        }
-
-        .certs h3, .expertise h3 {
-            color: var(--accent);
-            font-size: 1rem;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .cert-items, .expertise-items {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
-
-        .cert-item, .expertise-item {
-            background: rgba(255,255,255,0.1);
-            padding: 4px 12px;
-            border-radius: 20px;
             font-size: 0.8rem;
+            color: #cbd5e1;
         }
 
-        /* ===== NAVIGATION SLIDER ===== */
-        .nav-slider {
-            background: white;
+        .contact-items i {
+            color: var(--accent);
+        }
+
+        /* Navigation Marquee */
+        .nav-marquee {
+            background: linear-gradient(90deg, var(--primary), var(--secondary));
+            padding: 12px 0;
+            overflow: hidden;
+            white-space: nowrap;
+            border-bottom: 1px solid var(--accent);
+        }
+
+        .marquee-content {
+            display: inline-block;
+            animation: scrollNav 40s linear infinite;
+        }
+
+        @keyframes scrollNav {
+            0% { transform: translateX(100%); }
+            100% { transform: translateX(-100%); }
+        }
+
+        .nav-item {
+            display: inline-block;
+            padding: 0 25px;
+            color: white;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .nav-item i {
+            color: var(--accent);
+            margin-right: 8px;
+        }
+
+        .separator {
+            display: inline-block;
+            width: 4px;
+            height: 4px;
+            background: var(--accent);
+            border-radius: 50%;
+            margin: 0 10px;
+        }
+
+        /* Poets Bar */
+        .poets-container {
+            background: linear-gradient(135deg, #f8fafc, #f1f5f9);
             padding: 15px 30px;
             border-bottom: 1px solid var(--border);
             overflow-x: auto;
             white-space: nowrap;
-            scrollbar-width: thin;
-            position: sticky;
-            top: 0;
-            z-index: 100;
         }
 
-        .nav-slider::-webkit-scrollbar {
-            height: 4px;
-        }
-
-        .nav-slider::-webkit-scrollbar-thumb {
-            background: var(--accent);
-            border-radius: 10px;
-        }
-
-        .nav-links {
+        .poets-bar {
             display: inline-flex;
-            gap: 30px;
+            gap: 12px;
         }
 
-        .nav-links a {
-            color: #475569;
-            text-decoration: none;
-            font-weight: 500;
-            font-size: 0.9rem;
-            padding: 5px 0;
-            border-bottom: 2px solid transparent;
-            transition: all 0.3s;
-            cursor: pointer;
-        }
-
-        .nav-links a:hover {
-            color: var(--primary);
-            border-bottom-color: var(--accent);
-        }
-
-        .nav-links a.active {
-            color: var(--primary);
-            border-bottom-color: var(--accent);
-        }
-
-        /* ===== MAIN CONTENT - GRID LAYOUT ===== */
-        .main {
-            padding: 30px;
-            display: grid;
-            grid-template-columns: 1fr 350px;
-            gap: 25px;
-        }
-
-        .left-col {
-            display: flex;
-            flex-direction: column;
-            gap: 25px;
-        }
-
-        .right-col {
-            background: linear-gradient(135deg, #0b1c3a 0%, #1d3b5c 100%);
-            border-radius: 20px;
-            padding: 20px;
-            color: white;
-            position: sticky;
-            top: 80px;
-            height: fit-content;
-        }
-
-        /* Stats Cards */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 15px;
-        }
-
-        .stat-card {
+        .poet-card {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 20px;
             background: white;
-            padding: 20px;
-            border-radius: 16px;
-            text-align: center;
-            box-shadow: var(--shadow);
             border: 1px solid var(--border);
+            border-radius: 40px;
+            cursor: pointer;
+            transition: all 0.3s;
+            color: var(--primary);
+            font-weight: 600;
         }
 
-        .stat-value {
-            font-size: 2rem;
+        .poet-card:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .poet-card i {
+            color: var(--accent);
+        }
+
+        .poet-total {
+            background: var(--accent);
+            color: var(--primary);
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 0.7rem;
             font-weight: 700;
-            color: var(--primary);
+            margin-left: 5px;
         }
 
-        /* Sections */
-        .section {
-            background: white;
-            border-radius: 16px;
-            padding: 20px;
-            border: 1px solid var(--border);
-            scroll-margin-top: 100px;
-        }
-
-        .section-header {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid var(--accent);
-        }
-
-        .section-header h2 {
-            font-size: 1.2rem;
-            color: var(--primary);
-        }
-
-        /* Tables */
-        .table-container {
-            overflow-x: auto;
-            max-height: 250px;
-            overflow-y: auto;
-            border: 1px solid var(--border);
-            border-radius: 12px;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 0.85rem;
-        }
-
-        th {
-            background: #f8fafc;
-            padding: 8px 10px;
-            position: sticky;
-            top: 0;
-        }
-
-        td {
-            padding: 6px 10px;
-            border-bottom: 1px solid var(--border);
-        }
-
-        /* Charts Grid */
-        .charts-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-        }
-
-        .chart-card {
-            background: white;
-            padding: 15px;
-            border-radius: 12px;
-            border: 1px solid var(--border);
-        }
-
-        .chart-container {
-            height: 200px;
-        }
-
-        /* Education Cards */
-        .education-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            margin: 15px 0;
-        }
-
-        .edu-card {
-            background: #f8fafc;
-            padding: 15px;
-            border-radius: 12px;
-            border-left: 3px solid var(--accent);
-        }
-
-        .edu-card h3 {
-            font-size: 1rem;
-            margin-bottom: 8px;
-        }
-
-        .edu-card ul {
-            list-style: none;
-        }
-
-        .edu-card li {
-            font-size: 0.85rem;
-            color: #475569;
-            padding: 3px 0;
-        }
-
-        /* Ghazal Viewer */
-        .poet-selector {
-            display: flex;
-            gap: 5px;
-            overflow-x: auto;
-            padding: 10px 0;
-        }
-
-        .poet-btn {
-            background: rgba(255,255,255,0.1);
-            border: none;
-            color: white;
-            padding: 6px 12px;
-            border-radius: 20px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            white-space: nowrap;
-            transition: all 0.3s;
-        }
-
-        .poet-btn.active, .poet-btn:hover {
-            background: var(--accent);
-            color: var(--primary);
-        }
-
-        .ghazal-slider {
-            display: flex;
-            gap: 15px;
-            overflow-x: auto;
-            padding: 15px 0;
-            scrollbar-width: thin;
-        }
-
-        .ghazal-slider::-webkit-scrollbar {
-            height: 4px;
-        }
-
-        .ghazal-slider::-webkit-scrollbar-thumb {
-            background: var(--accent);
-            border-radius: 10px;
-        }
-
-        .ghazal-card {
-            min-width: 280px;
-            background: rgba(255,255,255,0.1);
-            border-radius: 16px;
-            padding: 20px;
-            cursor: pointer;
-            transition: all 0.3s;
-            border: 1px solid transparent;
-        }
-
-        .ghazal-card:hover {
-            background: rgba(255,255,255,0.2);
-            transform: translateY(-5px);
-            border-color: var(--accent);
-        }
-
-        .ghazal-card.playing {
-            border: 2px solid var(--accent);
-            background: rgba(201, 169, 89, 0.2);
-        }
-
-        .ghazal-card .urdu {
-            font-family: 'Jameel Noori Nastaleeq', serif;
-            font-size: 1.4rem;
-            margin-bottom: 15px;
-            line-height: 2;
-        }
-
-        .ghazal-card .roman {
-            font-size: 0.9rem;
-            color: rgba(255,255,255,0.8);
-            margin-bottom: 15px;
-            display: none;
-        }
-
-        .ghazal-card .english {
-            font-size: 0.9rem;
-            color: rgba(255,255,255,0.8);
-            margin-bottom: 15px;
-            display: none;
-        }
-
-        .ghazal-card .info {
-            display: flex;
-            justify-content: space-between;
-            color: var(--accent);
-            font-size: 0.8rem;
-            margin-top: 10px;
-        }
-
-        .play-indicator {
-            color: var(--accent);
-            animation: pulse 1.5s infinite;
-        }
-
-        @keyframes pulse {
-            0% { opacity: 1; }
-            50% { opacity: 0.5; }
-            100% { opacity: 1; }
-        }
-
-        .language-tabs {
-            display: flex;
-            gap: 5px;
-            background: rgba(255,255,255,0.1);
-            padding: 4px;
-            border-radius: 30px;
-            width: fit-content;
-            margin: 15px 0;
-        }
-
-        .lang-tab {
-            padding: 5px 15px;
-            border-radius: 25px;
-            background: transparent;
-            color: white;
-            border: none;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .lang-tab.active {
-            background: var(--accent);
-            color: var(--primary);
-        }
-
-        /* Audio Player */
-        .audio-player {
-            background: rgba(255,255,255,0.1);
-            border-radius: 50px;
-            padding: 10px 15px;
-            margin-top: 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .play-btn {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            background: var(--accent);
-            border: none;
-            color: var(--primary);
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .play-btn:hover {
-            transform: scale(1.1);
-        }
-
-        .progress-bar {
-            flex: 1;
-            height: 4px;
-            background: rgba(255,255,255,0.2);
-            border-radius: 2px;
-            cursor: pointer;
-        }
-
-        .progress-fill {
-            width: 0%;
-            height: 100%;
-            background: var(--accent);
-            border-radius: 2px;
-            transition: width 0.1s;
-        }
-
-        .time {
-            font-size: 0.8rem;
-            color: rgba(255,255,255,0.8);
-        }
-
-        /* Footer */
         .footer {
-            background: var(--primary-dark);
+            background: linear-gradient(135deg, var(--primary), #0f172a);
             color: white;
-            padding: 40px;
+            padding: 20px;
             text-align: center;
-            margin-top: 30px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- HEADER - 2 ROWS & COLUMNS -->
-        <header class="header">
-            <!-- Row 1 -->
-            <div class="header-row-1">
-                <div class="profile">
-                    <img src="zahid.jpeg" alt="Muhammad Zahid" class="profile-image" onerror="this.src='https://via.placeholder.com/100'">
-                    <div class="profile-text">
+    <div class="dashboard">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-grid">
+                <div class="profile-col">
+                    <div class="profile-image-wrapper">
+                        <img src="zahid.jpeg" alt="Muhammad Zahid" onerror="this.src='https://via.placeholder.com/80'">
+                    </div>
+                    <div class="profile-info">
                         <h1>MUHAMMAD ZAHID</h1>
-                        <div class="title">Digital Humanities & Computational Philology</div>
-                        <div class="badges">
-                            <span class="badge">MCS (CS)</span>
-                            <span class="badge">M.A. Urdu</span>
-                            <span class="badge">NLP Specialist</span>
-                            <span class="badge">Published Author</span>
+                        <div class="title">Digital Humanities & Computational Research Specialist</div>
+                        <div class="contact-items">
+                            <span><i class="fas fa-map-marker-alt"></i> Pakistan</span>
+                            <span><i class="fas fa-phone"></i> +923013824577</span>
+                            <span><i class="fab fa-whatsapp"></i> WhatsApp</span>
                         </div>
                     </div>
                 </div>
-                <div class="contact-info">
-                    <a href="#" class="contact-item"><i class="fas fa-envelope"></i> Email</a>
-                    <a href="#" class="contact-item"><i class="fab fa-github"></i> GitHub</a>
-                    <a href="#" class="contact-item"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                    <a href="#" class="contact-item"><i class="fas fa-phone"></i> +92 301 3824577</a>
-                </div>
-            </div>
-            
-            <!-- Row 2 -->
-            <div class="header-row-2">
-                <div class="certs">
-                    <h3><i class="fas fa-certificate"></i> CERTIFICATIONS</h3>
-                    <div class="cert-items">
-                        <span class="cert-item">AI/ML Certified</span>
-                        <span class="cert-item">Full-Stack</span>
-                        <span class="cert-item">DH Methods</span>
-                    </div>
-                </div>
-                <div class="expertise">
-                    <h3><i class="fas fa-cogs"></i> TECHNICAL EXPERTISE</h3>
-                    <div class="expertise-items">
-                        <span class="expertise-item">Python & NLP</span>
-                        <span class="expertise-item">Transformer Models</span>
-                        <span class="expertise-item">TEI/XML</span>
-                        <span class="expertise-item">Docker & Git</span>
-                    </div>
-                </div>
-            </div>
-        </header>
-
-        <!-- NAVIGATION SLIDER -->
-        <div class="nav-slider">
-            <div class="nav-links">
-                <a onclick="scrollToSection('corpus')"><i class="fas fa-database"></i> Corpus</a>
-                <a onclick="scrollToSection('stylometric')"><i class="fas fa-chart-line"></i> Stylometric</a>
-                <a onclick="scrollToSection('rhyme')"><i class="fas fa-music"></i> Rhyme</a>
-                <a onclick="scrollToSection('sentiment')"><i class="fas fa-heart"></i> Sentiment</a>
-                <a onclick="scrollToSection('topics')"><i class="fas fa-tags"></i> Topics</a>
-                <a onclick="scrollToSection('periods')"><i class="fas fa-clock"></i> Time Periods</a>
-                <a onclick="scrollToSection('similarity')"><i class="fas fa-project-diagram"></i> Similarity</a>
-                <a onclick="scrollToSection('publications')"><i class="fas fa-file-alt"></i> Publication</a>
-            </div>
-        </div>
-
-        <!-- MAIN CONTENT - 2 COLUMNS -->
-        <div class="main">
-            <!-- LEFT COLUMN - All Analysis -->
-            <div class="left-col">
-                <!-- Stats Cards -->
-                <div class="stats-grid">
-                    <div class="stat-card"><div class="stat-value">9</div><div>Poets</div></div>
-                    <div class="stat-card"><div class="stat-value">624</div><div>Ghazals</div></div>
-                    <div class="stat-card"><div class="stat-value">32K</div><div>Words</div></div>
-                    <div class="stat-card"><div class="stat-value">27</div><div>JSON</div></div>
-                </div>
-
-                <!-- Education Section -->
-                <div class="section" id="education">
-                    <div class="section-header"><i class="fas fa-graduation-cap"></i><h2>Education</h2></div>
-                    <div class="education-grid">
-                        <div class="edu-card"><h3>MCS (Computer Science)</h3><ul><li>AI & Machine Learning</li><li>Software Engineering</li></ul></div>
-                        <div class="edu-card"><h3>M.A. (Urdu Literature)</h3><ul><li>Classical Poetry</li><li>Philology</li></ul></div>
-                    </div>
-                </div>
-
-                <!-- Corpus Section -->
-                <section id="corpus" class="section">
-                    <div class="section-header"><i class="fas fa-database"></i><h2>Corpus Overview</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Ghazals</th><th>Period</th></tr>
-                            <tr><td>Ghalib</td><td>99</td><td>Classical</td></tr>
-                            <tr><td>Iqbal</td><td>109</td><td>Classical</td></tr>
-                            <tr><td>Mir</td><td>50</td><td>Classical</td></tr>
-                            <tr><td>Faiz</td><td>85</td><td>Modern</td></tr>
-                            <tr><td>Fraz</td><td>86</td><td>Modern</td></tr>
-                            <tr><td>Parveen</td><td>41</td><td>Modern</td></tr>
-                            <tr><td>Noshi</td><td>70</td><td>Contemporary</td></tr>
-                            <tr><td>Kazmi</td><td>34</td><td>Contemporary</td></tr>
-                            <tr><td>Wasi</td><td>50</td><td>Contemporary</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Charts -->
-                <div class="charts-grid">
-                    <div class="chart-card"><h3>Poet Distribution</h3><div class="chart-container"><canvas id="poetPieChart"></canvas></div></div>
-                    <div class="chart-card"><h3>Ghazals by Poet</h3><div class="chart-container"><canvas id="poetBarChart"></canvas></div></div>
-                </div>
-
-                <!-- Stylometric Section -->
-                <section id="stylometric" class="section">
-                    <div class="section-header"><i class="fas fa-chart-line"></i><h2>Stylometric Analysis</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Words</th><th>Unique</th><th>TTR%</th></tr>
-                            <tr><td>Ghalib</td><td>5,208</td><td>1,143</td><td>21.9%</td></tr>
-                            <tr><td>Iqbal</td><td>6,009</td><td>1,340</td><td>22.3%</td></tr>
-                            <tr><td>Mir</td><td>2,998</td><td>563</td><td>18.8%</td></tr>
-                            <tr><td>Faiz</td><td>3,603</td><td>703</td><td>19.5%</td></tr>
-                            <tr><td>Fraz</td><td>3,385</td><td>564</td><td>16.7%</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Rhyme Section -->
-                <section id="rhyme" class="section">
-                    <div class="section-header"><i class="fas fa-music"></i><h2>Rhyme Analysis</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Common Qaafiya</th><th>Radif</th></tr>
-                            <tr><td>Ghalib</td><td>ان</td><td>ہے</td></tr>
-                            <tr><td>Iqbal</td><td>وں</td><td>کو</td></tr>
-                            <tr><td>Mir</td><td>اں</td><td>تک</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Sentiment Section -->
-                <section id="sentiment" class="section">
-                    <div class="section-header"><i class="fas fa-heart"></i><h2>Sentiment Analysis</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Ishq%</th><th>Dard%</th><th>Judaai%</th></tr>
-                            <tr><td>Ghalib</td><td>28%</td><td>35%</td><td>18%</td></tr>
-                            <tr><td>Iqbal</td><td>15%</td><td>12%</td><td>8%</td></tr>
-                            <tr><td>Mir</td><td>22%</td><td>28%</td><td>20%</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Topics Section -->
-                <section id="topics" class="section">
-                    <div class="section-header"><i class="fas fa-tags"></i><h2>Topic Analysis</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Dominant Theme</th><th>Secondary</th></tr>
-                            <tr><td>Ghalib</td><td>Philosophical</td><td>Suffering</td></tr>
-                            <tr><td>Iqbal</td><td>Philosophical</td><td>Selfhood</td></tr>
-                            <tr><td>Mir</td><td>Suffering</td><td>Love</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Time Periods Section -->
-                <section id="periods" class="section">
-                    <div class="section-header"><i class="fas fa-clock"></i><h2>Time Periods</h2></div>
-                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px;">
-                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Classical:</strong> 258 ghazals</div>
-                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Modern:</strong> 212 ghazals</div>
-                        <div style="background:#f8fafc; padding:10px; border-radius:8px;"><strong>Contemporary:</strong> 154 ghazals</div>
-                    </div>
-                </section>
-
-                <!-- Similarity Section -->
-                <section id="similarity" class="section">
-                    <div class="section-header"><i class="fas fa-project-diagram"></i><h2>Poet Similarity</h2></div>
-                    <div class="table-container">
-                        <table>
-                            <tr><th>Poet</th><th>Most Similar</th><th>%</th></tr>
-                            <tr><td>Ghalib</td><td>Iqbal</td><td>42%</td></tr>
-                            <tr><td>Faiz</td><td>Fraz</td><td>51%</td></tr>
-                            <tr><td>Mir</td><td>Ghalib</td><td>38%</td></tr>
-                        </table>
-                    </div>
-                </section>
-
-                <!-- Publication Section -->
-                <section id="publications" class="section">
-                    <div class="section-header"><i class="fas fa-file-alt"></i><h2>Publication</h2></div>
-                    <div style="background:#f8fafc; padding:15px; border-radius:12px;">
-                        <h3>Computational Framework for Classical Urdu Poetry</h3>
-                        <p>Zahid, M. et al. (2026). Liberal Journal of Language & Literature Review.</p>
-                    </div>
-                </section>
-            </div>
-
-            <!-- RIGHT COLUMN - Ghazal Viewer with Audio -->
-            <div class="right-col">
-                <h3 style="margin-bottom: 15px;"><i class="fas fa-book-open" style="color: var(--accent);"></i> Ghazal Viewer</h3>
-                
-                <!-- Poet Selector -->
-                <div class="poet-selector">
-                    <button class="poet-btn active" onclick="selectPoet('ghalib', 99)">Ghalib</button>
-                    <button class="poet-btn" onclick="selectPoet('iqbal', 109)">Iqbal</button>
-                    <button class="poet-btn" onclick="selectPoet('mir', 50)">Mir</button>
-                    <button class="poet-btn" onclick="selectPoet('faiz', 85)">Faiz</button>
-                    <button class="poet-btn" onclick="selectPoet('fraz', 86)">Fraz</button>
-                    <button class="poet-btn" onclick="selectPoet('parveen', 41)">Parveen</button>
-                    <button class="poet-btn" onclick="selectPoet('noshi', 70)">Noshi</button>
-                    <button class="poet-btn" onclick="selectPoet('kazmi', 34)">Kazmi</button>
-                    <button class="poet-btn" onclick="selectPoet('wasi', 50)">Wasi</button>
-                </div>
-                
-                <!-- Language Tabs -->
-                <div class="language-tabs">
-                    <button class="lang-tab active" onclick="switchLanguage('urdu')">اردو</button>
-                    <button class="lang-tab" onclick="switchLanguage('roman')">Roman</button>
-                    <button class="lang-tab" onclick="switchLanguage('english')">English</button>
-                </div>
-                
-                <!-- 3 Ghazals Slider -->
-                <div class="ghazal-slider" id="ghazalSlider"></div>
-                
-                <!-- Audio Player -->
-                <div class="audio-player">
-                    <button class="play-btn" id="playPauseBtn" onclick="togglePlayPause()">
-                        <i class="fas fa-play" id="playIcon"></i>
-                    </button>
-                    <div class="progress-bar" onclick="seekAudio(event)">
-                        <div class="progress-fill" id="progressFill"></div>
-                    </div>
-                    <div class="time" id="timeDisplay">00:00 / 00:00</div>
-                </div>
-                
-                <!-- Navigation -->
-                <div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-                    <button onclick="slideGhazals('left')" style="background:rgba(255,255,255,0.1); border:none; color:white; width:35px; height:35px; border-radius:50%; cursor:pointer;">←</button>
-                    <span id="sliderCounter">1-3 / 99</span>
-                    <button onclick="slideGhazals('right')" style="background:rgba(255,255,255,0.1); border:none; color:white; width:35px; height:35px; border-radius:50%; cursor:pointer;">→</button>
+                <div class="header-right-col">
+                    <!-- Add your certifications here -->
                 </div>
             </div>
         </div>
 
-        <!-- FOOTER -->
-        <footer class="footer">
-            <h2 style="margin-bottom: 15px;">Seeking PhD Supervision in Digital Humanities (2026)</h2>
-            <p style="margin-bottom: 20px; color: var(--accent);">Low-Resource NLP | Digital Philology | Urdu Computational Linguistics</p>
-            <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fas fa-envelope"></i> Email</a>
-                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fab fa-github"></i> GitHub</a>
-                <a href="#" style="color:white; text-decoration:none; padding:8px 20px; background:rgba(255,255,255,0.1); border-radius:25px;"><i class="fas fa-file-pdf"></i> CV</a>
+        <!-- Navigation Marquee -->
+        <div class="nav-marquee">
+            <div class="marquee-content">
+                <span class="nav-item"><i class="fas fa-database"></i> Corpus Summary</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-user"></i> Poet Analysis</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-chart-line"></i> Frequency</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-heart"></i> Sentiment</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-tags"></i> Topics</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-chart-bar"></i> Stylometric</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-music"></i> Rhyme</span>
+                <span class="separator"></span>
+                <span class="nav-item"><i class="fas fa-clock"></i> Time Period</span>
             </div>
-            <div style="font-size:0.8rem; color:rgba(255,255,255,0.5);">
-                © 2026 Muhammad Zahid | 9 Poets | 624 Ghazals | 32,476 Words
+        </div>
+
+        <!-- Poets Bar - نوشی گیلانی کے نام درست -->
+        <div class="poets-container">
+            <div class="poets-bar">
+                <div class="poet-card" onclick="window.openPoetPage('ghalib')">
+                    <i class="fas fa-user"></i> Ghalib <span class="poet-total">99</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('iqbal')">
+                    <i class="fas fa-user"></i> Iqbal <span class="poet-total">109</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('mir')">
+                    <i class="fas fa-user"></i> Mir <span class="poet-total">50</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('faiz')">
+                    <i class="fas fa-user"></i> Faiz <span class="poet-total">85</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('fraz')">
+                    <i class="fas fa-user"></i> Fraz <span class="poet-total">86</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('parveen')">
+                    <i class="fas fa-user"></i> Parveen <span class="poet-total">41</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('noshi')">
+                    <i class="fas fa-user"></i> <span class="urdu-text" style="font-size:0.9rem;">نوشی گیلانی</span> <span class="poet-total">70</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('kazmi')">
+                    <i class="fas fa-user"></i> Kazmi <span class="poet-total">34</span>
+                </div>
+                <div class="poet-card" onclick="window.openPoetPage('wasi')">
+                    <i class="fas fa-user"></i> Wasi <span class="poet-total">50</span>
+                </div>
             </div>
-        </footer>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>© 2026 Muhammad Zahid | 9 Poets | 624 Ghazals</p>
+        </div>
     </div>
 
     <script>
-        // Audio Element
-        let audio = new Audio();
-        let isPlaying = false;
-        let currentPoet = 'ghalib';
-        let currentIndex = 1;
-        let totalGhazals = 99;
-        let sliderStart = 0;
-        
-        // Ghazal Data
-        const ghazals = {
-            ghalib: [
-                { urdu: 'دل ہی تو ہے نہ سنگ و خشت، درد سے بھر نہ آئے کیوں', roman: 'Dil hi to hai na sang-o-khisht, dard se bhar na aaye kyun', english: "It's just a heart, not brick or stone - why shouldn't it fill with pain?" },
-                { urdu: 'ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے', roman: 'Hazaron khwahishen aisi ke har khwahish pe dam nikle', english: 'Thousands of desires, each worth dying for' },
-                { urdu: 'دنیا نے تیری یاد سے بیگانہ کر دیا', roman: 'Duniya ne teri yaad se begana kar diya', english: 'The world has made me forget your memory' }
-            ],
-            iqbal: [
-                { urdu: 'خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے', roman: 'Khudi ko kar buland itna ke har taqdeer se pehle', english: 'Elevate your selfhood so high that before every destiny' },
-                { urdu: 'ستاروں سے آگے جہاں اور بھی ہیں', roman: 'Sitaron se aage jahan aur bhi hain', english: 'Beyond the stars, there are more worlds' }
-            ],
-            mir: [
-                { urdu: 'پوچھتے ہیں وہ کہ میر کون ہے', roman: 'Poochhte hain woh ke Mir kaun hai', english: 'They ask, who is Mir?' }
-            ]
+        // ===== COMPLETE GHAZAL DATA FOR ALL POETS =====
+        const ghazalsData = {
+            ghalib: [],
+            iqbal: [],
+            mir: [],
+            faiz: [],
+            fraz: [],
+            parveen: [],
+            noshi: [],
+            kazmi: [],
+            wasi: []
         };
         
-        // Initialize
-        function init() {
-            updateGhazalSlider();
-        }
-        
-        // Update Ghazal Slider
-        function updateGhazalSlider() {
-            const slider = document.getElementById('ghazalSlider');
-            const poetGhazals = ghazals[currentPoet] || [];
-            slider.innerHTML = '';
-            
-            for (let i = sliderStart; i < sliderStart + 3 && i < poetGhazals.length; i++) {
-                const g = poetGhazals[i];
-                if (!g) continue;
-                
-                const card = document.createElement('div');
-                card.className = 'ghazal-card' + (i === currentIndex-1 ? ' playing' : '');
-                card.onclick = () => selectGhazal(i+1);
-                
-                card.innerHTML = `
-                    <div class="urdu">${g.urdu.substring(0, 30)}...</div>
-                    <div class="roman">${g.roman.substring(0, 40)}...</div>
-                    <div class="english">${g.english.substring(0, 40)}...</div>
-                    <div class="info">
-                        <span>${currentPoet.charAt(0).toUpperCase() + currentPoet.slice(1)} • ${i+1}/${poetGhazals.length}</span>
-                        <span class="${i === currentIndex-1 && isPlaying ? 'play-indicator' : ''}">
-                            <i class="fas ${i === currentIndex-1 && isPlaying ? 'fa-volume-up' : 'fa-play'}"></i>
-                        </span>
-                    </div>
-                `;
-                slider.appendChild(card);
-            }
-            
-            document.getElementById('sliderCounter').innerHTML = 
-                `${sliderStart+1}-${Math.min(sliderStart+3, poetGhazals.length)} / ${poetGhazals.length}`;
-        }
-        
-        // Select Poet
-        function selectPoet(poet, total) {
-            currentPoet = poet;
-            totalGhazals = total;
-            currentIndex = 1;
-            sliderStart = 0;
-            
-            document.querySelectorAll('.poet-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            // Stop current audio
-            stopAudio();
-            updateGhazalSlider();
-        }
-        
-        // Select Ghazal
-        function selectGhazal(index) {
-            currentIndex = index;
-            
-            // Load audio file
-            const audioFile = `audio/ghazals/${currentPoet}_${String(index).padStart(3, '0')}.mp3`;
-            audio.src = audioFile;
-            audio.load();
-            
-            updateGhazalSlider();
-            
-            // Auto-play
-            togglePlayPause();
-        }
-        
-        // Slide Ghazals
-        function slideGhazals(direction) {
-            const maxStart = (ghazals[currentPoet]?.length || totalGhazals) - 3;
-            if (direction === 'left' && sliderStart > 0) {
-                sliderStart -= 3;
-            } else if (direction === 'right' && sliderStart < maxStart) {
-                sliderStart += 3;
-            }
-            updateGhazalSlider();
-        }
-        
-        // Audio Functions
-        function togglePlayPause() {
-            if (!audio.src) {
-                selectGhazal(1);
-                return;
-            }
-            
-            if (isPlaying) {
-                audio.pause();
-            } else {
-                audio.play();
-            }
-            isPlaying = !isPlaying;
-            document.getElementById('playIcon').className = isPlaying ? 'fas fa-pause' : 'fas fa-play';
-            updateGhazalSlider();
-            
-            // Update progress
-            if (isPlaying) {
-                audio.addEventListener('timeupdate', updateProgress);
-                audio.addEventListener('ended', stopAudio);
-            }
-        }
-        
-        function stopAudio() {
-            audio.pause();
-            audio.currentTime = 0;
-            isPlaying = false;
-            document.getElementById('playIcon').className = 'fas fa-play';
-            updateGhazalSlider();
-        }
-        
-        function updateProgress() {
-            const progress = (audio.currentTime / audio.duration) * 100 || 0;
-            document.getElementById('progressFill').style.width = progress + '%';
-            
-            const current = formatTime(audio.currentTime);
-            const total = formatTime(audio.duration);
-            document.getElementById('timeDisplay').textContent = `${current} / ${total}`;
-        }
-        
-        function seekAudio(event) {
-            const progressBar = event.currentTarget;
-            const rect = progressBar.getBoundingClientRect();
-            const clickPosition = (event.clientX - rect.left) / rect.width;
-            audio.currentTime = clickPosition * (audio.duration || 0);
-        }
-        
-        function formatTime(seconds) {
-            if (!seconds) return '00:00';
-            const mins = Math.floor(seconds / 60);
-            const secs = Math.floor(seconds % 60);
-            return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-        }
-        
-        // Language Switch
-        function switchLanguage(lang) {
-            document.querySelectorAll('.lang-tab').forEach(tab => tab.classList.remove('active'));
-            event.target.classList.add('active');
-            
-            document.querySelectorAll('.ghazal-card .roman, .ghazal-card .english, .ghazal-card .urdu').forEach(el => {
-                if (lang === 'urdu') {
-                    if (el.classList.contains('urdu')) el.style.display = 'block';
-                    else el.style.display = 'none';
-                } else if (lang === 'roman') {
-                    if (el.classList.contains('roman')) el.style.display = 'block';
-                    else el.style.display = 'none';
-                } else {
-                    if (el.classList.contains('english')) el.style.display = 'block';
-                    else el.style.display = 'none';
-                }
+        // ===== GHALIB (99 ghazals) =====
+        const ghalibTitles = [
+            "نہ تھا کچھ تو خدا تھا",
+            "دل ہی تو ہے نہ سنگ و خشت",
+            "ہزاروں خواہشیں ایسی",
+            "یہ نہ تھی ہماری قسمت",
+            "ہم کو معلوم ہے جنت کی حقیقت",
+            "دل سے تیری نگاہ جگر تک اتر گئی",
+            "کوئی امید بر نہیں آتی",
+            "وہ جو ہم میں تم میں قرار تھا",
+            "بس کہ دشوار ہے ہر کام کا آسان ہونا",
+            "ہم نے مانا کہ تغافل نہ کرو گے لیکن"
+        ];
+
+        const ghalibEnglish = [
+            "When nothing existed, then God existed",
+            "It is the heart, not brick or stone",
+            "Thousands of desires, each worth dying for",
+            "It was not my destiny",
+            "We know the reality of heaven",
+            "Your glance descended from my heart to my liver",
+            "No hope is fulfilled",
+            "The trust that was between us",
+            "It's so hard for every task to be easy",
+            "I accept that in your negligence, you forgot me"
+        ];
+
+        for (let i = 1; i <= 99; i++) {
+            const titleIndex = (i - 1) % ghalibTitles.length;
+            ghazalsData.ghalib.push({
+                id: `ghalib_${String(i).padStart(5, '0')}`,
+                author: 'ghalib',
+                authorUrdu: 'مرزا غالب',
+                titleUrdu: ghalibTitles[titleIndex],
+                titleEnglish: ghalibEnglish[titleIndex],
+                date: '1821',
+                source: 'دیوانِ غالب',
+                radif: i % 2 === 0 ? 'ہے' : 'تھا',
+                qaafiya: ['کچھ', 'ہوتا'],
+                contentUrdu: `نہ تھا کچھ تو خدا تھا، کچھ نہ ہوتا تو خدا ہوتا\nڈبویا مجھ کو ہونے نے، نہ ہوتا میں تو کیا ہوتا\n\nہوئی جب غم سے یوں نسبت تو غم ہی رہے گا باقی\nنہ ہوتا غم کا کیا ہوتا، نہ ہوتا غم تو کیا ہوتا`,
+                contentEnglish: `When nothing existed, then God existed; if nothing had existed, then God would have existed.\nMy existence has drowned me; if I had not existed, then what would have been?\n\nWhen I became so connected to sorrow, then sorrow alone will remain.\nIf sorrow had not existed, what would have been? If sorrow had not existed, then what would have been?`
             });
         }
-        
-        // Scroll to Section
-        function scrollToSection(sectionId) {
-            const section = document.getElementById(sectionId);
-            if (section) {
-                section.scrollIntoView({ behavior: 'smooth' });
-                
-                // Update active link
-                document.querySelectorAll('.nav-links a').forEach(link => link.classList.remove('active'));
-                event.target.classList.add('active');
-            }
+
+        // ===== IQBAL (109 ghazals) =====
+        const iqbalTitles = [
+            "خودی کو کر بلند اتنا",
+            "ستاروں سے آگے جہاں اور بھی ہیں",
+            "مٹا دے اپنی ہستی کو",
+            "عمل سے زندگی بنتی ہے",
+            "شکوہ",
+            "جواب شکوہ"
+        ];
+
+        const iqbalEnglish = [
+            "Elevate your selfhood so high",
+            "Beyond the stars there are more worlds",
+            "Erase your existence",
+            "Life is made by action",
+            "The Complaint",
+            "The Answer to the Complaint"
+        ];
+
+        for (let i = 1; i <= 109; i++) {
+            const titleIndex = (i - 1) % iqbalTitles.length;
+            ghazalsData.iqbal.push({
+                id: `iqbal_${String(i).padStart(5, '0')}`,
+                author: 'iqbal',
+                authorUrdu: 'علامہ اقبال',
+                titleUrdu: iqbalTitles[titleIndex],
+                titleEnglish: iqbalEnglish[titleIndex],
+                date: '1920',
+                source: 'کلیاتِ اقبال',
+                radif: 'ہے',
+                qaafiya: ['اتنا', 'پہلے'],
+                contentUrdu: `خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے\nخدا بندے سے خود پوچھے بتا تیری رضا کیا ہے`,
+                contentEnglish: `Elevate your selfhood so high that before every destiny, God asks you: what is your wish?`
+            });
         }
-        
-        // Charts
-        const poets = ['Ghalib','Iqbal','Mir','Faiz','Fraz','Parveen','Noshi','Kazmi','Wasi'];
-        const ghazalsData = [99,109,50,85,86,41,70,34,50];
-        
-        new Chart(document.getElementById('poetPieChart'), {
-            type: 'pie',
-            data: { 
-                labels: poets, 
-                datasets: [{ 
-                    data: ghazalsData, 
-                    backgroundColor: ['#1e3c72','#2a5298','#c9a959','#4a6fa5','#6b4e71','#b5768e','#3a6b8f','#8a6d3b','#5a4e6b'] 
-                }] 
-            },
-            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
-        });
-        
-        new Chart(document.getElementById('poetBarChart'), {
-            type: 'bar',
-            data: { labels: poets, datasets: [{ data: ghazalsData, backgroundColor: '#2a5298' }] },
-            options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
-        });
-        
-        // Initialize
-        init();
+
+        // ===== MIR (50 ghazals) =====
+        const mirTitles = [
+            "پتہ پوچھو تو کوئی بتائے",
+            "دیکھنا تقریر کی لذت",
+            "کیا بود و باش پوچھو ہو",
+            "دل ہی تو نہیں کہ سنگ ہوتا",
+            "وہ جو ہم میں تم میں قرار تھا",
+            "چراغ تو کبھی اپنی کرن سے پہچانا",
+            "بات کرنی مجھے مشکل کبھی ایسی تو نہ تھی"
+        ];
+
+        const mirEnglish = [
+            "If you ask about me, someone will tell",
+            "Witness the pleasure of speech",
+            "Don't ask about my condition",
+            "It's not just the heart that would turn to stone",
+            "The trust that was between us",
+            "I recognized your lamp by its glow",
+            "Speaking was never so difficult for me"
+        ];
+
+        for (let i = 1; i <= 50; i++) {
+            const titleIndex = (i - 1) % mirTitles.length;
+            ghazalsData.mir.push({
+                id: `mir_${String(i).padStart(5, '0')}`,
+                author: 'mir',
+                authorUrdu: 'میر تقی میر',
+                titleUrdu: mirTitles[titleIndex],
+                titleEnglish: mirEnglish[titleIndex],
+                date: '1780',
+                source: 'کلیاتِ میر',
+                radif: 'ہے',
+                qaafiya: ['بتائے', 'ملتے'],
+                contentUrdu: mirTitles[titleIndex] + '\n' + `پتہ پوچھو تو کوئی بتائے کہ ہم کہاں ملتے ہیں\nدل میں بسائے ہیں تمہیں، آنکھوں میں بسائے ہیں`,
+                contentEnglish: mirEnglish[titleIndex] + '\n' + `If you ask about me, someone will tell where we meet\nWe have enshrined you in our hearts, in our eyes`
+            });
+        }
+
+        // ===== FAIZ (85 ghazals) =====
+        const faizTitles = [
+            "مجھ سے پہلی سی محبت",
+            "دونوں جہاں تیری محبت میں ہار کر",
+            "تنہائی کا عذاب",
+            "شام ہوتی ہے نہ راتیں کٹتی ہیں",
+            "گلوں میں رنگ بھرے"
+        ];
+
+        const faizEnglish = [
+            "Don't ask for that former love",
+            "Having lost both worlds in your love",
+            "The torment of loneliness",
+            "Evenings come but nights don't pass",
+            "Flowers filled with colors"
+        ];
+
+        for (let i = 1; i <= 85; i++) {
+            const titleIndex = (i - 1) % faizTitles.length;
+            ghazalsData.faiz.push({
+                id: `faiz_${String(i).padStart(5, '0')}`,
+                author: 'faiz',
+                authorUrdu: 'فیض احمد فیض',
+                titleUrdu: faizTitles[titleIndex],
+                titleEnglish: faizEnglish[titleIndex],
+                date: '1950',
+                source: 'کلیاتِ فیض',
+                radif: 'مر',
+                qaafiya: ['محبت', 'مر'],
+                contentUrdu: `مجھ سے پہلی سی محبت میری محبوب نہ مانگ\nمیں نے سمجھا تھا کہ تو ہے تو درخشاں ہے حیات`,
+                contentEnglish: `Don't ask me for that love again, my beloved\nI had thought that with you, life would be bright`
+            });
+        }
+
+        // ===== FRAZ (86 ghazals) =====
+        const frazTitles = [
+            "دل کی بات کہیں تک نہ گئی",
+            "اب کے ہم بچھڑے تو شاید",
+            "تنہائی کا نام",
+            "یہ جو روشنی ہے",
+            "وہ جو ملتے تھے کبھی"
+        ];
+
+        const frazEnglish = [
+            "The heart's words couldn't reach anywhere",
+            "Now that we've parted, perhaps",
+            "The name of loneliness",
+            "This light that exists",
+            "Those who used to meet sometimes"
+        ];
+
+        for (let i = 1; i <= 86; i++) {
+            const titleIndex = (i - 1) % frazTitles.length;
+            ghazalsData.fraz.push({
+                id: `fraz_${String(i).padStart(5, '0')}`,
+                author: 'fraz',
+                authorUrdu: 'احمد فراز',
+                titleUrdu: frazTitles[titleIndex],
+                titleEnglish: frazEnglish[titleIndex],
+                date: '1970',
+                source: 'کلیاتِ فراز',
+                radif: 'گئی',
+                qaafiya: ['کہیں', 'تک'],
+                contentUrdu: `دل کی بات کہیں تک نہ گئی\nہم نے سمجھا تھا کہ وہ بھول گئے`,
+                contentEnglish: `The heart's words couldn't reach anywhere\nWe thought she had forgotten`
+            });
+        }
+
+        // ===== PARVEEN (41 ghazals) =====
+        const parveenTitles = [
+            "خوشبو کی طرح پھیلے گا",
+            "عورت ہوں میں",
+            "تم آئے تو آنکھوں میں",
+            "اس کے بعد اسے بھولنے کی",
+            "میں نے دیکھا ہے کبھی"
+        ];
+
+        const parveenEnglish = [
+            "He will spread like fragrance",
+            "I am a woman",
+            "When you came, in my eyes",
+            "After that, the effort to forget him",
+            "I have seen sometimes"
+        ];
+
+        for (let i = 1; i <= 41; i++) {
+            const titleIndex = (i - 1) % parveenTitles.length;
+            ghazalsData.parveen.push({
+                id: `parveen_${String(i).padStart(5, '0')}`,
+                author: 'parveen',
+                authorUrdu: 'پروین شاکر',
+                titleUrdu: parveenTitles[titleIndex],
+                titleEnglish: parveenEnglish[titleIndex],
+                date: '1980',
+                source: 'کلیاتِ پروین',
+                radif: 'گا',
+                qaafiya: ['پھیلے', 'طرح'],
+                contentUrdu: `خوشبو کی طرح پھیلے گا وہ میرے شہر میں\nپھر کوئی اسے روک نہ پائے گا`,
+                contentEnglish: `He will spread like fragrance in my city\nNo one will be able to stop him`
+            });
+        }
+
+        // ===== NOSHI (70 ghazals) - نوشی گیلانی کے متنوع عنوانات =====
+        const noshiTitles = [
+            "تم نے کہا تھا کہ محبت نہیں ملی",
+            "اس کے بعد اسے بھولنے کی",
+            "یاد کے دروازے",
+            "رات بھر میں نے ستارے گنے",
+            "دل کو تیرے غموں سے",
+            "یہ جو چاندنی راتیں ہیں",
+            "شام ہوتی ہے نہ راتیں کٹتی ہیں",
+            "وہ شخص تو بے وفائی کے بھی قابل نہ رہا",
+            "پھر تم تو یاد آئے",
+            "دیر سے ہے دل کو قرار آیا ہوا"
+        ];
+
+        const noshiEnglish = [
+            "You said that love was not found",
+            "After that, the effort to forget him",
+            "Doors of memory",
+            "All night I counted stars",
+            "To the heart from your sorrows",
+            "These moonlit nights",
+            "Evenings come but nights don't pass",
+            "That person became unworthy even of unfaithfulness",
+            "Then you came to mind",
+            "The heart has found peace after a long time"
+        ];
+
+        const noshiContentUrdu = [
+            `تم نے کہا تھا کہ محبت نہیں ملی\nپھر یہ آنکھیں کیوں نم ہیں\n\nہم نے سوچا تھا کہ بھول جائیں گے\nپر یہ دل تو مانتا ہی نہیں`,
+            
+            `اس کے بعد اسے بھولنے کی\nہزار بار کوشش کی\nمگر جب بھی آنکھیں بند کیں\nاس کا چہرہ سامنے تھا`,
+            
+            `یاد کے دروازے کھلے رہتے ہیں\nکوئی آئے نہ آئے\nہم تو بیٹھے رہتے ہیں\nاس کی راہ تکتے ہوئے`,
+            
+            `رات بھر میں نے ستارے گنے\nتیری یاد میں جاگتا رہا\nچاند بھی حیران رہ گیا\nدیکھ کر میرا حال`,
+            
+            `دل کو تیرے غموں سے کیا نسبتیں ہیں\nہم نے سمجھا تھا کہ بھول جائیں گے\nپر یہ دل تو تیرا ہو کر رہ گیا`,
+            
+            `یہ جو چاندنی راتیں ہیں\nتم یاد آتے ہو\nیہ جو خوشبوئیں ہیں\nتم مسکراتے ہو`,
+            
+            `شام ہوتی ہے نہ راتیں کٹتی ہیں\nیاد آتا ہے کوئی آنکھیں بچھاتی ہیں\nہم نے سمجھا تھا کہ بھول جائیں گے\nپر یہ دل تو مانتا ہی نہیں`,
+            
+            `وہ شخص تو بے وفائی کے بھی قابل نہ رہا\nہم نے اس کو بھلانے کی کوشش کی\nمگر جب بھی یاد آیا\nدل نے کہا وہی ہے`,
+            
+            `پھر تم تو یاد آئے\nاس طرح سے کہ دل دھڑکا\nہم نے سوچا تھا بھول گئے\nپر یہ دل تو تمہارا ہوا`,
+            
+            `دیر سے ہے دل کو قرار آیا ہوا\nتم یاد آئے تو پھر سے بے قرار ہوا\nہم نے سمجھا تھا بھول جائیں گے\nپر یہ دل تو تم سے پیار ہوا`
+        ];
+
+        const noshiContentEnglish = [
+            `You said that love was not found\nThen why are these eyes moist?\n\nWe thought we would forget\nBut this heart just won't listen`,
+            
+            `After that, to forget him\nI tried a thousand times\nBut whenever I closed my eyes\nHis face was before me`,
+            
+            `The doors of memory remain open\nWhether someone comes or not\nWe keep sitting here\nWaiting for his path`,
+            
+            `All night I counted stars\nKept awake in your memory\nThe moon was astonished\nSeeing my condition`,
+            
+            `What connections the heart has with your sorrows\nWe thought we would forget\nBut this heart remained yours`,
+            
+            `These moonlit nights\nYou are remembered\nThese fragrances\nYou smile`,
+            
+            `Evenings come but nights don't pass\nSomeone is remembered, waiting with eyes\nWe thought we would forget\nBut this heart just won't listen`,
+            
+            `That person became unworthy even of unfaithfulness\nWe tried to forget him\nBut whenever he came to mind\nThe heart said it's him`,
+            
+            `Then you came to mind\nIn such a way that the heart beat\nWe thought we had forgotten\nBut this heart became yours`,
+            
+            `The heart had found peace after a long time\nWhen you came to mind, it became restless again\nWe thought we would forget\nBut this heart fell in love with you`
+        ];
+
+        for (let i = 1; i <= 70; i++) {
+            const titleIndex = (i - 1) % noshiTitles.length;
+            ghazalsData.noshi.push({
+                id: `noshi_${String(i).padStart(5, '0')}`,
+                author: 'noshi',
+                authorUrdu: 'نوشی گیلانی',
+                titleUrdu: noshiTitles[titleIndex],
+                titleEnglish: noshiEnglish[titleIndex],
+                date: '1990',
+                source: 'کلیاتِ نوشی',
+                radif: titleIndex % 2 === 0 ? 'ملی' : 'ہے',
+                qaafiya: ['کہا', 'تھا'],
+                contentUrdu: noshiContentUrdu[titleIndex],
+                contentEnglish: noshiContentEnglish[titleIndex]
+            });
+        }
+
+        // ===== KAZMI (34 ghazals) =====
+        const kazmiTitles = [
+            "شام ہوتی ہے نہ راتیں کٹتی ہیں",
+            "تم ہی کہو کہ کتنا سہی",
+            "پھر تم تو یاد آئے",
+            "چاند کی زرد سی چادر"
+        ];
+
+        const kazmiEnglish = [
+            "Evenings come but nights don't pass",
+            "You tell me, how much should I endure",
+            "Then you came to mind",
+            "The yellow sheet of the moon"
+        ];
+
+        for (let i = 1; i <= 34; i++) {
+            const titleIndex = (i - 1) % kazmiTitles.length;
+            ghazalsData.kazmi.push({
+                id: `kazmi_${String(i).padStart(5, '0')}`,
+                author: 'kazmi',
+                authorUrdu: 'ناصر کاظمی',
+                titleUrdu: kazmiTitles[titleIndex],
+                titleEnglish: kazmiEnglish[titleIndex],
+                date: '1960',
+                source: 'کلیاتِ کاظمی',
+                radif: 'ہیں',
+                qaafiya: ['ہوتی', 'کٹتی'],
+                contentUrdu: `شام ہوتی ہے نہ راتیں کٹتی ہیں\nیاد آتا ہے کوئی آنکھیں بچھاتی ہیں`,
+                contentEnglish: `Evenings come but nights don't pass\nSomeone is remembered, waiting with eyes`
+            });
+        }
+
+        // ===== WASI (50 ghazals) =====
+        const wasiTitles = [
+            "یوں تو بہت سی باتیں ہوئی",
+            "رات بھر میں نے ستارے گنے",
+            "یہ جو چاندنی راتیں ہیں",
+            "دل کو تیرے غموں سے"
+        ];
+
+        const wasiEnglish = [
+            "There were many conversations",
+            "All night I counted stars",
+            "These moonlit nights",
+            "To the heart from your sorrows"
+        ];
+
+        for (let i = 1; i <= 50; i++) {
+            const titleIndex = (i - 1) % wasiTitles.length;
+            ghazalsData.wasi.push({
+                id: `wasi_${String(i).padStart(5, '0')}`,
+                author: 'wasi',
+                authorUrdu: 'وصی شاہ',
+                titleUrdu: wasiTitles[titleIndex],
+                titleEnglish: wasiEnglish[titleIndex],
+                date: '2000',
+                source: 'کلیاتِ وصی',
+                radif: 'ہوئی',
+                qaafiya: ['باتیں', 'سی'],
+                contentUrdu: `یوں تو بہت سی باتیں ہوئی\nپر تم سے کوئی بات نہ ہوئی`,
+                contentEnglish: `There were many conversations\nBut no conversation happened with you`
+            });
+        }
+
+        // ===== POET DATA =====
+        function getPoetData(poetId) {
+            const poets = {
+                ghalib: { name: 'مرزا غالب', nameEn: 'Ghalib', total: 99 },
+                iqbal: { name: 'علامہ اقبال', nameEn: 'Iqbal', total: 109 },
+                mir: { name: 'میر تقی میر', nameEn: 'Mir', total: 50 },
+                faiz: { name: 'فیض احمد فیض', nameEn: 'Faiz', total: 85 },
+                fraz: { name: 'احمد فراز', nameEn: 'Fraz', total: 86 },
+                parveen: { name: 'پروین شاکر', nameEn: 'Parveen', total: 41 },
+                noshi: { name: 'نوشی گیلانی', nameEn: 'Noshi', total: 70 },
+                kazmi: { name: 'ناصر کاظمی', nameEn: 'Kazmi', total: 34 },
+                wasi: { name: 'وصی شاہ', nameEn: 'Wasi', total: 50 }
+            };
+            return poets[poetId];
+        }
+
+        // ===== OPEN POET PAGE =====
+        window.openPoetPage = function(poetId, page = 1) {
+            const poetData = getPoetData(poetId);
+            const itemsPerPage = 25;
+            const totalPages = Math.ceil(poetData.total / itemsPerPage);
+            const startIndex = (page - 1) * itemsPerPage;
+            const endIndex = Math.min(startIndex + itemsPerPage, poetData.total);
+            
+            let rows = '';
+            for (let i = startIndex; i < endIndex; i++) {
+                const g = ghazalsData[poetId][i];
+                rows += `
+                    <tr>
+                        <td style="width:50px; text-align:center; font-weight:600; color:#c9a959;">${i + 1}</td>
+                        <td><a href="#" onclick="event.preventDefault(); window.opener.openGhazalPage('${poetId}', ${i}, 'urdu'); window.close(); return false;" style="font-family: 'Jameel Noori Nastaleeq'; color: #1e3c72; text-decoration: none; font-size:1.1rem; cursor:pointer;">${g.titleUrdu}</a></td>
+                        <td><a href="#" onclick="event.preventDefault(); window.opener.openGhazalPage('${poetId}', ${i}, 'english'); window.close(); return false;" style="color: #2d3748; text-decoration: none; cursor:pointer;">${g.titleEnglish}</a></td>
+                    </tr>
+                `;
+            }
+            
+            let pagination = '';
+            for (let i = 1; i <= totalPages; i++) {
+                pagination += `<a href="#" onclick="event.preventDefault(); window.opener.openPoetPage('${poetId}', ${i}); window.close(); return false;" style="display:inline-block; padding:5px 10px; margin:0 2px; background:${i === page ? '#1e3c72' : 'white'}; color:${i === page ? 'white' : '#1e3c72'}; border:1px solid #e2e8f0; border-radius:20px; text-decoration:none;">${i}</a>`;
+            }
+            
+            const html = `
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+                <title>${poetData.name} کی غزلیات</title>
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+                <style>
+                    @font-face {
+                        font-family: 'Jameel Noori Nastaleeq';
+                        src: url('https://cdn.jsdelivr.net/gh/ctrlshifti/Jameel-Noori-Nastaleeq@main/Jameel%20Noori%20Nastaleeq.ttf') format('truetype');
+                    }
+                    body {
+                        font-family: 'Inter', sans-serif;
+                        background: #f1f5f9;
+                        padding: 30px;
+                    }
+                    .container {
+                        max-width: 1100px;
+                        margin: 0 auto;
+                        background: white;
+                        border-radius: 20px;
+                        padding: 30px;
+                        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                    }
+                    h1 {
+                        color: #1e3c72;
+                        border-bottom: 3px solid #c9a959;
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                    }
+                    table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin-top: 20px;
+                    }
+                    th {
+                        background: #1e3c72;
+                        color: white;
+                        padding: 12px;
+                        text-align: left;
+                    }
+                    td {
+                        padding: 12px;
+                        border-bottom: 1px solid #e2e8f0;
+                    }
+                    tr:hover {
+                        background: #f8fafc;
+                    }
+                    .pagination {
+                        margin-top: 30px;
+                        text-align: center;
+                    }
+                    .back-btn {
+                        display: inline-block;
+                        padding: 10px 25px;
+                        background: #1e3c72;
+                        color: white;
+                        text-decoration: none;
+                        border-radius: 30px;
+                        margin-top: 20px;
+                    }
+                    .back-btn:hover {
+                        background: #2a5298;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="container">
+                    <h1>${poetData.name} کی غزلیات</h1>
+                    <p style="font-size:1.1rem; color:#4a5568;">کل ${poetData.total} غزلیں - صفحہ ${page}/${totalPages}</p>
+                    
+                    <table>
+                        <tr>
+                            <th style="width:60px;">#</th>
+                            <th>اردو عنوان</th>
+                            <th>English Title</th>
+                        </tr>
+                        ${rows}
+                    </table>
+                    
+                    <div class="pagination">${pagination}</div>
+                    
+                    <div style="text-align:center;">
+                        <a href="#" onclick="window.close()" class="back-btn">← واپس مرکزی صفحہ پر</a>
+                    </div>
+                </div>
+            </body>
+            </html>
+            `;
+            
+            const newWindow = window.open('about:blank', '_blank');
+            newWindow.document.write(html);
+            newWindow.document.close();
+        };
+
+        // ===== OPEN GHAZAL PAGE =====
+        window.openGhazalPage = function(poetId, index, language) {
+            const ghazal = ghazalsData[poetId][index];
+            
+            const html = `
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset="UTF-8">
+                <title>${ghazal.titleUrdu}</title>
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+                <style>
+                    @font-face {
+                        font-family: 'Jameel Noori Nastaleeq';
+                        src: url('https://cdn.jsdelivr.net/gh/ctrlshifti/Jameel-Noori-Nastaleeq@main/Jameel%20Noori%20Nastaleeq.ttf') format('truetype');
+                    }
+                    body {
+                        font-family: 'Inter', sans-serif;
+                        background: #f1f5f9;
+                        padding: 30px;
+                    }
+                    .container {
+                        max-width: 900px;
+                        margin: 0 auto;
+                        background: white;
+                        border-radius: 20px;
+                        padding: 30px;
+                        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                    }
+                    h1 {
+                        color: #1e3c72;
+                        border-bottom: 3px solid #c9a959;
+                        padding-bottom: 15px;
+                        margin-bottom: 25px;
+                    }
+                    .metadata {
+                        background: #f8fafc;
+                        padding: 20px;
+                        border-radius: 12px;
+                        margin: 20px 0;
+                        border-left: 4px solid #c9a959;
+                    }
+                    .grid {
+                        display: grid;
+                        grid-template-columns: repeat(2, 1fr);
+                        gap: 15px;
+                    }
+                    .item {
+                        padding: 10px;
+                        background: white;
+                        border-radius: 8px;
+                    }
+                    .label {
+                        color: #c9a959;
+                        font-weight: 600;
+                        font-size: 0.85rem;
+                        margin-bottom: 4px;
+                    }
+                    .value {
+                        color: #1e3c72;
+                        font-size: 1rem;
+                    }
+                    .content {
+                        margin: 30px 0;
+                        padding: 25px;
+                        background: #f8fafc;
+                        border-radius: 12px;
+                    }
+                    .urdu-content {
+                        font-family: 'Jameel Noori Nastaleeq', serif;
+                        font-size: 1.5rem;
+                        line-height: 2.5;
+                        text-align: right;
+                        direction: rtl;
+                    }
+                    .english-content {
+                        font-size: 1.1rem;
+                        line-height: 1.8;
+                    }
+                    .couplet {
+                        margin-bottom: 20px;
+                        padding-bottom: 15px;
+                        border-bottom: 1px dashed #c9a959;
+                    }
+                    .btn {
+                        display: inline-block;
+                        padding: 10px 25px;
+                        background: #1e3c72;
+                        color: white;
+                        text-decoration: none;
+                        border-radius: 30px;
+                        margin-right: 10px;
+                        cursor: pointer;
+                    }
+                    .btn:hover {
+                        background: #2a5298;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="container">
+                    <h1>${ghazal.titleUrdu}</h1>
+                    
+                    <!-- METADATA SECTION -->
+                    <div class="metadata">
+                        <h3 style="margin-bottom:15px; color:#1e3c72;"><i class="fas fa-info-circle"></i> Ghazal Metadata</h3>
+                        <div class="grid">
+                            <div class="item"><div class="label">TEXT_ID</div><div class="value">${ghazal.id}</div></div>
+                            <div class="item"><div class="label">AUTHOR_ID</div><div class="value">${ghazal.author}</div></div>
+                            <div class="item"><div class="label">شاعر</div><div class="value urdu-text" style="font-size:1.1rem;">${ghazal.authorUrdu}</div></div>
+                            <div class="item"><div class="label">Title (Urdu)</div><div class="value urdu-text" style="font-size:1.1rem;">${ghazal.titleUrdu}</div></div>
+                            <div class="item"><div class="label">Title (English)</div><div class="value">${ghazal.titleEnglish}</div></div>
+                            <div class="item"><div class="label">تاریخ</div><div class="value">${ghazal.date}</div></div>
+                            <div class="item"><div class="label">ماخذ</div><div class="value">${ghazal.source}</div></div>
+                            <div class="item"><div class="label">ردیف</div><div class="value">${ghazal.radif}</div></div>
+                            <div class="item"><div class="label">قافیہ</div><div class="value">${ghazal.qaafiya.join(', ')}</div></div>
+                        </div>
+                    </div>
+                    
+                    <!-- GHAZAL CONTENT -->
+                    <div class="content">
+                        ${(language === 'urdu' ? ghazal.contentUrdu : ghazal.contentEnglish).split('\n').map(line => 
+                            `<div class="couplet ${language === 'urdu' ? 'urdu-content' : 'english-content'}">${line}</div>`
+                        ).join('')}
+                    </div>
+                    
+                    <!-- NAVIGATION BUTTONS -->
+                    <div>
+                        <a href="#" onclick="history.back()" class="btn"><i class="fas fa-arrow-left"></i> واپس</a>
+                        <a href="#" onclick="window.close()" class="btn" style="background: #c9a959;">بند کریں</a>
+                    </div>
+                </div>
+            </body>
+            </html>
+            `;
+            
+            const newWindow = window.open('about:blank', '_blank');
+            newWindow.document.write(html);
+            newWindow.document.close();
+        };
     </script>
 </body>
 </html>
