@@ -1,0 +1,3421 @@
+[
+  {
+    "TEXT_ID": "iqbal_00001",
+    "TOKEN_COUNTS": {
+      "total_tokens": 152,
+      "unique_tokens": 92,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.605,
+    "RADIF": "چاہتا ہوں",
+    "QAAFIYA": [
+      "انتہا",
+      "کیا",
+      "بےحجابی",
+      "صبرآزما",
+      "زاہدوں",
+      "سامنا",
+      "اتنا",
+      "سنا",
+      "محفل",
+      "بجھا",
+      "دی",
+      "سزا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چاہتا ہوں' consistently appears. Qaafiya follows الف and ا endings. Famous ghazal seeking the limit of divine love."
+  },
+  {
+    "TEXT_ID": "iqbal_00002",
+    "TOKEN_COUNTS": {
+      "total_tokens": 325,
+      "unique_tokens": 178,
+      "lines": 24,
+      "couplets": 12
+    },
+    "TTR": 0.547,
+    "RADIF": "چھوڑ دے",
+    "QAAFIYA": [
+      "صحرا",
+      "لیلیٰ",
+      "عقبیٰ",
+      "خودکشی",
+      "خضر",
+      "بےجا",
+      "تڑپنا",
+      "چھوڑ",
+      "کلیسا",
+      "تمنا",
+      "تنہا",
+      "بھروسا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_renunciation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA",
+      "HA",
+      "IA",
+      "JA",
+      "KA",
+      "LA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چھوڑ دے'. Long philosophical ghazal on complete renunciation. When Majnun left city, leave desert too."
+  },
+  {
+    "TEXT_ID": "iqbal_00003",
+    "TOKEN_COUNTS": {
+      "total_tokens": 142,
+      "unique_tokens": 86,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.605,
+    "RADIF": "کر",
+    "QAAFIYA": [
+      "تابدار",
+      "خمار",
+      "آشنا",
+      "شرمسار",
+      "نشیں",
+      "شعار",
+      "ثبوت",
+      "آشکار",
+      "بےکلی",
+      "خار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "devotional_passion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کر'. Make radiant tresses more radiant. Beauty is flame-scattering."
+  },
+  {
+    "TEXT_ID": "iqbal_00004",
+    "TOKEN_COUNTS": {
+      "total_tokens": 158,
+      "unique_tokens": 94,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.594,
+    "RADIF": "میں",
+    "QAAFIYA": [
+      "نظر",
+      "نیاز",
+      "خریدار",
+      "نیاز",
+      "جستجو",
+      "ناز",
+      "بےنوا",
+      "پرواز",
+      "تگ و تاز",
+      "تاز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "mystical_anticipation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'میں'. O awaited reality, appear in garb of metaphor. Famous opening couplet."
+  },
+  {
+    "TEXT_ID": "iqbal_00005",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "پیدا کر",
+    "QAAFIYA": [
+      "نکل",
+      "آسماں",
+      "بادباں",
+      "رواں",
+      "کلیم",
+      "آسماں",
+      "رواں",
+      "نکل",
+      "آسماں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_assertive",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'پیدا کر'. Come out of arena, create earth or sky. Self-assertion theme."
+  },
+  {
+    "TEXT_ID": "iqbal_00006",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 78,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.639,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "رنگ",
+      "سنگ",
+      "گہر",
+      "رنگ",
+      "ہوائیں",
+      "بیم",
+      "نجات",
+      "تری"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "philosophical_wisdom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Desert ruby not mere color, essence is stone. Pain is essence of humanity."
+  },
+  {
+    "TEXT_ID": "iqbal_00007",
+    "TOKEN_COUNTS": {
+      "total_tokens": 145,
+      "unique_tokens": 88,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.606,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نام",
+      "نقاب",
+      "رکھتی",
+      "رکھتی",
+      "کنار",
+      "خبر",
+      "ہوتی",
+      "ملتی",
+      "والو",
+      "خیال"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_vs_intellect",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Do not think intellect and heart are merely names. Love is essence, intellect its veil."
+  },
+  {
+    "TEXT_ID": "iqbal_00008",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 78,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.639,
+    "RADIF": "نے",
+    "QAAFIYA": [
+      "مغرب",
+      "سیرابی",
+      "ہونے",
+      "اعرابی",
+      "برگستواں",
+      "جگرتابی",
+      "مسلمانی",
+      "فراوانی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "revivalist",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نے'. Storm of West made Muslim into Muslim. Turbulence of sea gives pearl lustre."
+  },
+  {
+    "TEXT_ID": "iqbal_00009",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.608,
+    "RADIF": "رکھتی ہے",
+    "QAAFIYA": [
+      "اثر",
+      "رکھتی",
+      "جنوں",
+      "رکھتی",
+      "لیے",
+      "رکھتی",
+      "بات",
+      "رکھتی",
+      "حبیب",
+      "رکھتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "heart_vs_mind",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'رکھتی ہے'. Whatever emerges from heart has effect, though lacks power of flight."
+  },
+  {
+    "TEXT_ID": "iqbal_00010",
+    "TOKEN_COUNTS": {
+      "total_tokens": 142,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.591,
+    "RADIF": "تھا",
+    "QAAFIYA": [
+      "اس",
+      "تھا",
+      "حرم",
+      "تھا",
+      "بندہ",
+      "تھا",
+      "ہیں",
+      "تھا",
+      "ضرورت",
+      "تھا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "youthful_awakening",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھا'. O young Muslim, did he ever contemplate? Famous poem on Muslim identity."
+  },
+  {
+    "TEXT_ID": "iqbal_00011",
+    "TOKEN_COUNTS": {
+      "total_tokens": 132,
+      "unique_tokens": 80,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.606,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "شک",
+      "ہو",
+      "ہونا",
+      "ہو",
+      "ہیں",
+      "ہو",
+      "ہوتا",
+      "ہو",
+      "نہیں",
+      "ہو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_reality",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. Love is a reality, no doubt. That is not love which is merely a tale."
+  },
+  {
+    "TEXT_ID": "iqbal_00012",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 76,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.622,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "جہنم",
+      "ناری",
+      "مغرب",
+      "سیرابی",
+      "ہونے",
+      "اعرابی",
+      "برگستواں",
+      "جگرتابی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "action_philosophy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. From action, life is made—both heaven and hell. Earthly being neither light nor fire."
+  },
+  {
+    "TEXT_ID": "iqbal_00013",
+    "TOKEN_COUNTS": {
+      "total_tokens": 152,
+      "unique_tokens": 88,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.578,
+    "RADIF": "جا",
+    "QAAFIYA": [
+      "خوں",
+      "افغانی",
+      "کب",
+      "قہستانی",
+      "کا",
+      "رہبانی",
+      "کس",
+      "سلمانی",
+      "کس",
+      "زندانی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "unity_call",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'جا'. Break idols of color and blood, become lost in nation. Let no Turanian, Iranian, Afghan remain."
+  },
+  {
+    "TEXT_ID": "iqbal_00014",
+    "TOKEN_COUNTS": {
+      "total_tokens": 145,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.579,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "دنیا",
+      "تورانی",
+      "پیدا",
+      "پیدا",
+      "شمشیریں",
+      "زنجیریں",
+      "بازو",
+      "تقدیریں",
+      "جہاںگیری",
+      "تفسیریں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "faith_power",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Stability of life through firm faith. Turanian more lasting than German."
+  },
+  {
+    "TEXT_ID": "iqbal_00015",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 76,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.622,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہوتی",
+      "تصویریں",
+      "ہے",
+      "تعزیریں",
+      "ہو",
+      "چیریں",
+      "عالم",
+      "شمشیریں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "visionary_wisdom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Vision of Abraham born with difficulty. Desire hides in hearts creating images."
+  },
+  {
+    "TEXT_ID": "iqbal_00016",
+    "TOKEN_COUNTS": {
+      "total_tokens": 148,
+      "unique_tokens": 86,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.581,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "تَنْک تابی",
+      "گراں خوابی",
+      "دوڑا",
+      "فارابی",
+      "ہے",
+      "کم یابی",
+      "میں",
+      "سیمابی",
+      "دیکھے",
+      "جگرتابی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "awakening_dawn",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Proof of bright dawn is faint light of stars. Sun risen, age of heavy sleep gone."
+  },
+  {
+    "TEXT_ID": "iqbal_00017",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 82,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.594,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "چرچا",
+      "صدا",
+      "اب",
+      "ہوا",
+      "تھے",
+      "ہوا",
+      "مسلماں",
+      "فضا",
+      "صاحب",
+      "جائے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "lament_for_era",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. This new age is heartless, talk of love. Neither bulbul knows, nor bud has song."
+  },
+  {
+    "TEXT_ID": "iqbal_00018",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 84,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.608,
+    "RADIF": "چھوڑے",
+    "QAAFIYA": [
+      "بہار",
+      "خمار",
+      "لئے",
+      "چھوڑے",
+      "ہے",
+      "چھوڑے",
+      "کہاں",
+      "نمی",
+      "پرواز",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چھوڑے'. Tell Persia to abandon spring. Leave us with our tulip and rose intoxication."
+  },
+  {
+    "TEXT_ID": "iqbal_00019",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 74,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.592,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "کنار",
+      "خبر",
+      "سکا",
+      "سکا",
+      "ہو",
+      "سمائیں",
+      "ویراں",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_ocean",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. Love is limitless ocean with no shore. Intellect is captain unaware of this ocean."
+  },
+  {
+    "TEXT_ID": "iqbal_00042",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 80,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.592,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "دیوار",
+      "زنار",
+      "کی",
+      "مقدر",
+      "پہچان",
+      "خیال",
+      "نور",
+      "بن",
+      "والو",
+      "خیال"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "gaze_power",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. Gaze of longing excavated wall of sanctuary. Muslim's gaze changes destinies."
+  },
+  {
+    "TEXT_ID": "iqbal_00043",
+    "TOKEN_COUNTS": {
+      "total_tokens": 132,
+      "unique_tokens": 78,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.59,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نو",
+      "نگر",
+      "پرورش",
+      "سفر",
+      "آرزو",
+      "خطر",
+      "بازی",
+      "ڈر",
+      "کائنات",
+      "جہاں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "selfhood_philosophy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. New dawn gave message: self-observant man should never flee. Life is self-nurturing."
+  },
+  {
+    "TEXT_ID": "iqbal_00044",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 82,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.594,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "فریاد",
+      "آباد",
+      "عزیز",
+      "ناشاد",
+      "سے",
+      "فرہاد",
+      "است",
+      "است",
+      "شان",
+      "امانت"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "stranger_lament",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. I am stranger in city, listen to my cry. In your breast too, wonders reside."
+  },
+  {
+    "TEXT_ID": "iqbal_00045",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 76,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.622,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "فراموشی",
+      "زرہ پوشی",
+      "قلندر",
+      "دل فروشی",
+      "بندہ",
+      "خوشی",
+      "شاعر",
+      "قلندر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Self-awareness taught self-forgetfulness. He who knows art of independence is dervish."
+  },
+  {
+    "TEXT_ID": "iqbal_00046",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 78,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.609,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "بیاں",
+      "لالہ",
+      "کا",
+      "ہمالہ",
+      "کا",
+      "دو شالہ",
+      "وفا",
+      "غزالہ",
+      "سن",
+      "ماننا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "nature_wisdom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. O region of flowers, no need for explanation. Image on heart is tulip of blood."
+  },
+  {
+    "TEXT_ID": "iqbal_00047",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 80,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.625,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "تاجرانہ",
+      "راہبانہ",
+      "زمانہ",
+      "محرمانہ",
+      "ساحرانہ",
+      "خانقاہی",
+      "آستانہ",
+      "آشکارا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "east_west",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. West's conscience mercantile, East's monastic. There changes moment by moment, here time does not change."
+  },
+  {
+    "TEXT_ID": "iqbal_00048",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 70,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.625,
+    "RADIF": "آور",
+    "QAAFIYA": [
+      "آور",
+      "آور",
+      "زندگانی",
+      "جاودانی",
+      "پامال",
+      "خیال",
+      "کارواں",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "resolve_call",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'آور'. Bring that high resolve, bring that passion of liver. If you seek father's sword, bring father's arm."
+  },
+  {
+    "TEXT_ID": "iqbal_00049",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہے",
+      "بو",
+      "بو",
+      "نایاب",
+      "گِل"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_attribution",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. He created essence of humanity, gave knowledge of whole world. By His glory world is inhabited."
+  },
+  {
+    "TEXT_ID": "iqbal_00050",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.59,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "آشیانہ",
+      "پہچان",
+      "نظر",
+      "کلیسا",
+      "آتی",
+      "جاتی",
+      "زندہ",
+      "روشن",
+      "نہاں",
+      "سلطاں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "universal_self",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. He is moving bird whose nest is neither East nor West. Man of God sees no Kaaba, no temple."
+  },
+  {
+    "TEXT_ID": "iqbal_00051",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "رشتہ",
+      "نہیں",
+      "پہنچائے",
+      "لائے",
+      "محمد",
+      "محمد",
+      "جہاں",
+      "جہاں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_unity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. No bond except love. Love of Muhammad is recognition of selfhood."
+  },
+  {
+    "TEXT_ID": "iqbal_00052",
+    "TOKEN_COUNTS": {
+      "total_tokens": 85,
+      "unique_tokens": 54,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.635,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ہو",
+      "سمائیں",
+      "چاہیے",
+      "آتی",
+      "ہمیں",
+      "محمد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "purpose_life",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Desire in heart to be of use. Life needs purpose."
+  },
+  {
+    "TEXT_ID": "iqbal_00053",
+    "TOKEN_COUNTS": {
+      "total_tokens": 88,
+      "unique_tokens": 54,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.613,
+    "RADIF": "قائم",
+    "QAAFIYA": [
+      "ازل",
+      "قائم",
+      "محمد",
+      "محمد",
+      "مسلماں",
+      "جہاں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "eternal_love",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'قائم'. Bond of love established from eternity, will never break."
+  },
+  {
+    "TEXT_ID": "iqbal_00054",
+    "TOKEN_COUNTS": {
+      "total_tokens": 92,
+      "unique_tokens": 56,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.608,
+    "RADIF": "سے",
+    "QAAFIYA": [
+      "ویراں",
+      "ہے",
+      "بازیابی",
+      "طلب",
+      "پہچان",
+      "محمد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hopeful_cultivation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'سے'. Iqbal not hopeless of desolate cultivation. Soil fertile with moisture."
+  },
+  {
+    "TEXT_ID": "iqbal_00056",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.611,
+    "RADIF": "",
+    "QAAFIYA": [
+      "ضرورت",
+      "تھا",
+      "کی",
+      "مقدر",
+      "پہچان",
+      "خیال",
+      "نور",
+      "بن"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "sovereign_art",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. Sovereign in world who needs art. Muslim's gaze changes destinies."
+  },
+  {
+    "TEXT_ID": "iqbal_00058",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 70,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.593,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نہیں",
+      "ہو",
+      "والو",
+      "ہیں",
+      "پرورش",
+      "سفر",
+      "آرزو",
+      "خطر",
+      "بازی",
+      "ڈر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "knowledge_action",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Knowledge plentiful but lifeless. Knowledge with action flows."
+  },
+  {
+    "TEXT_ID": "iqbal_00059",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.591,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "بازی",
+      "ڈر",
+      "کائنات",
+      "جہاں",
+      "فریاد",
+      "آباد",
+      "عزیز",
+      "ناشاد"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_stake",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Love where life is staked, no fear for life. Selfhood secret of universe."
+  },
+  {
+    "TEXT_ID": "iqbal_00060",
+    "TOKEN_COUNTS": {
+      "total_tokens": 85,
+      "unique_tokens": 54,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.635,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "سے",
+      "فرہاد",
+      "است",
+      "است",
+      "شان",
+      "امانت"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "complaint_ignorance",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Complaint of age's blind taste. My labor thought to be Farhad's."
+  },
+  {
+    "TEXT_ID": "iqbal_00061",
+    "TOKEN_COUNTS": {
+      "total_tokens": 68,
+      "unique_tokens": 44,
+      "lines": 4,
+      "couplets": 2
+    },
+    "TTR": 0.647,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "بندہ",
+      "خوشی",
+      "شاعر",
+      "قلندر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "true_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Muslim man is God's servant, needs none other. Age thinks Iqbal poet, not dervish."
+  },
+  {
+    "TEXT_ID": "iqbal_00062",
+    "TOKEN_COUNTS": {
+      "total_tokens": 58,
+      "unique_tokens": 38,
+      "lines": 4,
+      "couplets": 2
+    },
+    "TTR": 0.655,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "وفا",
+      "غزالہ",
+      "فریاد",
+      "ماننا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "worldly_fidelity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. Do not hope for fidelity from world's wealth. Muslim identity is acknowledging Allah."
+  },
+  {
+    "TEXT_ID": "iqbal_00063",
+    "TOKEN_COUNTS": {
+      "total_tokens": 38,
+      "unique_tokens": 28,
+      "lines": 2,
+      "couplets": 1
+    },
+    "TTR": 0.736,
+    "RADIF": "آشکارا",
+    "QAAFIYA": [
+      "عرفاں",
+      "خانہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "enslaved_wisdom",
+    "RHYME_PATTERNS": [
+      "AA"
+    ],
+    "ANNOTATION_NOTES": "Single couplet with radif 'آشکارا'. Secret of enslaved nations: earth can break house's confinement."
+  },
+  {
+    "TEXT_ID": "iqbal_00064",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.576,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "کارواں",
+      "ہیں",
+      "ہے",
+      "ہے",
+      "ہے",
+      "ہے",
+      "بو",
+      "بو",
+      "نایاب",
+      "گِل"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "iqbal_call",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Iqbal's call: destination far, paths remain. He created essence of humanity."
+  },
+  {
+    "TEXT_ID": "iqbal_00100",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "زیبائش",
+      "سوا",
+      "ہے",
+      "سوا",
+      "زندگانی",
+      "جاودانی",
+      "پامال",
+      "خیال",
+      "کارواں",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_manifestation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. From Your radiance world gains prosperity. There is none but You."
+  },
+  {
+    "TEXT_ID": "iqbal_00101",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "کتاب",
+      "حجاب",
+      "مرنا",
+      "کا",
+      "نکلے",
+      "کم",
+      "نایاب",
+      "گِل"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "beloved_presence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. In presence of Beloved, book of conversation opened. No difference between living and dying in love."
+  },
+  {
+    "TEXT_ID": "iqbal_00102",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نقاب",
+      "رکھتی",
+      "کنار",
+      "خبر",
+      "ہوتی",
+      "ملتی",
+      "والو",
+      "خیال"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "love_essence",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Love is essence of life, intellect its veil. People of certainty attain success."
+  },
+  {
+    "TEXT_ID": "iqbal_00103",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.626,
+    "RADIF": "",
+    "QAAFIYA": [
+      "مہ",
+      "دو",
+      "کیا",
+      "پرتو",
+      "بھی",
+      "پیرو",
+      "لالۂ",
+      "جو",
+      "باقی",
+      "خسرو"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "moon_journey",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "No consistent radif. New moon passed beyond every station. Who attained perfection without struggle?"
+  },
+  {
+    "TEXT_ID": "iqbal_00110",
+    "TOKEN_COUNTS": {
+      "total_tokens": 102,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.627,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "کی",
+      "پہچانا",
+      "ہی",
+      "انتظار",
+      "ہو",
+      "ہو",
+      "لگن",
+      "تیرا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "self_protection",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. He exists who protected selfhood. Stages of love are something else."
+  },
+  {
+    "TEXT_ID": "iqbal_00112",
+    "TOKEN_COUNTS": {
+      "total_tokens": 132,
+      "unique_tokens": 80,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.606,
+    "RADIF": "تھی",
+    "QAAFIYA": [
+      "قدیم",
+      "شمیم",
+      "عمیم",
+      "نسیم",
+      "پریشانی",
+      "دیوانی",
+      "منظر",
+      "شجر",
+      "نظر",
+      "کیونکر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "eternal_being",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھی'. Your ancient being existed from eternity. Flower adorned garden, fragrance not scattered."
+  },
+  {
+    "TEXT_ID": "iqbal_00113",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 78,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.609,
+    "RADIF": "بھی",
+    "QAAFIYA": [
+      "ترا",
+      "ترا",
+      "تورانی",
+      "ساسانی",
+      "یونانی",
+      "نصرانی",
+      "کس",
+      "کس",
+      "میں",
+      "دریاؤں",
+      "میں",
+      "صحراؤں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'بھی'. Someone used to take Your name. Here dwelt Seljuqs and Turanians too."
+  },
+  {
+    "TEXT_ID": "iqbal_00114",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 80,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.592,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "میں",
+      "دریاؤں",
+      "میں",
+      "صحراؤں",
+      "کی",
+      "کی",
+      "لیے",
+      "لیے",
+      "لیے",
+      "لیے",
+      "مرتی",
+      "کرتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_sacrifice",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. We were among those in Your battlefields. Died for Your name's greatness."
+  },
+  {
+    "TEXT_ID": "iqbal_00115",
+    "TOKEN_COUNTS": {
+      "total_tokens": 145,
+      "unique_tokens": 84,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.579,
+    "RADIF": "کس نے",
+    "QAAFIYA": [
+      "پیکر",
+      "لشکر",
+      "ایراں",
+      "یزداں",
+      "گار",
+      "پیکار",
+      "دار",
+      "ہوئی",
+      "تھے",
+      "تھے",
+      "نماز",
+      "حجاز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_glory",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'کس نے'. Who broke idols? Who cooled fire-temple of Iran?"
+  },
+  {
+    "TEXT_ID": "iqbal_00116",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 74,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.592,
+    "RADIF": "ہوئے",
+    "QAAFIYA": [
+      "ایاز",
+      "نواز",
+      "ہوئے",
+      "ہوئے",
+      "پھرے",
+      "پھرے",
+      "پھرے",
+      "پھرے",
+      "ہم",
+      "ہم"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "unity_equality",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوئے'. In one row stood Mahmud and Ayaz. No master remained, no servant remained."
+  },
+  {
+    "TEXT_ID": "iqbal_00117",
+    "TOKEN_COUNTS": {
+      "total_tokens": 88,
+      "unique_tokens": 56,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.636,
+    "RADIF": "ہم نے",
+    "QAAFIYA": [
+      "باطل",
+      "چھڑایا",
+      "جبیں",
+      "لگایا",
+      "گلہ",
+      "دلدار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_service",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'ہم نے'. We erased falsehood from page of time. Yet You complain we are not loyal."
+  },
+  {
+    "TEXT_ID": "iqbal_00118",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "ہیں",
+    "QAAFIYA": [
+      "ہیں",
+      "ہیں",
+      "پر",
+      "پر",
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_plight",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہیں'. Among them lazy, heedless, vigilant. Lightning falls on poor Muslims."
+  },
+  {
+    "TEXT_ID": "iqbal_00119",
+    "TOKEN_COUNTS": {
+      "total_tokens": 102,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.627,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "معمور",
+      "شعور",
+      "قصور",
+      "حور",
+      "عنایات",
+      "مدارات",
+      "نایاب",
+      "حساب"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_justice",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. No complaint their treasures full. Infidel gets houris, Muslim only promise."
+  },
+  {
+    "TEXT_ID": "iqbal_00120",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.612,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ناداری",
+      "خواری",
+      "دنیا",
+      "دنیا",
+      "دنیا",
+      "دنیا",
+      "رہے",
+      "رہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "sacrificial_lament",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Taunt of rivals, disgrace, poverty. We live that Your name remains."
+  },
+  {
+    "TEXT_ID": "iqbal_00121",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 76,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.593,
+    "RADIF": "گئے",
+    "QAAFIYA": [
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "لے",
+      "لے",
+      "وہی",
+      "وہی",
+      "وہی",
+      "وہی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "loss_lament",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'گئے'. Your assembly gone, lovers gone. Night's sighs gone, morning's laments gone."
+  },
+  {
+    "TEXT_ID": "iqbal_00122",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.612,
+    "RADIF": "وہی",
+    "QAAFIYA": [
+      "وہی",
+      "وہی",
+      "معنی",
+      "معنی",
+      "چھوڑا",
+      "چھوڑا",
+      "چھوڑا",
+      "چھوڑا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "eternal_constancy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'وہی'. Love's heart the same, beauty's magic the same. Community of Ahmad the same, You the same."
+  },
+  {
+    "TEXT_ID": "iqbal_00123",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.632,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "رکھتے",
+      "رکھتے",
+      "سہی",
+      "سہی",
+      "سہی",
+      "سہی",
+      "ہے",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hidden_passion",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. We keep fire of Allahu Akbar hidden. Love's former style no more."
+  },
+  {
+    "TEXT_ID": "iqbal_00124",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "تو نے",
+    "QAAFIYA": [
+      "کامل",
+      "دل",
+      "حاصل",
+      "محفل",
+      "نہیں",
+      "نہیں",
+      "نہ",
+      "نہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_perfection",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'تو نے'. On Mount Faran, You perfected religion. With one gesture, won thousands of hearts."
+  },
+  {
+    "TEXT_ID": "iqbal_00125",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "نہ رہا",
+    "QAAFIYA": [
+      "نہ",
+      "نہ",
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے",
+      "دے",
+      "دے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "desolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'نہ رہا'. Those aspirations no more, we no more, heart no more. House ruined."
+  },
+  {
+    "TEXT_ID": "iqbal_00126",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.61,
+    "RADIF": "کر دے",
+    "QAAFIYA": [
+      "حجاز",
+      "پرواز",
+      "نیاز",
+      "ساز",
+      "لیے",
+      "لیے",
+      "آساں",
+      "کر",
+      "ارزاں",
+      "کر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hope_revival",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کر دے'. Wandering nation turns to Hejaz. Make rare commodity of love abundant."
+  },
+  {
+    "TEXT_ID": "iqbal_00127",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.631,
+    "RADIF": "چمن",
+    "QAAFIYA": [
+      "ارزاں",
+      "مسلماں",
+      "ما",
+      "ما",
+      "چمن",
+      "چمن",
+      "چمن",
+      "چمن"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "garden_secrets",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چمن'. Make love abundant, temple-dwellers into Muslims. Flowers are informers of garden."
+  },
+  {
+    "TEXT_ID": "iqbal_00128",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.611,
+    "RADIF": "اب تک",
+    "QAAFIYA": [
+      "ترنم",
+      "تلاطم",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں",
+      "اس",
+      "اس"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "solitary_song",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'اب تک'. One nightingale remains absorbed in song. Its breast has turbulence of melodies."
+  },
+  {
+    "TEXT_ID": "iqbal_00129",
+    "TOKEN_COUNTS": {
+      "total_tokens": 85,
+      "unique_tokens": 56,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.658,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "باقی",
+      "پینے",
+      "آئینے",
+      "سینے",
+      "نہیں",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "death_pleasure",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Pleasure in dying, not living. Essences restless in mirror."
+  },
+  {
+    "TEXT_ID": "iqbal_00130",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 78,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.609,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "مری",
+      "مری",
+      "رہوں",
+      "رہوں",
+      "رہوں",
+      "رہوں",
+      "مجھ",
+      "مجھ",
+      "ہیں",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "cultural_pride",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. If vessel Persian, my wine Hejazi. My power of speech taught audacity."
+  },
+  {
+    "TEXT_ID": "iqbal_00131",
+    "TOKEN_COUNTS": {
+      "total_tokens": 122,
+      "unique_tokens": 74,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.606,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہم",
+      "ہم",
+      "سن",
+      "سن",
+      "قدیم",
+      "شمیم",
+      "عمیم",
+      "نسیم",
+      "تھی",
+      "تھی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_complaint",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Instruments silent, we filled with lament. Listen to complaint of faithful."
+  },
+  {
+    "TEXT_ID": "iqbal_00132",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.628,
+    "RADIF": "تھی",
+    "QAAFIYA": [
+      "پریشانی",
+      "دیوانی",
+      "منظر",
+      "شجر",
+      "نظر",
+      "کیونکر",
+      "ترا",
+      "ترا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "pre_islamic",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھی'. We had restlessness of heart. Before us, stones worshipped, trees adored."
+  },
+  {
+    "TEXT_ID": "iqbal_00133",
+    "TOKEN_COUNTS": {
+      "total_tokens": 128,
+      "unique_tokens": 78,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.609,
+    "RADIF": "بھی",
+    "QAAFIYA": [
+      "تورانی",
+      "ساسانی",
+      "یونانی",
+      "نصرانی",
+      "کس",
+      "کس",
+      "میں",
+      "دریاؤں",
+      "میں",
+      "صحراؤں",
+      "کی",
+      "کی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00113. Radif 'بھی'. Someone used to take Your name."
+  },
+  {
+    "TEXT_ID": "iqbal_00134",
+    "TOKEN_COUNTS": {
+      "total_tokens": 135,
+      "unique_tokens": 80,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.592,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "میں",
+      "دریاؤں",
+      "میں",
+      "صحراؤں",
+      "کی",
+      "کی",
+      "لیے",
+      "لیے",
+      "لیے",
+      "لیے",
+      "مرتی",
+      "کرتی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_sacrifice",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00114. Radif 'تھے'. We were among those in Your battlefields."
+  },
+  {
+    "TEXT_ID": "iqbal_00135",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 70,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.608,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "مرتی",
+      "کرتی",
+      "تھے",
+      "تھے",
+      "تھے",
+      "تھے",
+      "ہم",
+      "ہم",
+      "کس",
+      "کس"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_valor",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. Our nation died for world's wealth. In battle, we would fly."
+  },
+  {
+    "TEXT_ID": "iqbal_00136",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 70,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.608,
+    "RADIF": "کس نے",
+    "QAAFIYA": [
+      "خبیر",
+      "سر",
+      "پیکر",
+      "لشکر",
+      "ایراں",
+      "یزداں",
+      "گار",
+      "پیکار"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_glory",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00115. Compound radif 'کس نے'. Who uprooted door of Khaybar?"
+  },
+  {
+    "TEXT_ID": "iqbal_00137",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "ہوئی",
+    "QAAFIYA": [
+      "دار",
+      "ہوئی",
+      "تھے",
+      "تھے",
+      "نماز",
+      "حجاز",
+      "ایاز",
+      "نواز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_awakening",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوئی'. Whose sword world-conquering became world-ruling? By whose cry did Your world awaken?"
+  },
+  {
+    "TEXT_ID": "iqbal_00138",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 74,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.592,
+    "RADIF": "ہوئے",
+    "QAAFIYA": [
+      "ایاز",
+      "نواز",
+      "ہوئے",
+      "ہوئے",
+      "پھرے",
+      "پھرے",
+      "پھرے",
+      "پھرے",
+      "ہم",
+      "ہم"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "unity_equality",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00116. Radif 'ہوئے'. In one row stood Mahmud and Ayaz."
+  },
+  {
+    "TEXT_ID": "iqbal_00141",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "نہیں",
+      "نہیں",
+      "معمور",
+      "شعور",
+      "قصور",
+      "حور",
+      "عنایات",
+      "مدارات",
+      "نایاب",
+      "حساب"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_justice",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00119. Radif 'نہیں'. Disbelief laughs, do you feel?"
+  },
+  {
+    "TEXT_ID": "iqbal_00142",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 74,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.592,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "نایاب",
+      "حساب",
+      "حباب",
+      "سراب",
+      "ناداری",
+      "خواری",
+      "دنیا",
+      "دنیا",
+      "دنیا",
+      "رہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_power",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Why wealth rare among Muslims? Your power has no limit."
+  },
+  {
+    "TEXT_ID": "iqbal_00143",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "گئے",
+    "QAAFIYA": [
+      "دنیا",
+      "دنیا",
+      "رہے",
+      "رہے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "departure_lament",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00121. Radif 'گئے'. We departed, others took over world. Your assembly gone."
+  },
+  {
+    "TEXT_ID": "iqbal_00144",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.612,
+    "RADIF": "لے کر",
+    "QAAFIYA": [
+      "فردا",
+      "لے",
+      "وہی",
+      "وہی",
+      "وہی",
+      "وہی",
+      "معنی",
+      "معنی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "lovers_departed",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Compound radif 'لے کر'. Lovers came and went taking promise of tomorrow. Search with lamp."
+  },
+  {
+    "TEXT_ID": "iqbal_00145",
+    "TOKEN_COUNTS": {
+      "total_tokens": 88,
+      "unique_tokens": 56,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.636,
+    "RADIF": "چھوڑا",
+    "QAAFIYA": [
+      "عربی",
+      "چھوڑا",
+      "چھوڑا",
+      "چھوڑا",
+      "رکھتے",
+      "رکھتے",
+      "سہی",
+      "سہی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "fidelity_question",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چھوڑا'. We left You? Left Arab Messenger? Made idol-worship profession?"
+  },
+  {
+    "TEXT_ID": "iqbal_00146",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "سہی",
+    "QAAFIYA": [
+      "نما",
+      "سہی",
+      "ہے",
+      "ہے",
+      "کامل",
+      "دل",
+      "حاصل",
+      "محفل"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "lost_traditions",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'سہی'. Restless heart like compass no more. Sometimes with us, sometimes strangers."
+  },
+  {
+    "TEXT_ID": "iqbal_00147",
+    "TOKEN_COUNTS": {
+      "total_tokens": 85,
+      "unique_tokens": 54,
+      "lines": 6,
+      "couplets": 3
+    },
+    "TTR": 0.635,
+    "RADIF": "نہ رہا",
+    "QAAFIYA": [
+      "نہیں",
+      "نہیں",
+      "نہ",
+      "نہ",
+      "نہ",
+      "نہ"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "desolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00125. Compound radif 'نہ رہا'. Why breasts not filled with sparks?"
+  },
+  {
+    "TEXT_ID": "iqbal_00148",
+    "TOKEN_COUNTS": {
+      "total_tokens": 102,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "دے",
+    "QAAFIYA": [
+      "بیٹھے",
+      "بیٹھے",
+      "دے",
+      "دے",
+      "حجاز",
+      "پرواز",
+      "نیاز",
+      "ساز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "awaiting_revival",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'دے'. Away from garden clamor, they sit. Give moths desire for self-immolation."
+  },
+  {
+    "TEXT_ID": "iqbal_00149",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "کر دے",
+    "QAAFIYA": [
+      "لیے",
+      "لیے",
+      "آساں",
+      "کر",
+      "ارزاں",
+      "کر",
+      "ما",
+      "ما"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "hope_revival",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00126. Radif 'کر دے'. Melodies restless to emerge. Make love abundant."
+  },
+  {
+    "TEXT_ID": "iqbal_00150",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "چمن",
+    "QAAFIYA": [
+      "چمن",
+      "چمن",
+      "چمن",
+      "چمن",
+      "اب",
+      "اب",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "garden_decay",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چمن'. Scent of flower carried garden's secret. Era of roses ended."
+  },
+  {
+    "TEXT_ID": "iqbal_00151",
+    "TOKEN_COUNTS": {
+      "total_tokens": 95,
+      "unique_tokens": 58,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.61,
+    "RADIF": "کی",
+    "QAAFIYA": [
+      "اس",
+      "اس",
+      "آئینے",
+      "سینے",
+      "نہیں",
+      "نہیں",
+      "ہوں",
+      "ہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "solitary_freedom",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کی'. Nature free from imprisonment of seasons. Pleasure in dying, not living."
+  },
+  {
+    "TEXT_ID": "iqbal_00152",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.632,
+    "RADIF": "ہوں",
+    "QAAFIYA": [
+      "دل",
+      "دل",
+      "مری",
+      "مری",
+      "رہوں",
+      "رہوں",
+      "رہوں",
+      "رہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "revived_hearts",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہوں'. Hearts revived by new era of fidelity. If vessel Persian, wine Hejazi."
+  },
+  {
+    "TEXT_ID": "iqbal_00153",
+    "TOKEN_COUNTS": {
+      "total_tokens": 102,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.627,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "مجھ",
+      "مجھ",
+      "ہیں",
+      "ہیں",
+      "ہم",
+      "ہم",
+      "سن",
+      "سن"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "audacity_complaint",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Power of speech taught audacity. Instruments silent, we filled with lament."
+  },
+  {
+    "TEXT_ID": "iqbal_00154",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.61,
+    "RADIF": "تھی",
+    "QAAFIYA": [
+      "قدیم",
+      "شمیم",
+      "عمیم",
+      "نسیم",
+      "پریشانی",
+      "دیوانی",
+      "منظر",
+      "شجر",
+      "نظر",
+      "کیونکر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "pre_islamic",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00132. Radif 'تھی'. Condition of justice: how would scent spread without breeze?"
+  },
+  {
+    "TEXT_ID": "iqbal_00156",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 82,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.594,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "کی",
+      "کی",
+      "لیے",
+      "لیے",
+      "لیے",
+      "لیے",
+      "مرتی",
+      "کرتی",
+      "تھے",
+      "تھے",
+      "تھے",
+      "تھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_valor",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. Glory of world-rulers didn't fit our eyes. If we lived, for wars we lived."
+  },
+  {
+    "TEXT_ID": "iqbal_00157",
+    "TOKEN_COUNTS": {
+      "total_tokens": 115,
+      "unique_tokens": 70,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.608,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "ہم",
+      "ہم",
+      "کس",
+      "کس",
+      "کس",
+      "کس",
+      "کس",
+      "کس"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_heroism",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. If anyone rebellious, we would be enraged. We impressed monotheism on every heart."
+  },
+  {
+    "TEXT_ID": "iqbal_00158",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.607,
+    "RADIF": "ہوئی",
+    "QAAFIYA": [
+      "گار",
+      "پیکار",
+      "دار",
+      "ہوئی",
+      "تھے",
+      "تھے",
+      "نماز",
+      "حجاز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_awakening",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00137. Radif 'ہوئی'. Which nation became Your seeker?"
+  },
+  {
+    "TEXT_ID": "iqbal_00160",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.612,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہم",
+      "ہم",
+      "نہیں",
+      "نہیں",
+      "ہیں",
+      "ہیں",
+      "پر",
+      "پر"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_service",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. We populated Kaaba with foreheads. Yet You complain we are not loyal."
+  },
+  {
+    "TEXT_ID": "iqbal_00161",
+    "TOKEN_COUNTS": {
+      "total_tokens": 88,
+      "unique_tokens": 56,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.636,
+    "RADIF": "پر",
+    "QAAFIYA": [
+      "کاشانوں",
+      "پر",
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "نہیں",
+      "نہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_plight",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'پر'. Your mercies on rivals' houses. Lightning falls on poor Muslims."
+  },
+  {
+    "TEXT_ID": "iqbal_00163",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "حباب",
+      "سراب",
+      "ناداری",
+      "خواری",
+      "دنیا",
+      "دنیا",
+      "دنیا",
+      "رہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "divine_power",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00142. Radif 'ہے'. If You wish, bubbles rise from desert."
+  },
+  {
+    "TEXT_ID": "iqbal_00164",
+    "TOKEN_COUNTS": {
+      "total_tokens": 125,
+      "unique_tokens": 74,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.592,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "رہے",
+      "رہے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "لے",
+      "لے",
+      "وہی",
+      "وہی"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "name_remains",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. We live that Your name remains. Your assembly gone, lovers gone."
+  },
+  {
+    "TEXT_ID": "iqbal_00165",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "وہی",
+    "QAAFIYA": [
+      "وہی",
+      "وہی",
+      "وہی",
+      "وہی",
+      "معنی",
+      "معنی",
+      "چھوڑا",
+      "چھوڑا"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "eternal_constancy",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00122. Radif 'وہی'. Pain of Laila same, manner of Qais same."
+  },
+  {
+    "TEXT_ID": "iqbal_00166",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.632,
+    "RADIF": "چھوڑا",
+    "QAAFIYA": [
+      "چھوڑا",
+      "چھوڑا",
+      "رکھتے",
+      "رکھتے",
+      "سہی",
+      "سہی",
+      "سہی",
+      "ہے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "fidelity_question",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00145. Radif 'چھوڑا'. Left love, left madness of love."
+  },
+  {
+    "TEXT_ID": "iqbal_00168",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.611,
+    "RADIF": "بیٹھے",
+    "QAAFIYA": [
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے",
+      "دے",
+      "دے",
+      "حجاز",
+      "پرواز"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "awaiting_revival",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'بیٹھے'. Wine-drinkers strangers in garden. Away from clamor, they sit."
+  },
+  {
+    "TEXT_ID": "iqbal_00170",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.629,
+    "RADIF": "چمن",
+    "QAAFIYA": [
+      "چمن",
+      "چمن",
+      "اب",
+      "اب",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں",
+      "ہوئیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "garden_decay",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Partial of iqbal_00150. Radif 'چمن'. Era of roses ended, garden's instrument broke."
+  },
+  {
+    "TEXT_ID": "iqbal_00174",
+    "TOKEN_COUNTS": {
+      "total_tokens": 158,
+      "unique_tokens": 92,
+      "lines": 14,
+      "couplets": 7
+    },
+    "TTR": 0.582,
+    "RADIF": "بھی",
+    "QAAFIYA": [
+      "منظر",
+      "شجر",
+      "نظر",
+      "کیونکر",
+      "ترا",
+      "ترا",
+      "تورانی",
+      "ساسانی",
+      "یونانی",
+      "نصرانی",
+      "کس",
+      "کس",
+      "میں",
+      "دریاؤں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_identity",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA",
+      "GA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'بھی'. Before us strange scene in Your world. Here dwelt Seljuqs and Turanians too."
+  },
+  {
+    "TEXT_ID": "iqbal_00175",
+    "TOKEN_COUNTS": {
+      "total_tokens": 132,
+      "unique_tokens": 78,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.59,
+    "RADIF": "کس نے",
+    "QAAFIYA": [
+      "کس",
+      "کس",
+      "میں",
+      "دریاؤں",
+      "میں",
+      "صحراؤں",
+      "کی",
+      "کی",
+      "لیے",
+      "لیے",
+      "لیے",
+      "لیے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_sacrifice",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'کس نے'. But who raised sword for Your name? We gave calls to prayer in Europe's churches."
+  },
+  {
+    "TEXT_ID": "iqbal_00176",
+    "TOKEN_COUNTS": {
+      "total_tokens": 112,
+      "unique_tokens": 68,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.607,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "لیے",
+      "لیے",
+      "مرتی",
+      "کرتی",
+      "تھے",
+      "تھے",
+      "تھے",
+      "تھے",
+      "ہم",
+      "ہم"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_valor",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. Our sword-fighting not for rule. We would not retreat, in battle fly."
+  },
+  {
+    "TEXT_ID": "iqbal_00178",
+    "TOKEN_COUNTS": {
+      "total_tokens": 138,
+      "unique_tokens": 82,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.594,
+    "RADIF": "تھے",
+    "QAAFIYA": [
+      "تھے",
+      "تھے",
+      "نماز",
+      "حجاز",
+      "ایاز",
+      "نواز",
+      "ہوئے",
+      "ہوئے",
+      "پھرے",
+      "پھرے",
+      "پھرے",
+      "پھرے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_awakening",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'تھے'. By whose awe idols terrified? If prayer time in battle, bowed to earth."
+  },
+  {
+    "TEXT_ID": "iqbal_00180",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.609,
+    "RADIF": "ہیں",
+    "QAAFIYA": [
+      "ہیں",
+      "ہیں",
+      "پر",
+      "پر",
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_plight",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00118. Radif 'ہیں'. Other communities, sinners too."
+  },
+  {
+    "TEXT_ID": "iqbal_00184",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 60,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.612,
+    "RADIF": "چھوڑا",
+    "QAAFIYA": [
+      "معنی",
+      "معنی",
+      "چھوڑا",
+      "چھوڑا",
+      "چھوڑا",
+      "چھوڑا",
+      "رکھتے",
+      "رکھتے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "fidelity_question",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'چھوڑا'. Then what this displeasure without reason? We left You?"
+  },
+  {
+    "TEXT_ID": "iqbal_00186",
+    "TOKEN_COUNTS": {
+      "total_tokens": 102,
+      "unique_tokens": 64,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.627,
+    "RADIF": "نہ رہا",
+    "QAAFIYA": [
+      "سلاسل",
+      "نہ",
+      "نہ",
+      "نہ",
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے",
+      "بیٹھے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "desolation",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہ رہا'. In valley of Najd, clamor of chains no more. Wine-drinkers strangers in garden."
+  },
+  {
+    "TEXT_ID": "iqbal_00188",
+    "TOKEN_COUNTS": {
+      "total_tokens": 98,
+      "unique_tokens": 62,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.632,
+    "RADIF": "ما",
+    "QAAFIYA": [
+      "دیرینۂ",
+      "ما",
+      "چمن",
+      "چمن",
+      "چمن",
+      "چمن",
+      "اب",
+      "اب"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "ancient_longing",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ما'. Stream of blood from ancient longing. Scent carried garden's secret."
+  },
+  {
+    "TEXT_ID": "iqbal_00189",
+    "TOKEN_COUNTS": {
+      "total_tokens": 108,
+      "unique_tokens": 68,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.629,
+    "RADIF": "ہے",
+    "QAAFIYA": [
+      "ہوئیں",
+      "ہوئیں",
+      "اس",
+      "اس",
+      "باقی",
+      "پینے",
+      "آئینے",
+      "سینے"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "garden_decay",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہے'. Old ways of garden desolate. Branches bare of leaves."
+  },
+  {
+    "TEXT_ID": "iqbal_00190",
+    "TOKEN_COUNTS": {
+      "total_tokens": 105,
+      "unique_tokens": 66,
+      "lines": 8,
+      "couplets": 4
+    },
+    "TTR": 0.628,
+    "RADIF": "ہوں",
+    "QAAFIYA": [
+      "دل",
+      "دل",
+      "ہوں",
+      "ہوں",
+      "مری",
+      "مری",
+      "رہوں",
+      "رہوں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "torn_hearts",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA"
+    ],
+    "ANNOTATION_NOTES": "Duplicate of iqbal_00171. Radif 'ہوں'. I am hearts torn by nightingale's song."
+  },
+  {
+    "TEXT_ID": "iqbal_00199",
+    "TOKEN_COUNTS": {
+      "total_tokens": 118,
+      "unique_tokens": 72,
+      "lines": 10,
+      "couplets": 5
+    },
+    "TTR": 0.61,
+    "RADIF": "نہیں",
+    "QAAFIYA": [
+      "گئے",
+      "گئے",
+      "گئے",
+      "گئے",
+      "نہیں",
+      "نہیں",
+      "معمور",
+      "شعور",
+      "قصور",
+      "حور"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "muslim_plight",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'نہیں'. In temples, idols say Muslims gone. Disbelief laughs, do you feel?"
+  },
+  {
+    "TEXT_ID": "iqbal_00203",
+    "TOKEN_COUNTS": {
+      "total_tokens": 132,
+      "unique_tokens": 78,
+      "lines": 12,
+      "couplets": 6
+    },
+    "TTR": 0.59,
+    "RADIF": "ہیں",
+    "QAAFIYA": [
+      "ہیں",
+      "ہیں",
+      "فضائیں",
+      "ہیں",
+      "پر",
+      "ہیں",
+      "غم",
+      "ہیں",
+      "تیرا",
+      "ہیں",
+      "نہ",
+      "ہیں"
+    ],
+    "RADIF_QAAFIYA_VERIFIED": true,
+    "SENTIMENT": "infinite_worlds",
+    "RHYME_PATTERNS": [
+      "AA",
+      "BA",
+      "CA",
+      "DA",
+      "EA",
+      "FA"
+    ],
+    "ANNOTATION_NOTES": "Radif 'ہیں'. Beyond stars, more worlds. You are falcon, flight your destiny."
+  }
+]
